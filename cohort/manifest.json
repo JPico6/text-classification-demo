@@ -1,0 +1,60 @@
+{
+  "source_sha256": {
+    "CCDB_Export_14_November_2025_through_December_2025.csv": "d40ce5a19d4337ad4850e8753ac43f3549fdc793d5784899c61ad8ba6af29f28",
+    "CCDB_Export_8_November_2024_through_December_2024.csv": "2ef7d563bf6283a1282bcfba2d99d72f9bfa4a4617524682de72a9b3fa47bed0"
+  },
+  "near_evidence_sha256": "1fb8c55b8d6da398f01f85032d41ed33d0a9a7033c11867ffe8575c183a52e93",
+  "labels": [
+    "Advertising and marketing, including promotional offers",
+    "Closing your account",
+    "Fees or interest",
+    "Getting a credit card",
+    "Incorrect information on your report",
+    "Other features, terms, or problems",
+    "Problem when making payments",
+    "Problem with a company's investigation into an existing problem",
+    "Problem with a purchase shown on your statement",
+    "Struggling to pay your bill",
+    "Trouble using your card"
+  ],
+  "source_counts": [
+    {
+      "source_file": "CCDB_Export_14_November_2025_through_December_2025.csv",
+      "total_rows": 1009132,
+      "credit_card_rows": 14720,
+      "credit_card_narratives": 6836
+    },
+    {
+      "source_file": "CCDB_Export_8_November_2024_through_December_2024.csv",
+      "total_rows": 591058,
+      "credit_card_rows": 12792,
+      "credit_card_narratives": 5527
+    }
+  ],
+  "eligible_all_15": 12363,
+  "eligible_11": 12226,
+  "rare_label_rows": 137,
+  "graph_scope": "All 15 credit-card narrative labels; rare-label conflicts can quarantine in-scope members.",
+  "near_policy": "All 309 already-identified pairs used as evidence as requested; similarity recomputed, not manually adjudicated.",
+  "tie_break": "Earliest Date received, then smallest numeric Complaint ID on the same day.",
+  "normalization": "lowercase [a-z0-9]+ tokens, joined by spaces, for hashes only; exact strips boundary whitespace for hashes only",
+  "conflict_policy": "Entire connected component quarantined if it has more than one Issue; no representative retained.",
+  "review_records": 68,
+  "checks": {
+    "counts_reconcile": true,
+    "one_representative_per_component": true,
+    "no_normalized_duplicates_in_retained_splits": true,
+    "no_evidence_edge_has_two_retained_endpoints": true,
+    "receipt_split_unchanged": true,
+    "conflicting_groups_fully_quarantined": true,
+    "representatives_are_earliest": true,
+    "raw_narratives_and_labels_preserved": true
+  },
+  "duplicate_component_counts": {
+    "repeated_components_all_labels": 174,
+    "contradictory_components_all_labels": 14,
+    "contradictory_rows_all_labels": 157,
+    "contradictory_rows_in_scope": 156,
+    "duplicate_copies_removed_in_scope": 430
+  }
+}

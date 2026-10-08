@@ -1,0 +1,18 @@
+{
+  "repository": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "wrapper_default_limit": 256,
+  "tokenizer_limit": 512,
+  "encoder_position_limit": 512,
+  "actual_position_tensor_shape": [
+    512,
+    384
+  ],
+  "actual_512_forward_output_shape": [
+    1,
+    512,
+    384
+  ],
+  "positions_resized": false,
+  "complaint_data_accessed": false
+}

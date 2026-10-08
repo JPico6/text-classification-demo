@@ -1,0 +1,1211 @@
+model,true_Issue,predicted_Issue,count
+Epoch 1,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",67
+Epoch 1,"Advertising and marketing, including promotional offers",Closing your account,4
+Epoch 1,"Advertising and marketing, including promotional offers",Fees or interest,39
+Epoch 1,"Advertising and marketing, including promotional offers",Getting a credit card,11
+Epoch 1,"Advertising and marketing, including promotional offers",Incorrect information on your report,1
+Epoch 1,"Advertising and marketing, including promotional offers","Other features, terms, or problems",4
+Epoch 1,"Advertising and marketing, including promotional offers",Problem when making payments,0
+Epoch 1,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 1,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,18
+Epoch 1,"Advertising and marketing, including promotional offers",Struggling to pay your bill,1
+Epoch 1,"Advertising and marketing, including promotional offers",Trouble using your card,6
+Epoch 1,Closing your account,"Advertising and marketing, including promotional offers",0
+Epoch 1,Closing your account,Closing your account,145
+Epoch 1,Closing your account,Fees or interest,25
+Epoch 1,Closing your account,Getting a credit card,12
+Epoch 1,Closing your account,Incorrect information on your report,19
+Epoch 1,Closing your account,"Other features, terms, or problems",0
+Epoch 1,Closing your account,Problem when making payments,7
+Epoch 1,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 1,Closing your account,Problem with a purchase shown on your statement,11
+Epoch 1,Closing your account,Struggling to pay your bill,10
+Epoch 1,Closing your account,Trouble using your card,3
+Epoch 1,Fees or interest,"Advertising and marketing, including promotional offers",1
+Epoch 1,Fees or interest,Closing your account,7
+Epoch 1,Fees or interest,Fees or interest,308
+Epoch 1,Fees or interest,Getting a credit card,6
+Epoch 1,Fees or interest,Incorrect information on your report,11
+Epoch 1,Fees or interest,"Other features, terms, or problems",0
+Epoch 1,Fees or interest,Problem when making payments,7
+Epoch 1,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 1,Fees or interest,Problem with a purchase shown on your statement,12
+Epoch 1,Fees or interest,Struggling to pay your bill,4
+Epoch 1,Fees or interest,Trouble using your card,3
+Epoch 1,Getting a credit card,"Advertising and marketing, including promotional offers",9
+Epoch 1,Getting a credit card,Closing your account,31
+Epoch 1,Getting a credit card,Fees or interest,6
+Epoch 1,Getting a credit card,Getting a credit card,189
+Epoch 1,Getting a credit card,Incorrect information on your report,41
+Epoch 1,Getting a credit card,"Other features, terms, or problems",1
+Epoch 1,Getting a credit card,Problem when making payments,3
+Epoch 1,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 1,Getting a credit card,Problem with a purchase shown on your statement,20
+Epoch 1,Getting a credit card,Struggling to pay your bill,3
+Epoch 1,Getting a credit card,Trouble using your card,7
+Epoch 1,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 1,Incorrect information on your report,Closing your account,6
+Epoch 1,Incorrect information on your report,Fees or interest,5
+Epoch 1,Incorrect information on your report,Getting a credit card,15
+Epoch 1,Incorrect information on your report,Incorrect information on your report,47
+Epoch 1,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 1,Incorrect information on your report,Problem when making payments,7
+Epoch 1,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 1,Incorrect information on your report,Problem with a purchase shown on your statement,2
+Epoch 1,Incorrect information on your report,Struggling to pay your bill,1
+Epoch 1,Incorrect information on your report,Trouble using your card,1
+Epoch 1,"Other features, terms, or problems","Advertising and marketing, including promotional offers",45
+Epoch 1,"Other features, terms, or problems",Closing your account,39
+Epoch 1,"Other features, terms, or problems",Fees or interest,58
+Epoch 1,"Other features, terms, or problems",Getting a credit card,33
+Epoch 1,"Other features, terms, or problems",Incorrect information on your report,32
+Epoch 1,"Other features, terms, or problems","Other features, terms, or problems",7
+Epoch 1,"Other features, terms, or problems",Problem when making payments,26
+Epoch 1,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 1,"Other features, terms, or problems",Problem with a purchase shown on your statement,82
+Epoch 1,"Other features, terms, or problems",Struggling to pay your bill,11
+Epoch 1,"Other features, terms, or problems",Trouble using your card,17
+Epoch 1,Problem when making payments,"Advertising and marketing, including promotional offers",0
+Epoch 1,Problem when making payments,Closing your account,7
+Epoch 1,Problem when making payments,Fees or interest,64
+Epoch 1,Problem when making payments,Getting a credit card,5
+Epoch 1,Problem when making payments,Incorrect information on your report,24
+Epoch 1,Problem when making payments,"Other features, terms, or problems",3
+Epoch 1,Problem when making payments,Problem when making payments,78
+Epoch 1,Problem when making payments,Problem with a company's investigation into an existing problem,0
+Epoch 1,Problem when making payments,Problem with a purchase shown on your statement,13
+Epoch 1,Problem when making payments,Struggling to pay your bill,11
+Epoch 1,Problem when making payments,Trouble using your card,7
+Epoch 1,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 1,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 1,Problem with a company's investigation into an existing problem,Fees or interest,5
+Epoch 1,Problem with a company's investigation into an existing problem,Getting a credit card,5
+Epoch 1,Problem with a company's investigation into an existing problem,Incorrect information on your report,24
+Epoch 1,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 1,Problem with a company's investigation into an existing problem,Problem when making payments,4
+Epoch 1,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 1,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,4
+Epoch 1,Problem with a company's investigation into an existing problem,Struggling to pay your bill,1
+Epoch 1,Problem with a company's investigation into an existing problem,Trouble using your card,2
+Epoch 1,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",2
+Epoch 1,Problem with a purchase shown on your statement,Closing your account,16
+Epoch 1,Problem with a purchase shown on your statement,Fees or interest,87
+Epoch 1,Problem with a purchase shown on your statement,Getting a credit card,15
+Epoch 1,Problem with a purchase shown on your statement,Incorrect information on your report,13
+Epoch 1,Problem with a purchase shown on your statement,"Other features, terms, or problems",2
+Epoch 1,Problem with a purchase shown on your statement,Problem when making payments,11
+Epoch 1,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,0
+Epoch 1,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,624
+Epoch 1,Problem with a purchase shown on your statement,Struggling to pay your bill,8
+Epoch 1,Problem with a purchase shown on your statement,Trouble using your card,4
+Epoch 1,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 1,Struggling to pay your bill,Closing your account,4
+Epoch 1,Struggling to pay your bill,Fees or interest,5
+Epoch 1,Struggling to pay your bill,Getting a credit card,2
+Epoch 1,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 1,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 1,Struggling to pay your bill,Problem when making payments,3
+Epoch 1,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 1,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+Epoch 1,Struggling to pay your bill,Struggling to pay your bill,14
+Epoch 1,Struggling to pay your bill,Trouble using your card,2
+Epoch 1,Trouble using your card,"Advertising and marketing, including promotional offers",4
+Epoch 1,Trouble using your card,Closing your account,11
+Epoch 1,Trouble using your card,Fees or interest,22
+Epoch 1,Trouble using your card,Getting a credit card,12
+Epoch 1,Trouble using your card,Incorrect information on your report,10
+Epoch 1,Trouble using your card,"Other features, terms, or problems",0
+Epoch 1,Trouble using your card,Problem when making payments,11
+Epoch 1,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 1,Trouble using your card,Problem with a purchase shown on your statement,24
+Epoch 1,Trouble using your card,Struggling to pay your bill,7
+Epoch 1,Trouble using your card,Trouble using your card,33
+Epoch 2,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",85
+Epoch 2,"Advertising and marketing, including promotional offers",Closing your account,2
+Epoch 2,"Advertising and marketing, including promotional offers",Fees or interest,33
+Epoch 2,"Advertising and marketing, including promotional offers",Getting a credit card,14
+Epoch 2,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 2,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 2,"Advertising and marketing, including promotional offers",Problem when making payments,3
+Epoch 2,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 2,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,8
+Epoch 2,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 2,"Advertising and marketing, including promotional offers",Trouble using your card,4
+Epoch 2,Closing your account,"Advertising and marketing, including promotional offers",3
+Epoch 2,Closing your account,Closing your account,152
+Epoch 2,Closing your account,Fees or interest,22
+Epoch 2,Closing your account,Getting a credit card,16
+Epoch 2,Closing your account,Incorrect information on your report,14
+Epoch 2,Closing your account,"Other features, terms, or problems",0
+Epoch 2,Closing your account,Problem when making payments,15
+Epoch 2,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 2,Closing your account,Problem with a purchase shown on your statement,6
+Epoch 2,Closing your account,Struggling to pay your bill,2
+Epoch 2,Closing your account,Trouble using your card,2
+Epoch 2,Fees or interest,"Advertising and marketing, including promotional offers",1
+Epoch 2,Fees or interest,Closing your account,6
+Epoch 2,Fees or interest,Fees or interest,299
+Epoch 2,Fees or interest,Getting a credit card,8
+Epoch 2,Fees or interest,Incorrect information on your report,5
+Epoch 2,Fees or interest,"Other features, terms, or problems",0
+Epoch 2,Fees or interest,Problem when making payments,25
+Epoch 2,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 2,Fees or interest,Problem with a purchase shown on your statement,14
+Epoch 2,Fees or interest,Struggling to pay your bill,1
+Epoch 2,Fees or interest,Trouble using your card,0
+Epoch 2,Getting a credit card,"Advertising and marketing, including promotional offers",14
+Epoch 2,Getting a credit card,Closing your account,22
+Epoch 2,Getting a credit card,Fees or interest,5
+Epoch 2,Getting a credit card,Getting a credit card,224
+Epoch 2,Getting a credit card,Incorrect information on your report,21
+Epoch 2,Getting a credit card,"Other features, terms, or problems",0
+Epoch 2,Getting a credit card,Problem when making payments,3
+Epoch 2,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 2,Getting a credit card,Problem with a purchase shown on your statement,15
+Epoch 2,Getting a credit card,Struggling to pay your bill,1
+Epoch 2,Getting a credit card,Trouble using your card,5
+Epoch 2,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 2,Incorrect information on your report,Closing your account,4
+Epoch 2,Incorrect information on your report,Fees or interest,3
+Epoch 2,Incorrect information on your report,Getting a credit card,26
+Epoch 2,Incorrect information on your report,Incorrect information on your report,38
+Epoch 2,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 2,Incorrect information on your report,Problem when making payments,8
+Epoch 2,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 2,Incorrect information on your report,Problem with a purchase shown on your statement,4
+Epoch 2,Incorrect information on your report,Struggling to pay your bill,1
+Epoch 2,Incorrect information on your report,Trouble using your card,0
+Epoch 2,"Other features, terms, or problems","Advertising and marketing, including promotional offers",56
+Epoch 2,"Other features, terms, or problems",Closing your account,38
+Epoch 2,"Other features, terms, or problems",Fees or interest,46
+Epoch 2,"Other features, terms, or problems",Getting a credit card,46
+Epoch 2,"Other features, terms, or problems",Incorrect information on your report,20
+Epoch 2,"Other features, terms, or problems","Other features, terms, or problems",7
+Epoch 2,"Other features, terms, or problems",Problem when making payments,40
+Epoch 2,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 2,"Other features, terms, or problems",Problem with a purchase shown on your statement,81
+Epoch 2,"Other features, terms, or problems",Struggling to pay your bill,3
+Epoch 2,"Other features, terms, or problems",Trouble using your card,13
+Epoch 2,Problem when making payments,"Advertising and marketing, including promotional offers",0
+Epoch 2,Problem when making payments,Closing your account,6
+Epoch 2,Problem when making payments,Fees or interest,51
+Epoch 2,Problem when making payments,Getting a credit card,12
+Epoch 2,Problem when making payments,Incorrect information on your report,10
+Epoch 2,Problem when making payments,"Other features, terms, or problems",1
+Epoch 2,Problem when making payments,Problem when making payments,115
+Epoch 2,Problem when making payments,Problem with a company's investigation into an existing problem,0
+Epoch 2,Problem when making payments,Problem with a purchase shown on your statement,7
+Epoch 2,Problem when making payments,Struggling to pay your bill,5
+Epoch 2,Problem when making payments,Trouble using your card,5
+Epoch 2,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 2,Problem with a company's investigation into an existing problem,Closing your account,2
+Epoch 2,Problem with a company's investigation into an existing problem,Fees or interest,2
+Epoch 2,Problem with a company's investigation into an existing problem,Getting a credit card,10
+Epoch 2,Problem with a company's investigation into an existing problem,Incorrect information on your report,19
+Epoch 2,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 2,Problem with a company's investigation into an existing problem,Problem when making payments,7
+Epoch 2,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 2,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,5
+Epoch 2,Problem with a company's investigation into an existing problem,Struggling to pay your bill,0
+Epoch 2,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 2,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",9
+Epoch 2,Problem with a purchase shown on your statement,Closing your account,13
+Epoch 2,Problem with a purchase shown on your statement,Fees or interest,58
+Epoch 2,Problem with a purchase shown on your statement,Getting a credit card,28
+Epoch 2,Problem with a purchase shown on your statement,Incorrect information on your report,8
+Epoch 2,Problem with a purchase shown on your statement,"Other features, terms, or problems",1
+Epoch 2,Problem with a purchase shown on your statement,Problem when making payments,25
+Epoch 2,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,0
+Epoch 2,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,636
+Epoch 2,Problem with a purchase shown on your statement,Struggling to pay your bill,1
+Epoch 2,Problem with a purchase shown on your statement,Trouble using your card,3
+Epoch 2,Struggling to pay your bill,"Advertising and marketing, including promotional offers",1
+Epoch 2,Struggling to pay your bill,Closing your account,6
+Epoch 2,Struggling to pay your bill,Fees or interest,4
+Epoch 2,Struggling to pay your bill,Getting a credit card,3
+Epoch 2,Struggling to pay your bill,Incorrect information on your report,2
+Epoch 2,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 2,Struggling to pay your bill,Problem when making payments,10
+Epoch 2,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 2,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+Epoch 2,Struggling to pay your bill,Struggling to pay your bill,7
+Epoch 2,Struggling to pay your bill,Trouble using your card,2
+Epoch 2,Trouble using your card,"Advertising and marketing, including promotional offers",2
+Epoch 2,Trouble using your card,Closing your account,8
+Epoch 2,Trouble using your card,Fees or interest,13
+Epoch 2,Trouble using your card,Getting a credit card,22
+Epoch 2,Trouble using your card,Incorrect information on your report,3
+Epoch 2,Trouble using your card,"Other features, terms, or problems",0
+Epoch 2,Trouble using your card,Problem when making payments,24
+Epoch 2,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 2,Trouble using your card,Problem with a purchase shown on your statement,22
+Epoch 2,Trouble using your card,Struggling to pay your bill,0
+Epoch 2,Trouble using your card,Trouble using your card,40
+Epoch 3,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",91
+Epoch 3,"Advertising and marketing, including promotional offers",Closing your account,2
+Epoch 3,"Advertising and marketing, including promotional offers",Fees or interest,32
+Epoch 3,"Advertising and marketing, including promotional offers",Getting a credit card,8
+Epoch 3,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 3,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 3,"Advertising and marketing, including promotional offers",Problem when making payments,1
+Epoch 3,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 3,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,9
+Epoch 3,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 3,"Advertising and marketing, including promotional offers",Trouble using your card,6
+Epoch 3,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 3,Closing your account,Closing your account,150
+Epoch 3,Closing your account,Fees or interest,18
+Epoch 3,Closing your account,Getting a credit card,14
+Epoch 3,Closing your account,Incorrect information on your report,18
+Epoch 3,Closing your account,"Other features, terms, or problems",0
+Epoch 3,Closing your account,Problem when making payments,11
+Epoch 3,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 3,Closing your account,Problem with a purchase shown on your statement,10
+Epoch 3,Closing your account,Struggling to pay your bill,3
+Epoch 3,Closing your account,Trouble using your card,4
+Epoch 3,Fees or interest,"Advertising and marketing, including promotional offers",3
+Epoch 3,Fees or interest,Closing your account,6
+Epoch 3,Fees or interest,Fees or interest,289
+Epoch 3,Fees or interest,Getting a credit card,6
+Epoch 3,Fees or interest,Incorrect information on your report,6
+Epoch 3,Fees or interest,"Other features, terms, or problems",1
+Epoch 3,Fees or interest,Problem when making payments,23
+Epoch 3,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 3,Fees or interest,Problem with a purchase shown on your statement,20
+Epoch 3,Fees or interest,Struggling to pay your bill,4
+Epoch 3,Fees or interest,Trouble using your card,1
+Epoch 3,Getting a credit card,"Advertising and marketing, including promotional offers",15
+Epoch 3,Getting a credit card,Closing your account,15
+Epoch 3,Getting a credit card,Fees or interest,4
+Epoch 3,Getting a credit card,Getting a credit card,216
+Epoch 3,Getting a credit card,Incorrect information on your report,33
+Epoch 3,Getting a credit card,"Other features, terms, or problems",0
+Epoch 3,Getting a credit card,Problem when making payments,1
+Epoch 3,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 3,Getting a credit card,Problem with a purchase shown on your statement,16
+Epoch 3,Getting a credit card,Struggling to pay your bill,1
+Epoch 3,Getting a credit card,Trouble using your card,9
+Epoch 3,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 3,Incorrect information on your report,Closing your account,4
+Epoch 3,Incorrect information on your report,Fees or interest,2
+Epoch 3,Incorrect information on your report,Getting a credit card,22
+Epoch 3,Incorrect information on your report,Incorrect information on your report,43
+Epoch 3,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 3,Incorrect information on your report,Problem when making payments,9
+Epoch 3,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 3,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 3,Incorrect information on your report,Struggling to pay your bill,0
+Epoch 3,Incorrect information on your report,Trouble using your card,1
+Epoch 3,"Other features, terms, or problems","Advertising and marketing, including promotional offers",62
+Epoch 3,"Other features, terms, or problems",Closing your account,32
+Epoch 3,"Other features, terms, or problems",Fees or interest,43
+Epoch 3,"Other features, terms, or problems",Getting a credit card,33
+Epoch 3,"Other features, terms, or problems",Incorrect information on your report,28
+Epoch 3,"Other features, terms, or problems","Other features, terms, or problems",4
+Epoch 3,"Other features, terms, or problems",Problem when making payments,41
+Epoch 3,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 3,"Other features, terms, or problems",Problem with a purchase shown on your statement,84
+Epoch 3,"Other features, terms, or problems",Struggling to pay your bill,3
+Epoch 3,"Other features, terms, or problems",Trouble using your card,20
+Epoch 3,Problem when making payments,"Advertising and marketing, including promotional offers",3
+Epoch 3,Problem when making payments,Closing your account,5
+Epoch 3,Problem when making payments,Fees or interest,47
+Epoch 3,Problem when making payments,Getting a credit card,9
+Epoch 3,Problem when making payments,Incorrect information on your report,14
+Epoch 3,Problem when making payments,"Other features, terms, or problems",1
+Epoch 3,Problem when making payments,Problem when making payments,109
+Epoch 3,Problem when making payments,Problem with a company's investigation into an existing problem,0
+Epoch 3,Problem when making payments,Problem with a purchase shown on your statement,9
+Epoch 3,Problem when making payments,Struggling to pay your bill,6
+Epoch 3,Problem when making payments,Trouble using your card,9
+Epoch 3,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 3,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 3,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 3,Problem with a company's investigation into an existing problem,Getting a credit card,6
+Epoch 3,Problem with a company's investigation into an existing problem,Incorrect information on your report,27
+Epoch 3,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 3,Problem with a company's investigation into an existing problem,Problem when making payments,4
+Epoch 3,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 3,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,6
+Epoch 3,Problem with a company's investigation into an existing problem,Struggling to pay your bill,0
+Epoch 3,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 3,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",7
+Epoch 3,Problem with a purchase shown on your statement,Closing your account,12
+Epoch 3,Problem with a purchase shown on your statement,Fees or interest,42
+Epoch 3,Problem with a purchase shown on your statement,Getting a credit card,19
+Epoch 3,Problem with a purchase shown on your statement,Incorrect information on your report,11
+Epoch 3,Problem with a purchase shown on your statement,"Other features, terms, or problems",1
+Epoch 3,Problem with a purchase shown on your statement,Problem when making payments,20
+Epoch 3,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,0
+Epoch 3,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,662
+Epoch 3,Problem with a purchase shown on your statement,Struggling to pay your bill,3
+Epoch 3,Problem with a purchase shown on your statement,Trouble using your card,5
+Epoch 3,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 3,Struggling to pay your bill,Closing your account,6
+Epoch 3,Struggling to pay your bill,Fees or interest,4
+Epoch 3,Struggling to pay your bill,Getting a credit card,2
+Epoch 3,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 3,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 3,Struggling to pay your bill,Problem when making payments,8
+Epoch 3,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 3,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+Epoch 3,Struggling to pay your bill,Struggling to pay your bill,8
+Epoch 3,Struggling to pay your bill,Trouble using your card,2
+Epoch 3,Trouble using your card,"Advertising and marketing, including promotional offers",2
+Epoch 3,Trouble using your card,Closing your account,8
+Epoch 3,Trouble using your card,Fees or interest,10
+Epoch 3,Trouble using your card,Getting a credit card,11
+Epoch 3,Trouble using your card,Incorrect information on your report,5
+Epoch 3,Trouble using your card,"Other features, terms, or problems",1
+Epoch 3,Trouble using your card,Problem when making payments,20
+Epoch 3,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 3,Trouble using your card,Problem with a purchase shown on your statement,18
+Epoch 3,Trouble using your card,Struggling to pay your bill,0
+Epoch 3,Trouble using your card,Trouble using your card,59
+Epoch 4,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",94
+Epoch 4,"Advertising and marketing, including promotional offers",Closing your account,3
+Epoch 4,"Advertising and marketing, including promotional offers",Fees or interest,23
+Epoch 4,"Advertising and marketing, including promotional offers",Getting a credit card,11
+Epoch 4,"Advertising and marketing, including promotional offers",Incorrect information on your report,3
+Epoch 4,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 4,"Advertising and marketing, including promotional offers",Problem when making payments,3
+Epoch 4,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 4,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,6
+Epoch 4,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 4,"Advertising and marketing, including promotional offers",Trouble using your card,8
+Epoch 4,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 4,Closing your account,Closing your account,152
+Epoch 4,Closing your account,Fees or interest,14
+Epoch 4,Closing your account,Getting a credit card,13
+Epoch 4,Closing your account,Incorrect information on your report,20
+Epoch 4,Closing your account,"Other features, terms, or problems",0
+Epoch 4,Closing your account,Problem when making payments,14
+Epoch 4,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 4,Closing your account,Problem with a purchase shown on your statement,7
+Epoch 4,Closing your account,Struggling to pay your bill,2
+Epoch 4,Closing your account,Trouble using your card,6
+Epoch 4,Fees or interest,"Advertising and marketing, including promotional offers",8
+Epoch 4,Fees or interest,Closing your account,6
+Epoch 4,Fees or interest,Fees or interest,274
+Epoch 4,Fees or interest,Getting a credit card,8
+Epoch 4,Fees or interest,Incorrect information on your report,8
+Epoch 4,Fees or interest,"Other features, terms, or problems",0
+Epoch 4,Fees or interest,Problem when making payments,31
+Epoch 4,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 4,Fees or interest,Problem with a purchase shown on your statement,17
+Epoch 4,Fees or interest,Struggling to pay your bill,6
+Epoch 4,Fees or interest,Trouble using your card,1
+Epoch 4,Getting a credit card,"Advertising and marketing, including promotional offers",15
+Epoch 4,Getting a credit card,Closing your account,10
+Epoch 4,Getting a credit card,Fees or interest,3
+Epoch 4,Getting a credit card,Getting a credit card,221
+Epoch 4,Getting a credit card,Incorrect information on your report,42
+Epoch 4,Getting a credit card,"Other features, terms, or problems",0
+Epoch 4,Getting a credit card,Problem when making payments,1
+Epoch 4,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 4,Getting a credit card,Problem with a purchase shown on your statement,12
+Epoch 4,Getting a credit card,Struggling to pay your bill,1
+Epoch 4,Getting a credit card,Trouble using your card,5
+Epoch 4,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 4,Incorrect information on your report,Closing your account,3
+Epoch 4,Incorrect information on your report,Fees or interest,2
+Epoch 4,Incorrect information on your report,Getting a credit card,17
+Epoch 4,Incorrect information on your report,Incorrect information on your report,48
+Epoch 4,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 4,Incorrect information on your report,Problem when making payments,10
+Epoch 4,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 4,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 4,Incorrect information on your report,Struggling to pay your bill,1
+Epoch 4,Incorrect information on your report,Trouble using your card,0
+Epoch 4,"Other features, terms, or problems","Advertising and marketing, including promotional offers",72
+Epoch 4,"Other features, terms, or problems",Closing your account,30
+Epoch 4,"Other features, terms, or problems",Fees or interest,34
+Epoch 4,"Other features, terms, or problems",Getting a credit card,37
+Epoch 4,"Other features, terms, or problems",Incorrect information on your report,29
+Epoch 4,"Other features, terms, or problems","Other features, terms, or problems",2
+Epoch 4,"Other features, terms, or problems",Problem when making payments,47
+Epoch 4,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 4,"Other features, terms, or problems",Problem with a purchase shown on your statement,69
+Epoch 4,"Other features, terms, or problems",Struggling to pay your bill,4
+Epoch 4,"Other features, terms, or problems",Trouble using your card,26
+Epoch 4,Problem when making payments,"Advertising and marketing, including promotional offers",4
+Epoch 4,Problem when making payments,Closing your account,3
+Epoch 4,Problem when making payments,Fees or interest,38
+Epoch 4,Problem when making payments,Getting a credit card,8
+Epoch 4,Problem when making payments,Incorrect information on your report,18
+Epoch 4,Problem when making payments,"Other features, terms, or problems",0
+Epoch 4,Problem when making payments,Problem when making payments,114
+Epoch 4,Problem when making payments,Problem with a company's investigation into an existing problem,0
+Epoch 4,Problem when making payments,Problem with a purchase shown on your statement,7
+Epoch 4,Problem when making payments,Struggling to pay your bill,8
+Epoch 4,Problem when making payments,Trouble using your card,12
+Epoch 4,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 4,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 4,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 4,Problem with a company's investigation into an existing problem,Getting a credit card,6
+Epoch 4,Problem with a company's investigation into an existing problem,Incorrect information on your report,27
+Epoch 4,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 4,Problem with a company's investigation into an existing problem,Problem when making payments,4
+Epoch 4,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 4,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,6
+Epoch 4,Problem with a company's investigation into an existing problem,Struggling to pay your bill,0
+Epoch 4,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 4,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",8
+Epoch 4,Problem with a purchase shown on your statement,Closing your account,9
+Epoch 4,Problem with a purchase shown on your statement,Fees or interest,36
+Epoch 4,Problem with a purchase shown on your statement,Getting a credit card,20
+Epoch 4,Problem with a purchase shown on your statement,Incorrect information on your report,14
+Epoch 4,Problem with a purchase shown on your statement,"Other features, terms, or problems",3
+Epoch 4,Problem with a purchase shown on your statement,Problem when making payments,29
+Epoch 4,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,1
+Epoch 4,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,652
+Epoch 4,Problem with a purchase shown on your statement,Struggling to pay your bill,2
+Epoch 4,Problem with a purchase shown on your statement,Trouble using your card,8
+Epoch 4,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 4,Struggling to pay your bill,Closing your account,5
+Epoch 4,Struggling to pay your bill,Fees or interest,3
+Epoch 4,Struggling to pay your bill,Getting a credit card,2
+Epoch 4,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 4,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 4,Struggling to pay your bill,Problem when making payments,7
+Epoch 4,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 4,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+Epoch 4,Struggling to pay your bill,Struggling to pay your bill,11
+Epoch 4,Struggling to pay your bill,Trouble using your card,2
+Epoch 4,Trouble using your card,"Advertising and marketing, including promotional offers",3
+Epoch 4,Trouble using your card,Closing your account,9
+Epoch 4,Trouble using your card,Fees or interest,6
+Epoch 4,Trouble using your card,Getting a credit card,12
+Epoch 4,Trouble using your card,Incorrect information on your report,4
+Epoch 4,Trouble using your card,"Other features, terms, or problems",0
+Epoch 4,Trouble using your card,Problem when making payments,22
+Epoch 4,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 4,Trouble using your card,Problem with a purchase shown on your statement,12
+Epoch 4,Trouble using your card,Struggling to pay your bill,0
+Epoch 4,Trouble using your card,Trouble using your card,66
+Epoch 5,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",89
+Epoch 5,"Advertising and marketing, including promotional offers",Closing your account,2
+Epoch 5,"Advertising and marketing, including promotional offers",Fees or interest,26
+Epoch 5,"Advertising and marketing, including promotional offers",Getting a credit card,14
+Epoch 5,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 5,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 5,"Advertising and marketing, including promotional offers",Problem when making payments,1
+Epoch 5,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 5,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,6
+Epoch 5,"Advertising and marketing, including promotional offers",Struggling to pay your bill,1
+Epoch 5,"Advertising and marketing, including promotional offers",Trouble using your card,10
+Epoch 5,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 5,Closing your account,Closing your account,165
+Epoch 5,Closing your account,Fees or interest,8
+Epoch 5,Closing your account,Getting a credit card,15
+Epoch 5,Closing your account,Incorrect information on your report,17
+Epoch 5,Closing your account,"Other features, terms, or problems",0
+Epoch 5,Closing your account,Problem when making payments,8
+Epoch 5,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 5,Closing your account,Problem with a purchase shown on your statement,5
+Epoch 5,Closing your account,Struggling to pay your bill,3
+Epoch 5,Closing your account,Trouble using your card,7
+Epoch 5,Fees or interest,"Advertising and marketing, including promotional offers",7
+Epoch 5,Fees or interest,Closing your account,10
+Epoch 5,Fees or interest,Fees or interest,269
+Epoch 5,Fees or interest,Getting a credit card,8
+Epoch 5,Fees or interest,Incorrect information on your report,7
+Epoch 5,Fees or interest,"Other features, terms, or problems",0
+Epoch 5,Fees or interest,Problem when making payments,28
+Epoch 5,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 5,Fees or interest,Problem with a purchase shown on your statement,20
+Epoch 5,Fees or interest,Struggling to pay your bill,7
+Epoch 5,Fees or interest,Trouble using your card,3
+Epoch 5,Getting a credit card,"Advertising and marketing, including promotional offers",12
+Epoch 5,Getting a credit card,Closing your account,10
+Epoch 5,Getting a credit card,Fees or interest,3
+Epoch 5,Getting a credit card,Getting a credit card,227
+Epoch 5,Getting a credit card,Incorrect information on your report,41
+Epoch 5,Getting a credit card,"Other features, terms, or problems",0
+Epoch 5,Getting a credit card,Problem when making payments,1
+Epoch 5,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 5,Getting a credit card,Problem with a purchase shown on your statement,11
+Epoch 5,Getting a credit card,Struggling to pay your bill,0
+Epoch 5,Getting a credit card,Trouble using your card,5
+Epoch 5,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 5,Incorrect information on your report,Closing your account,4
+Epoch 5,Incorrect information on your report,Fees or interest,2
+Epoch 5,Incorrect information on your report,Getting a credit card,21
+Epoch 5,Incorrect information on your report,Incorrect information on your report,46
+Epoch 5,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 5,Incorrect information on your report,Problem when making payments,8
+Epoch 5,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 5,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 5,Incorrect information on your report,Struggling to pay your bill,0
+Epoch 5,Incorrect information on your report,Trouble using your card,0
+Epoch 5,"Other features, terms, or problems","Advertising and marketing, including promotional offers",65
+Epoch 5,"Other features, terms, or problems",Closing your account,32
+Epoch 5,"Other features, terms, or problems",Fees or interest,31
+Epoch 5,"Other features, terms, or problems",Getting a credit card,43
+Epoch 5,"Other features, terms, or problems",Incorrect information on your report,27
+Epoch 5,"Other features, terms, or problems","Other features, terms, or problems",2
+Epoch 5,"Other features, terms, or problems",Problem when making payments,46
+Epoch 5,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 5,"Other features, terms, or problems",Problem with a purchase shown on your statement,73
+Epoch 5,"Other features, terms, or problems",Struggling to pay your bill,4
+Epoch 5,"Other features, terms, or problems",Trouble using your card,27
+Epoch 5,Problem when making payments,"Advertising and marketing, including promotional offers",2
+Epoch 5,Problem when making payments,Closing your account,7
+Epoch 5,Problem when making payments,Fees or interest,33
+Epoch 5,Problem when making payments,Getting a credit card,9
+Epoch 5,Problem when making payments,Incorrect information on your report,16
+Epoch 5,Problem when making payments,"Other features, terms, or problems",1
+Epoch 5,Problem when making payments,Problem when making payments,111
+Epoch 5,Problem when making payments,Problem with a company's investigation into an existing problem,0
+Epoch 5,Problem when making payments,Problem with a purchase shown on your statement,11
+Epoch 5,Problem when making payments,Struggling to pay your bill,10
+Epoch 5,Problem when making payments,Trouble using your card,12
+Epoch 5,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 5,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 5,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 5,Problem with a company's investigation into an existing problem,Getting a credit card,7
+Epoch 5,Problem with a company's investigation into an existing problem,Incorrect information on your report,25
+Epoch 5,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 5,Problem with a company's investigation into an existing problem,Problem when making payments,3
+Epoch 5,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 5,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,7
+Epoch 5,Problem with a company's investigation into an existing problem,Struggling to pay your bill,1
+Epoch 5,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 5,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",7
+Epoch 5,Problem with a purchase shown on your statement,Closing your account,11
+Epoch 5,Problem with a purchase shown on your statement,Fees or interest,35
+Epoch 5,Problem with a purchase shown on your statement,Getting a credit card,20
+Epoch 5,Problem with a purchase shown on your statement,Incorrect information on your report,12
+Epoch 5,Problem with a purchase shown on your statement,"Other features, terms, or problems",2
+Epoch 5,Problem with a purchase shown on your statement,Problem when making payments,24
+Epoch 5,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,0
+Epoch 5,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,659
+Epoch 5,Problem with a purchase shown on your statement,Struggling to pay your bill,3
+Epoch 5,Problem with a purchase shown on your statement,Trouble using your card,9
+Epoch 5,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 5,Struggling to pay your bill,Closing your account,7
+Epoch 5,Struggling to pay your bill,Fees or interest,3
+Epoch 5,Struggling to pay your bill,Getting a credit card,3
+Epoch 5,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 5,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 5,Struggling to pay your bill,Problem when making payments,5
+Epoch 5,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 5,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+Epoch 5,Struggling to pay your bill,Struggling to pay your bill,10
+Epoch 5,Struggling to pay your bill,Trouble using your card,2
+Epoch 5,Trouble using your card,"Advertising and marketing, including promotional offers",1
+Epoch 5,Trouble using your card,Closing your account,12
+Epoch 5,Trouble using your card,Fees or interest,7
+Epoch 5,Trouble using your card,Getting a credit card,11
+Epoch 5,Trouble using your card,Incorrect information on your report,4
+Epoch 5,Trouble using your card,"Other features, terms, or problems",0
+Epoch 5,Trouble using your card,Problem when making payments,19
+Epoch 5,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 5,Trouble using your card,Problem with a purchase shown on your statement,13
+Epoch 5,Trouble using your card,Struggling to pay your bill,0
+Epoch 5,Trouble using your card,Trouble using your card,67
+Epoch 6,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",93
+Epoch 6,"Advertising and marketing, including promotional offers",Closing your account,3
+Epoch 6,"Advertising and marketing, including promotional offers",Fees or interest,23
+Epoch 6,"Advertising and marketing, including promotional offers",Getting a credit card,11
+Epoch 6,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 6,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 6,"Advertising and marketing, including promotional offers",Problem when making payments,1
+Epoch 6,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 6,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,8
+Epoch 6,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 6,"Advertising and marketing, including promotional offers",Trouble using your card,10
+Epoch 6,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 6,Closing your account,Closing your account,161
+Epoch 6,Closing your account,Fees or interest,7
+Epoch 6,Closing your account,Getting a credit card,13
+Epoch 6,Closing your account,Incorrect information on your report,21
+Epoch 6,Closing your account,"Other features, terms, or problems",1
+Epoch 6,Closing your account,Problem when making payments,9
+Epoch 6,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 6,Closing your account,Problem with a purchase shown on your statement,9
+Epoch 6,Closing your account,Struggling to pay your bill,1
+Epoch 6,Closing your account,Trouble using your card,6
+Epoch 6,Fees or interest,"Advertising and marketing, including promotional offers",9
+Epoch 6,Fees or interest,Closing your account,9
+Epoch 6,Fees or interest,Fees or interest,271
+Epoch 6,Fees or interest,Getting a credit card,6
+Epoch 6,Fees or interest,Incorrect information on your report,6
+Epoch 6,Fees or interest,"Other features, terms, or problems",1
+Epoch 6,Fees or interest,Problem when making payments,29
+Epoch 6,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 6,Fees or interest,Problem with a purchase shown on your statement,23
+Epoch 6,Fees or interest,Struggling to pay your bill,4
+Epoch 6,Fees or interest,Trouble using your card,1
+Epoch 6,Getting a credit card,"Advertising and marketing, including promotional offers",12
+Epoch 6,Getting a credit card,Closing your account,11
+Epoch 6,Getting a credit card,Fees or interest,3
+Epoch 6,Getting a credit card,Getting a credit card,222
+Epoch 6,Getting a credit card,Incorrect information on your report,42
+Epoch 6,Getting a credit card,"Other features, terms, or problems",0
+Epoch 6,Getting a credit card,Problem when making payments,1
+Epoch 6,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 6,Getting a credit card,Problem with a purchase shown on your statement,13
+Epoch 6,Getting a credit card,Struggling to pay your bill,1
+Epoch 6,Getting a credit card,Trouble using your card,5
+Epoch 6,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 6,Incorrect information on your report,Closing your account,3
+Epoch 6,Incorrect information on your report,Fees or interest,2
+Epoch 6,Incorrect information on your report,Getting a credit card,19
+Epoch 6,Incorrect information on your report,Incorrect information on your report,47
+Epoch 6,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 6,Incorrect information on your report,Problem when making payments,10
+Epoch 6,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 6,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 6,Incorrect information on your report,Struggling to pay your bill,0
+Epoch 6,Incorrect information on your report,Trouble using your card,0
+Epoch 6,"Other features, terms, or problems","Advertising and marketing, including promotional offers",67
+Epoch 6,"Other features, terms, or problems",Closing your account,31
+Epoch 6,"Other features, terms, or problems",Fees or interest,31
+Epoch 6,"Other features, terms, or problems",Getting a credit card,33
+Epoch 6,"Other features, terms, or problems",Incorrect information on your report,30
+Epoch 6,"Other features, terms, or problems","Other features, terms, or problems",3
+Epoch 6,"Other features, terms, or problems",Problem when making payments,45
+Epoch 6,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 6,"Other features, terms, or problems",Problem with a purchase shown on your statement,77
+Epoch 6,"Other features, terms, or problems",Struggling to pay your bill,4
+Epoch 6,"Other features, terms, or problems",Trouble using your card,29
+Epoch 6,Problem when making payments,"Advertising and marketing, including promotional offers",2
+Epoch 6,Problem when making payments,Closing your account,4
+Epoch 6,Problem when making payments,Fees or interest,31
+Epoch 6,Problem when making payments,Getting a credit card,6
+Epoch 6,Problem when making payments,Incorrect information on your report,16
+Epoch 6,Problem when making payments,"Other features, terms, or problems",1
+Epoch 6,Problem when making payments,Problem when making payments,115
+Epoch 6,Problem when making payments,Problem with a company's investigation into an existing problem,1
+Epoch 6,Problem when making payments,Problem with a purchase shown on your statement,13
+Epoch 6,Problem when making payments,Struggling to pay your bill,8
+Epoch 6,Problem when making payments,Trouble using your card,15
+Epoch 6,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 6,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 6,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 6,Problem with a company's investigation into an existing problem,Getting a credit card,6
+Epoch 6,Problem with a company's investigation into an existing problem,Incorrect information on your report,27
+Epoch 6,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 6,Problem with a company's investigation into an existing problem,Problem when making payments,3
+Epoch 6,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 6,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,6
+Epoch 6,Problem with a company's investigation into an existing problem,Struggling to pay your bill,1
+Epoch 6,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 6,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",6
+Epoch 6,Problem with a purchase shown on your statement,Closing your account,12
+Epoch 6,Problem with a purchase shown on your statement,Fees or interest,36
+Epoch 6,Problem with a purchase shown on your statement,Getting a credit card,15
+Epoch 6,Problem with a purchase shown on your statement,Incorrect information on your report,10
+Epoch 6,Problem with a purchase shown on your statement,"Other features, terms, or problems",3
+Epoch 6,Problem with a purchase shown on your statement,Problem when making payments,24
+Epoch 6,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,1
+Epoch 6,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,664
+Epoch 6,Problem with a purchase shown on your statement,Struggling to pay your bill,2
+Epoch 6,Problem with a purchase shown on your statement,Trouble using your card,9
+Epoch 6,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 6,Struggling to pay your bill,Closing your account,6
+Epoch 6,Struggling to pay your bill,Fees or interest,3
+Epoch 6,Struggling to pay your bill,Getting a credit card,1
+Epoch 6,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 6,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 6,Struggling to pay your bill,Problem when making payments,7
+Epoch 6,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 6,Struggling to pay your bill,Problem with a purchase shown on your statement,1
+Epoch 6,Struggling to pay your bill,Struggling to pay your bill,9
+Epoch 6,Struggling to pay your bill,Trouble using your card,3
+Epoch 6,Trouble using your card,"Advertising and marketing, including promotional offers",1
+Epoch 6,Trouble using your card,Closing your account,11
+Epoch 6,Trouble using your card,Fees or interest,6
+Epoch 6,Trouble using your card,Getting a credit card,10
+Epoch 6,Trouble using your card,Incorrect information on your report,4
+Epoch 6,Trouble using your card,"Other features, terms, or problems",0
+Epoch 6,Trouble using your card,Problem when making payments,19
+Epoch 6,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 6,Trouble using your card,Problem with a purchase shown on your statement,14
+Epoch 6,Trouble using your card,Struggling to pay your bill,0
+Epoch 6,Trouble using your card,Trouble using your card,69
+Epoch 7,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",96
+Epoch 7,"Advertising and marketing, including promotional offers",Closing your account,2
+Epoch 7,"Advertising and marketing, including promotional offers",Fees or interest,25
+Epoch 7,"Advertising and marketing, including promotional offers",Getting a credit card,11
+Epoch 7,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 7,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 7,"Advertising and marketing, including promotional offers",Problem when making payments,1
+Epoch 7,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 7,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,6
+Epoch 7,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 7,"Advertising and marketing, including promotional offers",Trouble using your card,8
+Epoch 7,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 7,Closing your account,Closing your account,155
+Epoch 7,Closing your account,Fees or interest,12
+Epoch 7,Closing your account,Getting a credit card,15
+Epoch 7,Closing your account,Incorrect information on your report,19
+Epoch 7,Closing your account,"Other features, terms, or problems",2
+Epoch 7,Closing your account,Problem when making payments,9
+Epoch 7,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 7,Closing your account,Problem with a purchase shown on your statement,9
+Epoch 7,Closing your account,Struggling to pay your bill,2
+Epoch 7,Closing your account,Trouble using your card,5
+Epoch 7,Fees or interest,"Advertising and marketing, including promotional offers",12
+Epoch 7,Fees or interest,Closing your account,9
+Epoch 7,Fees or interest,Fees or interest,272
+Epoch 7,Fees or interest,Getting a credit card,3
+Epoch 7,Fees or interest,Incorrect information on your report,6
+Epoch 7,Fees or interest,"Other features, terms, or problems",3
+Epoch 7,Fees or interest,Problem when making payments,25
+Epoch 7,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 7,Fees or interest,Problem with a purchase shown on your statement,22
+Epoch 7,Fees or interest,Struggling to pay your bill,5
+Epoch 7,Fees or interest,Trouble using your card,2
+Epoch 7,Getting a credit card,"Advertising and marketing, including promotional offers",13
+Epoch 7,Getting a credit card,Closing your account,9
+Epoch 7,Getting a credit card,Fees or interest,3
+Epoch 7,Getting a credit card,Getting a credit card,223
+Epoch 7,Getting a credit card,Incorrect information on your report,42
+Epoch 7,Getting a credit card,"Other features, terms, or problems",0
+Epoch 7,Getting a credit card,Problem when making payments,1
+Epoch 7,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 7,Getting a credit card,Problem with a purchase shown on your statement,13
+Epoch 7,Getting a credit card,Struggling to pay your bill,1
+Epoch 7,Getting a credit card,Trouble using your card,5
+Epoch 7,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 7,Incorrect information on your report,Closing your account,3
+Epoch 7,Incorrect information on your report,Fees or interest,2
+Epoch 7,Incorrect information on your report,Getting a credit card,21
+Epoch 7,Incorrect information on your report,Incorrect information on your report,45
+Epoch 7,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 7,Incorrect information on your report,Problem when making payments,10
+Epoch 7,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 7,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 7,Incorrect information on your report,Struggling to pay your bill,0
+Epoch 7,Incorrect information on your report,Trouble using your card,0
+Epoch 7,"Other features, terms, or problems","Advertising and marketing, including promotional offers",69
+Epoch 7,"Other features, terms, or problems",Closing your account,29
+Epoch 7,"Other features, terms, or problems",Fees or interest,31
+Epoch 7,"Other features, terms, or problems",Getting a credit card,31
+Epoch 7,"Other features, terms, or problems",Incorrect information on your report,29
+Epoch 7,"Other features, terms, or problems","Other features, terms, or problems",3
+Epoch 7,"Other features, terms, or problems",Problem when making payments,46
+Epoch 7,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 7,"Other features, terms, or problems",Problem with a purchase shown on your statement,76
+Epoch 7,"Other features, terms, or problems",Struggling to pay your bill,5
+Epoch 7,"Other features, terms, or problems",Trouble using your card,31
+Epoch 7,Problem when making payments,"Advertising and marketing, including promotional offers",4
+Epoch 7,Problem when making payments,Closing your account,4
+Epoch 7,Problem when making payments,Fees or interest,31
+Epoch 7,Problem when making payments,Getting a credit card,7
+Epoch 7,Problem when making payments,Incorrect information on your report,15
+Epoch 7,Problem when making payments,"Other features, terms, or problems",0
+Epoch 7,Problem when making payments,Problem when making payments,113
+Epoch 7,Problem when making payments,Problem with a company's investigation into an existing problem,1
+Epoch 7,Problem when making payments,Problem with a purchase shown on your statement,13
+Epoch 7,Problem when making payments,Struggling to pay your bill,9
+Epoch 7,Problem when making payments,Trouble using your card,15
+Epoch 7,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 7,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 7,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 7,Problem with a company's investigation into an existing problem,Getting a credit card,7
+Epoch 7,Problem with a company's investigation into an existing problem,Incorrect information on your report,24
+Epoch 7,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 7,Problem with a company's investigation into an existing problem,Problem when making payments,3
+Epoch 7,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 7,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,8
+Epoch 7,Problem with a company's investigation into an existing problem,Struggling to pay your bill,1
+Epoch 7,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 7,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",8
+Epoch 7,Problem with a purchase shown on your statement,Closing your account,9
+Epoch 7,Problem with a purchase shown on your statement,Fees or interest,37
+Epoch 7,Problem with a purchase shown on your statement,Getting a credit card,16
+Epoch 7,Problem with a purchase shown on your statement,Incorrect information on your report,9
+Epoch 7,Problem with a purchase shown on your statement,"Other features, terms, or problems",3
+Epoch 7,Problem with a purchase shown on your statement,Problem when making payments,26
+Epoch 7,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,1
+Epoch 7,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,661
+Epoch 7,Problem with a purchase shown on your statement,Struggling to pay your bill,2
+Epoch 7,Problem with a purchase shown on your statement,Trouble using your card,10
+Epoch 7,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 7,Struggling to pay your bill,Closing your account,6
+Epoch 7,Struggling to pay your bill,Fees or interest,3
+Epoch 7,Struggling to pay your bill,Getting a credit card,1
+Epoch 7,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 7,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 7,Struggling to pay your bill,Problem when making payments,6
+Epoch 7,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 7,Struggling to pay your bill,Problem with a purchase shown on your statement,1
+Epoch 7,Struggling to pay your bill,Struggling to pay your bill,10
+Epoch 7,Struggling to pay your bill,Trouble using your card,3
+Epoch 7,Trouble using your card,"Advertising and marketing, including promotional offers",1
+Epoch 7,Trouble using your card,Closing your account,10
+Epoch 7,Trouble using your card,Fees or interest,7
+Epoch 7,Trouble using your card,Getting a credit card,6
+Epoch 7,Trouble using your card,Incorrect information on your report,5
+Epoch 7,Trouble using your card,"Other features, terms, or problems",0
+Epoch 7,Trouble using your card,Problem when making payments,19
+Epoch 7,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 7,Trouble using your card,Problem with a purchase shown on your statement,14
+Epoch 7,Trouble using your card,Struggling to pay your bill,0
+Epoch 7,Trouble using your card,Trouble using your card,72
+Epoch 8,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",98
+Epoch 8,"Advertising and marketing, including promotional offers",Closing your account,2
+Epoch 8,"Advertising and marketing, including promotional offers",Fees or interest,24
+Epoch 8,"Advertising and marketing, including promotional offers",Getting a credit card,9
+Epoch 8,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Epoch 8,"Advertising and marketing, including promotional offers","Other features, terms, or problems",0
+Epoch 8,"Advertising and marketing, including promotional offers",Problem when making payments,1
+Epoch 8,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+Epoch 8,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,8
+Epoch 8,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+Epoch 8,"Advertising and marketing, including promotional offers",Trouble using your card,7
+Epoch 8,Closing your account,"Advertising and marketing, including promotional offers",4
+Epoch 8,Closing your account,Closing your account,152
+Epoch 8,Closing your account,Fees or interest,12
+Epoch 8,Closing your account,Getting a credit card,14
+Epoch 8,Closing your account,Incorrect information on your report,20
+Epoch 8,Closing your account,"Other features, terms, or problems",2
+Epoch 8,Closing your account,Problem when making payments,10
+Epoch 8,Closing your account,Problem with a company's investigation into an existing problem,0
+Epoch 8,Closing your account,Problem with a purchase shown on your statement,10
+Epoch 8,Closing your account,Struggling to pay your bill,2
+Epoch 8,Closing your account,Trouble using your card,6
+Epoch 8,Fees or interest,"Advertising and marketing, including promotional offers",14
+Epoch 8,Fees or interest,Closing your account,9
+Epoch 8,Fees or interest,Fees or interest,272
+Epoch 8,Fees or interest,Getting a credit card,3
+Epoch 8,Fees or interest,Incorrect information on your report,6
+Epoch 8,Fees or interest,"Other features, terms, or problems",3
+Epoch 8,Fees or interest,Problem when making payments,24
+Epoch 8,Fees or interest,Problem with a company's investigation into an existing problem,0
+Epoch 8,Fees or interest,Problem with a purchase shown on your statement,22
+Epoch 8,Fees or interest,Struggling to pay your bill,4
+Epoch 8,Fees or interest,Trouble using your card,2
+Epoch 8,Getting a credit card,"Advertising and marketing, including promotional offers",14
+Epoch 8,Getting a credit card,Closing your account,9
+Epoch 8,Getting a credit card,Fees or interest,3
+Epoch 8,Getting a credit card,Getting a credit card,221
+Epoch 8,Getting a credit card,Incorrect information on your report,43
+Epoch 8,Getting a credit card,"Other features, terms, or problems",0
+Epoch 8,Getting a credit card,Problem when making payments,1
+Epoch 8,Getting a credit card,Problem with a company's investigation into an existing problem,0
+Epoch 8,Getting a credit card,Problem with a purchase shown on your statement,14
+Epoch 8,Getting a credit card,Struggling to pay your bill,1
+Epoch 8,Getting a credit card,Trouble using your card,4
+Epoch 8,Incorrect information on your report,"Advertising and marketing, including promotional offers",0
+Epoch 8,Incorrect information on your report,Closing your account,3
+Epoch 8,Incorrect information on your report,Fees or interest,2
+Epoch 8,Incorrect information on your report,Getting a credit card,21
+Epoch 8,Incorrect information on your report,Incorrect information on your report,45
+Epoch 8,Incorrect information on your report,"Other features, terms, or problems",0
+Epoch 8,Incorrect information on your report,Problem when making payments,10
+Epoch 8,Incorrect information on your report,Problem with a company's investigation into an existing problem,0
+Epoch 8,Incorrect information on your report,Problem with a purchase shown on your statement,3
+Epoch 8,Incorrect information on your report,Struggling to pay your bill,0
+Epoch 8,Incorrect information on your report,Trouble using your card,0
+Epoch 8,"Other features, terms, or problems","Advertising and marketing, including promotional offers",72
+Epoch 8,"Other features, terms, or problems",Closing your account,29
+Epoch 8,"Other features, terms, or problems",Fees or interest,31
+Epoch 8,"Other features, terms, or problems",Getting a credit card,32
+Epoch 8,"Other features, terms, or problems",Incorrect information on your report,27
+Epoch 8,"Other features, terms, or problems","Other features, terms, or problems",4
+Epoch 8,"Other features, terms, or problems",Problem when making payments,43
+Epoch 8,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,0
+Epoch 8,"Other features, terms, or problems",Problem with a purchase shown on your statement,76
+Epoch 8,"Other features, terms, or problems",Struggling to pay your bill,5
+Epoch 8,"Other features, terms, or problems",Trouble using your card,31
+Epoch 8,Problem when making payments,"Advertising and marketing, including promotional offers",5
+Epoch 8,Problem when making payments,Closing your account,3
+Epoch 8,Problem when making payments,Fees or interest,31
+Epoch 8,Problem when making payments,Getting a credit card,7
+Epoch 8,Problem when making payments,Incorrect information on your report,15
+Epoch 8,Problem when making payments,"Other features, terms, or problems",0
+Epoch 8,Problem when making payments,Problem when making payments,113
+Epoch 8,Problem when making payments,Problem with a company's investigation into an existing problem,1
+Epoch 8,Problem when making payments,Problem with a purchase shown on your statement,13
+Epoch 8,Problem when making payments,Struggling to pay your bill,9
+Epoch 8,Problem when making payments,Trouble using your card,15
+Epoch 8,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Epoch 8,Problem with a company's investigation into an existing problem,Closing your account,1
+Epoch 8,Problem with a company's investigation into an existing problem,Fees or interest,1
+Epoch 8,Problem with a company's investigation into an existing problem,Getting a credit card,7
+Epoch 8,Problem with a company's investigation into an existing problem,Incorrect information on your report,24
+Epoch 8,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Epoch 8,Problem with a company's investigation into an existing problem,Problem when making payments,3
+Epoch 8,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0
+Epoch 8,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,8
+Epoch 8,Problem with a company's investigation into an existing problem,Struggling to pay your bill,1
+Epoch 8,Problem with a company's investigation into an existing problem,Trouble using your card,1
+Epoch 8,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",8
+Epoch 8,Problem with a purchase shown on your statement,Closing your account,9
+Epoch 8,Problem with a purchase shown on your statement,Fees or interest,38
+Epoch 8,Problem with a purchase shown on your statement,Getting a credit card,14
+Epoch 8,Problem with a purchase shown on your statement,Incorrect information on your report,10
+Epoch 8,Problem with a purchase shown on your statement,"Other features, terms, or problems",3
+Epoch 8,Problem with a purchase shown on your statement,Problem when making payments,21
+Epoch 8,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,1
+Epoch 8,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,666
+Epoch 8,Problem with a purchase shown on your statement,Struggling to pay your bill,3
+Epoch 8,Problem with a purchase shown on your statement,Trouble using your card,9
+Epoch 8,Struggling to pay your bill,"Advertising and marketing, including promotional offers",2
+Epoch 8,Struggling to pay your bill,Closing your account,5
+Epoch 8,Struggling to pay your bill,Fees or interest,3
+Epoch 8,Struggling to pay your bill,Getting a credit card,1
+Epoch 8,Struggling to pay your bill,Incorrect information on your report,3
+Epoch 8,Struggling to pay your bill,"Other features, terms, or problems",0
+Epoch 8,Struggling to pay your bill,Problem when making payments,5
+Epoch 8,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Epoch 8,Struggling to pay your bill,Problem with a purchase shown on your statement,2
+Epoch 8,Struggling to pay your bill,Struggling to pay your bill,11
+Epoch 8,Struggling to pay your bill,Trouble using your card,3
+Epoch 8,Trouble using your card,"Advertising and marketing, including promotional offers",1
+Epoch 8,Trouble using your card,Closing your account,10
+Epoch 8,Trouble using your card,Fees or interest,6
+Epoch 8,Trouble using your card,Getting a credit card,6
+Epoch 8,Trouble using your card,Incorrect information on your report,5
+Epoch 8,Trouble using your card,"Other features, terms, or problems",0
+Epoch 8,Trouble using your card,Problem when making payments,18
+Epoch 8,Trouble using your card,Problem with a company's investigation into an existing problem,0
+Epoch 8,Trouble using your card,Problem with a purchase shown on your statement,14
+Epoch 8,Trouble using your card,Struggling to pay your bill,0
+Epoch 8,Trouble using your card,Trouble using your card,74
+TF-IDF,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",81
+TF-IDF,"Advertising and marketing, including promotional offers",Closing your account,0
+TF-IDF,"Advertising and marketing, including promotional offers",Fees or interest,27
+TF-IDF,"Advertising and marketing, including promotional offers",Getting a credit card,8
+TF-IDF,"Advertising and marketing, including promotional offers",Incorrect information on your report,0
+TF-IDF,"Advertising and marketing, including promotional offers","Other features, terms, or problems",16
+TF-IDF,"Advertising and marketing, including promotional offers",Problem when making payments,1
+TF-IDF,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,0
+TF-IDF,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,13
+TF-IDF,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0
+TF-IDF,"Advertising and marketing, including promotional offers",Trouble using your card,5
+TF-IDF,Closing your account,"Advertising and marketing, including promotional offers",2
+TF-IDF,Closing your account,Closing your account,143
+TF-IDF,Closing your account,Fees or interest,19
+TF-IDF,Closing your account,Getting a credit card,16
+TF-IDF,Closing your account,Incorrect information on your report,14
+TF-IDF,Closing your account,"Other features, terms, or problems",11
+TF-IDF,Closing your account,Problem when making payments,10
+TF-IDF,Closing your account,Problem with a company's investigation into an existing problem,0
+TF-IDF,Closing your account,Problem with a purchase shown on your statement,6
+TF-IDF,Closing your account,Struggling to pay your bill,0
+TF-IDF,Closing your account,Trouble using your card,11
+TF-IDF,Fees or interest,"Advertising and marketing, including promotional offers",6
+TF-IDF,Fees or interest,Closing your account,10
+TF-IDF,Fees or interest,Fees or interest,257
+TF-IDF,Fees or interest,Getting a credit card,6
+TF-IDF,Fees or interest,Incorrect information on your report,0
+TF-IDF,Fees or interest,"Other features, terms, or problems",14
+TF-IDF,Fees or interest,Problem when making payments,39
+TF-IDF,Fees or interest,Problem with a company's investigation into an existing problem,0
+TF-IDF,Fees or interest,Problem with a purchase shown on your statement,16
+TF-IDF,Fees or interest,Struggling to pay your bill,7
+TF-IDF,Fees or interest,Trouble using your card,4
+TF-IDF,Getting a credit card,"Advertising and marketing, including promotional offers",7
+TF-IDF,Getting a credit card,Closing your account,7
+TF-IDF,Getting a credit card,Fees or interest,3
+TF-IDF,Getting a credit card,Getting a credit card,246
+TF-IDF,Getting a credit card,Incorrect information on your report,15
+TF-IDF,Getting a credit card,"Other features, terms, or problems",15
+TF-IDF,Getting a credit card,Problem when making payments,1
+TF-IDF,Getting a credit card,Problem with a company's investigation into an existing problem,3
+TF-IDF,Getting a credit card,Problem with a purchase shown on your statement,10
+TF-IDF,Getting a credit card,Struggling to pay your bill,0
+TF-IDF,Getting a credit card,Trouble using your card,3
+TF-IDF,Incorrect information on your report,"Advertising and marketing, including promotional offers",1
+TF-IDF,Incorrect information on your report,Closing your account,5
+TF-IDF,Incorrect information on your report,Fees or interest,1
+TF-IDF,Incorrect information on your report,Getting a credit card,27
+TF-IDF,Incorrect information on your report,Incorrect information on your report,36
+TF-IDF,Incorrect information on your report,"Other features, terms, or problems",0
+TF-IDF,Incorrect information on your report,Problem when making payments,9
+TF-IDF,Incorrect information on your report,Problem with a company's investigation into an existing problem,1
+TF-IDF,Incorrect information on your report,Problem with a purchase shown on your statement,4
+TF-IDF,Incorrect information on your report,Struggling to pay your bill,0
+TF-IDF,Incorrect information on your report,Trouble using your card,0
+TF-IDF,"Other features, terms, or problems","Advertising and marketing, including promotional offers",30
+TF-IDF,"Other features, terms, or problems",Closing your account,39
+TF-IDF,"Other features, terms, or problems",Fees or interest,25
+TF-IDF,"Other features, terms, or problems",Getting a credit card,33
+TF-IDF,"Other features, terms, or problems",Incorrect information on your report,12
+TF-IDF,"Other features, terms, or problems","Other features, terms, or problems",94
+TF-IDF,"Other features, terms, or problems",Problem when making payments,26
+TF-IDF,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,1
+TF-IDF,"Other features, terms, or problems",Problem with a purchase shown on your statement,68
+TF-IDF,"Other features, terms, or problems",Struggling to pay your bill,3
+TF-IDF,"Other features, terms, or problems",Trouble using your card,19
+TF-IDF,Problem when making payments,"Advertising and marketing, including promotional offers",1
+TF-IDF,Problem when making payments,Closing your account,3
+TF-IDF,Problem when making payments,Fees or interest,33
+TF-IDF,Problem when making payments,Getting a credit card,9
+TF-IDF,Problem when making payments,Incorrect information on your report,7
+TF-IDF,Problem when making payments,"Other features, terms, or problems",10
+TF-IDF,Problem when making payments,Problem when making payments,120
+TF-IDF,Problem when making payments,Problem with a company's investigation into an existing problem,3
+TF-IDF,Problem when making payments,Problem with a purchase shown on your statement,13
+TF-IDF,Problem when making payments,Struggling to pay your bill,3
+TF-IDF,Problem when making payments,Trouble using your card,10
+TF-IDF,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+TF-IDF,Problem with a company's investigation into an existing problem,Closing your account,2
+TF-IDF,Problem with a company's investigation into an existing problem,Fees or interest,4
+TF-IDF,Problem with a company's investigation into an existing problem,Getting a credit card,11
+TF-IDF,Problem with a company's investigation into an existing problem,Incorrect information on your report,10
+TF-IDF,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",1
+TF-IDF,Problem with a company's investigation into an existing problem,Problem when making payments,4
+TF-IDF,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,6
+TF-IDF,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,6
+TF-IDF,Problem with a company's investigation into an existing problem,Struggling to pay your bill,2
+TF-IDF,Problem with a company's investigation into an existing problem,Trouble using your card,0
+TF-IDF,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",4
+TF-IDF,Problem with a purchase shown on your statement,Closing your account,12
+TF-IDF,Problem with a purchase shown on your statement,Fees or interest,24
+TF-IDF,Problem with a purchase shown on your statement,Getting a credit card,22
+TF-IDF,Problem with a purchase shown on your statement,Incorrect information on your report,7
+TF-IDF,Problem with a purchase shown on your statement,"Other features, terms, or problems",21
+TF-IDF,Problem with a purchase shown on your statement,Problem when making payments,15
+TF-IDF,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,0
+TF-IDF,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,672
+TF-IDF,Problem with a purchase shown on your statement,Struggling to pay your bill,1
+TF-IDF,Problem with a purchase shown on your statement,Trouble using your card,4
+TF-IDF,Struggling to pay your bill,"Advertising and marketing, including promotional offers",0
+TF-IDF,Struggling to pay your bill,Closing your account,4
+TF-IDF,Struggling to pay your bill,Fees or interest,4
+TF-IDF,Struggling to pay your bill,Getting a credit card,4
+TF-IDF,Struggling to pay your bill,Incorrect information on your report,0
+TF-IDF,Struggling to pay your bill,"Other features, terms, or problems",5
+TF-IDF,Struggling to pay your bill,Problem when making payments,8
+TF-IDF,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+TF-IDF,Struggling to pay your bill,Problem with a purchase shown on your statement,0
+TF-IDF,Struggling to pay your bill,Struggling to pay your bill,8
+TF-IDF,Struggling to pay your bill,Trouble using your card,2
+TF-IDF,Trouble using your card,"Advertising and marketing, including promotional offers",1
+TF-IDF,Trouble using your card,Closing your account,14
+TF-IDF,Trouble using your card,Fees or interest,3
+TF-IDF,Trouble using your card,Getting a credit card,9
+TF-IDF,Trouble using your card,Incorrect information on your report,0
+TF-IDF,Trouble using your card,"Other features, terms, or problems",11
+TF-IDF,Trouble using your card,Problem when making payments,14
+TF-IDF,Trouble using your card,Problem with a company's investigation into an existing problem,1
+TF-IDF,Trouble using your card,Problem with a purchase shown on your statement,16
+TF-IDF,Trouble using your card,Struggling to pay your bill,0
+TF-IDF,Trouble using your card,Trouble using your card,65
+Frozen MiniLM,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",83
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Closing your account,4
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Fees or interest,17
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Getting a credit card,6
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Incorrect information on your report,2
+Frozen MiniLM,"Advertising and marketing, including promotional offers","Other features, terms, or problems",22
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Problem when making payments,3
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Problem with a company's investigation into an existing problem,4
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,4
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Struggling to pay your bill,1
+Frozen MiniLM,"Advertising and marketing, including promotional offers",Trouble using your card,5
+Frozen MiniLM,Closing your account,"Advertising and marketing, including promotional offers",1
+Frozen MiniLM,Closing your account,Closing your account,148
+Frozen MiniLM,Closing your account,Fees or interest,8
+Frozen MiniLM,Closing your account,Getting a credit card,18
+Frozen MiniLM,Closing your account,Incorrect information on your report,15
+Frozen MiniLM,Closing your account,"Other features, terms, or problems",8
+Frozen MiniLM,Closing your account,Problem when making payments,14
+Frozen MiniLM,Closing your account,Problem with a company's investigation into an existing problem,4
+Frozen MiniLM,Closing your account,Problem with a purchase shown on your statement,2
+Frozen MiniLM,Closing your account,Struggling to pay your bill,3
+Frozen MiniLM,Closing your account,Trouble using your card,11
+Frozen MiniLM,Fees or interest,"Advertising and marketing, including promotional offers",17
+Frozen MiniLM,Fees or interest,Closing your account,8
+Frozen MiniLM,Fees or interest,Fees or interest,232
+Frozen MiniLM,Fees or interest,Getting a credit card,3
+Frozen MiniLM,Fees or interest,Incorrect information on your report,8
+Frozen MiniLM,Fees or interest,"Other features, terms, or problems",12
+Frozen MiniLM,Fees or interest,Problem when making payments,36
+Frozen MiniLM,Fees or interest,Problem with a company's investigation into an existing problem,6
+Frozen MiniLM,Fees or interest,Problem with a purchase shown on your statement,19
+Frozen MiniLM,Fees or interest,Struggling to pay your bill,15
+Frozen MiniLM,Fees or interest,Trouble using your card,3
+Frozen MiniLM,Getting a credit card,"Advertising and marketing, including promotional offers",10
+Frozen MiniLM,Getting a credit card,Closing your account,13
+Frozen MiniLM,Getting a credit card,Fees or interest,3
+Frozen MiniLM,Getting a credit card,Getting a credit card,206
+Frozen MiniLM,Getting a credit card,Incorrect information on your report,30
+Frozen MiniLM,Getting a credit card,"Other features, terms, or problems",17
+Frozen MiniLM,Getting a credit card,Problem when making payments,1
+Frozen MiniLM,Getting a credit card,Problem with a company's investigation into an existing problem,11
+Frozen MiniLM,Getting a credit card,Problem with a purchase shown on your statement,9
+Frozen MiniLM,Getting a credit card,Struggling to pay your bill,1
+Frozen MiniLM,Getting a credit card,Trouble using your card,9
+Frozen MiniLM,Incorrect information on your report,"Advertising and marketing, including promotional offers",1
+Frozen MiniLM,Incorrect information on your report,Closing your account,8
+Frozen MiniLM,Incorrect information on your report,Fees or interest,0
+Frozen MiniLM,Incorrect information on your report,Getting a credit card,21
+Frozen MiniLM,Incorrect information on your report,Incorrect information on your report,37
+Frozen MiniLM,Incorrect information on your report,"Other features, terms, or problems",0
+Frozen MiniLM,Incorrect information on your report,Problem when making payments,3
+Frozen MiniLM,Incorrect information on your report,Problem with a company's investigation into an existing problem,12
+Frozen MiniLM,Incorrect information on your report,Problem with a purchase shown on your statement,1
+Frozen MiniLM,Incorrect information on your report,Struggling to pay your bill,1
+Frozen MiniLM,Incorrect information on your report,Trouble using your card,0
+Frozen MiniLM,"Other features, terms, or problems","Advertising and marketing, including promotional offers",36
+Frozen MiniLM,"Other features, terms, or problems",Closing your account,36
+Frozen MiniLM,"Other features, terms, or problems",Fees or interest,24
+Frozen MiniLM,"Other features, terms, or problems",Getting a credit card,26
+Frozen MiniLM,"Other features, terms, or problems",Incorrect information on your report,11
+Frozen MiniLM,"Other features, terms, or problems","Other features, terms, or problems",97
+Frozen MiniLM,"Other features, terms, or problems",Problem when making payments,24
+Frozen MiniLM,"Other features, terms, or problems",Problem with a company's investigation into an existing problem,17
+Frozen MiniLM,"Other features, terms, or problems",Problem with a purchase shown on your statement,45
+Frozen MiniLM,"Other features, terms, or problems",Struggling to pay your bill,9
+Frozen MiniLM,"Other features, terms, or problems",Trouble using your card,25
+Frozen MiniLM,Problem when making payments,"Advertising and marketing, including promotional offers",7
+Frozen MiniLM,Problem when making payments,Closing your account,5
+Frozen MiniLM,Problem when making payments,Fees or interest,14
+Frozen MiniLM,Problem when making payments,Getting a credit card,5
+Frozen MiniLM,Problem when making payments,Incorrect information on your report,10
+Frozen MiniLM,Problem when making payments,"Other features, terms, or problems",21
+Frozen MiniLM,Problem when making payments,Problem when making payments,104
+Frozen MiniLM,Problem when making payments,Problem with a company's investigation into an existing problem,14
+Frozen MiniLM,Problem when making payments,Problem with a purchase shown on your statement,10
+Frozen MiniLM,Problem when making payments,Struggling to pay your bill,8
+Frozen MiniLM,Problem when making payments,Trouble using your card,14
+Frozen MiniLM,Problem with a company's investigation into an existing problem,"Advertising and marketing, including promotional offers",0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Closing your account,2
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Fees or interest,1
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Getting a credit card,6
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Incorrect information on your report,14
+Frozen MiniLM,Problem with a company's investigation into an existing problem,"Other features, terms, or problems",0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Problem when making payments,1
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,15
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,4
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Struggling to pay your bill,3
+Frozen MiniLM,Problem with a company's investigation into an existing problem,Trouble using your card,0
+Frozen MiniLM,Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",12
+Frozen MiniLM,Problem with a purchase shown on your statement,Closing your account,9
+Frozen MiniLM,Problem with a purchase shown on your statement,Fees or interest,24
+Frozen MiniLM,Problem with a purchase shown on your statement,Getting a credit card,14
+Frozen MiniLM,Problem with a purchase shown on your statement,Incorrect information on your report,7
+Frozen MiniLM,Problem with a purchase shown on your statement,"Other features, terms, or problems",39
+Frozen MiniLM,Problem with a purchase shown on your statement,Problem when making payments,28
+Frozen MiniLM,Problem with a purchase shown on your statement,Problem with a company's investigation into an existing problem,11
+Frozen MiniLM,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,615
+Frozen MiniLM,Problem with a purchase shown on your statement,Struggling to pay your bill,8
+Frozen MiniLM,Problem with a purchase shown on your statement,Trouble using your card,15
+Frozen MiniLM,Struggling to pay your bill,"Advertising and marketing, including promotional offers",0
+Frozen MiniLM,Struggling to pay your bill,Closing your account,5
+Frozen MiniLM,Struggling to pay your bill,Fees or interest,1
+Frozen MiniLM,Struggling to pay your bill,Getting a credit card,3
+Frozen MiniLM,Struggling to pay your bill,Incorrect information on your report,2
+Frozen MiniLM,Struggling to pay your bill,"Other features, terms, or problems",2
+Frozen MiniLM,Struggling to pay your bill,Problem when making payments,3
+Frozen MiniLM,Struggling to pay your bill,Problem with a company's investigation into an existing problem,0
+Frozen MiniLM,Struggling to pay your bill,Problem with a purchase shown on your statement,1
+Frozen MiniLM,Struggling to pay your bill,Struggling to pay your bill,18
+Frozen MiniLM,Struggling to pay your bill,Trouble using your card,0
+Frozen MiniLM,Trouble using your card,"Advertising and marketing, including promotional offers",3
+Frozen MiniLM,Trouble using your card,Closing your account,10
+Frozen MiniLM,Trouble using your card,Fees or interest,4
+Frozen MiniLM,Trouble using your card,Getting a credit card,6
+Frozen MiniLM,Trouble using your card,Incorrect information on your report,1
+Frozen MiniLM,Trouble using your card,"Other features, terms, or problems",12
+Frozen MiniLM,Trouble using your card,Problem when making payments,11
+Frozen MiniLM,Trouble using your card,Problem with a company's investigation into an existing problem,6
+Frozen MiniLM,Trouble using your card,Problem with a purchase shown on your statement,6
+Frozen MiniLM,Trouble using your card,Struggling to pay your bill,3
+Frozen MiniLM,Trouble using your card,Trouble using your card,72

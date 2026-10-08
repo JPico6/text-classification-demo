@@ -1,0 +1,2696 @@
+matched_cues,max_score,tie_count,majority_fallback,complaint_id
+,0,11,True,10977855
+investigation,1,1,False,10978264
+,0,11,True,10978290
+customer service,1,2,False,10981738
+,0,11,True,10983900
+customer service,1,2,False,10984003
+closed my account | account was closed,2,1,False,10984383
+fraudulent charge | fraudulent charges,2,1,False,10984916
+fees,1,4,False,10985037
+late fee,1,2,False,10985066
+rewards | customer service,2,1,False,10985109
+rewards,1,1,False,10986757
+credit limit | customer service,2,1,False,10987216
+unauthorized charges,1,1,False,10987222
+,0,11,True,10987228
+applied for,1,1,False,10987247
+,0,11,True,10987252
+,0,11,True,10987262
+credit report,1,1,False,10987282
+refund,1,2,False,10987450
+promotion,1,1,False,10987474
+,0,11,True,10987475
+fees,1,1,False,10987477
+credit limit,1,2,False,10987482
+,0,11,True,10987510
+,0,11,True,10987603
+interest rate | fees,2,1,False,10987653
+fraudulent charges,1,1,False,10987667
+,0,11,True,10987687
+fees,1,2,False,10987709
+unauthorized charges,1,2,False,10987761
+unauthorized charge | unauthorized charges | merchant,3,1,False,10987865
+refund,1,1,False,10987917
+,0,11,True,10987919
+customer service,1,1,False,10988097
+refund,1,2,False,10988163
+,0,11,True,10988169
+late fee,1,1,False,10988183
+refund,1,1,False,10988186
+,0,11,True,10988230
+,0,11,True,10988282
+,0,11,True,10988289
+,0,11,True,10988349
+refund,1,4,False,10988410
+,0,11,True,10988437
+,0,11,True,10988469
+,0,11,True,10988477
+interest rate,1,2,False,10988483
+,0,11,True,10988497
+closed my account,1,1,False,10988567
+,0,11,True,10988575
+,0,11,True,10988608
+,0,11,True,10988621
+credit report,1,1,False,10983585
+merchant,1,2,False,10985433
+interest charge | annual fee,2,1,False,10985450
+,0,11,True,10985729
+refund | merchant,2,1,False,10985857
+,0,11,True,10986164
+rewards,1,1,False,10986799
+,0,11,True,10986814
+automatic payment,1,1,False,10986972
+rewards | customer service,2,1,False,10986983
+,0,11,True,10987209
+reward points,1,1,False,10988670
+activate my card,1,1,False,10988700
+closed account | account was closed,2,1,False,10989331
+rewards,1,1,False,10989348
+closed my account | close my account | account was closed,3,1,False,10989372
+investigation,1,1,False,10989530
+applied for,1,2,False,10990093
+close my account | account was closed,2,1,False,10990132
+refund | merchant,2,1,False,10990310
+,0,11,True,10990314
+,0,11,True,10990373
+refund | merchant,2,1,False,10990395
+cancel my card,1,1,False,10990441
+apr,1,2,False,10991317
+promotion,1,1,False,10991621
+,0,11,True,10991804
+refund,1,2,False,10991864
+,0,11,True,10991885
+late fee | fees,2,1,False,10991921
+applied for,1,2,False,10992174
+fraudulent charges,1,2,False,10992215
+interest rate,1,1,False,10992265
+credit report,1,1,False,10992436
+balance transfer | cash advance,2,1,False,10992482
+rewards,1,1,False,10992523
+interest rate | fees,2,1,False,10993141
+interest rate,1,1,False,10993189
+refund,1,1,False,10993383
+applied for,1,1,False,10993407
+,0,11,True,10993418
+,0,11,True,10993443
+,0,11,True,10993664
+,0,11,True,10993823
+late fee | fees,2,2,False,10993981
+credit limit,1,1,False,10994031
+,0,11,True,10994033
+refund | merchant,2,1,False,10994063
+,0,11,True,10994108
+,0,11,True,10994113
+merchant,1,1,False,10994114
+refund,1,2,False,10994139
+refund,1,1,False,10994144
+fraudulent charge,1,1,False,10994158
+promotion,1,1,False,10994423
+refund | merchant,2,1,False,10994445
+chargeback | merchant,2,1,False,10994560
+late fee,1,2,False,10994717
+annual fee,1,1,False,10994888
+,0,11,True,10994924
+,0,11,True,10994969
+,0,11,True,10995111
+late fee | fees,2,1,False,10995136
+refund,1,1,False,10995687
+refund | merchant,2,1,False,10996778
+credit report,1,1,False,10996840
+merchant,1,1,False,10997669
+merchant,1,1,False,10997710
+,0,11,True,10997811
+late fee | fees,2,1,False,10998181
+rewards,1,2,False,10998202
+credit report,1,1,False,10998536
+refund,1,2,False,10998739
+,0,11,True,10998792
+cash advance,1,1,False,10998923
+,0,11,True,10999049
+refund,1,1,False,10999371
+fraudulent charge,1,1,False,10999411
+customer service,1,1,False,11000011
+financial hardship | hardship | lost my job,3,1,False,11000014
+,0,11,True,11000051
+chargeback,1,1,False,11000188
+interest rate,1,2,False,11000482
+credit report,1,2,False,11000581
+fraudulent charges,1,2,False,11000584
+,0,11,True,11000678
+balance transfer | credit limit,2,1,False,11000840
+,0,11,True,11000858
+applied for,1,1,False,11001288
+close my account,1,2,False,11001457
+closed account,1,1,False,11001784
+,0,11,True,11001807
+credit limit,1,2,False,11001879
+closed my account | account was closed,2,2,False,11001910
+refund,1,1,False,11001911
+,0,11,True,11001935
+financial hardship | hardship,2,1,False,11003550
+unauthorized charge | merchant,2,1,False,11003563
+customer service,1,1,False,11003584
+,0,11,True,11003627
+customer service,1,1,False,10988904
+fees,1,2,False,10989033
+,0,11,True,10989152
+late fee,1,1,False,10989523
+,0,11,True,10989762
+,0,11,True,10997029
+,0,11,True,10997299
+,0,11,True,10998245
+applied for,1,1,False,11002140
+,0,11,True,11002229
+refund,1,2,False,11003118
+,0,11,True,11003514
+,0,11,True,11004784
+customer service,1,1,False,11004789
+refund,1,1,False,11005411
+applied for,1,2,False,11005432
+credit report,1,2,False,11005835
+,0,11,True,11005836
+,0,11,True,11005872
+fees | apr,2,1,False,11005880
+refund | merchant,2,1,False,11006041
+fees,1,3,False,11006236
+,0,11,True,11006237
+,0,11,True,11006885
+fraudulent charges,1,1,False,11007351
+,0,11,True,11007895
+fees,1,1,False,11007992
+refund,1,1,False,11008046
+,0,11,True,11008094
+fees,1,4,False,11008219
+,0,11,True,11008316
+,0,11,True,11008364
+investigation,1,1,False,11008562
+,0,11,True,11008819
+rewards,1,1,False,11008844
+credit report,1,1,False,11009079
+interest charge | late fee,2,1,False,11009235
+financial hardship | hardship,2,1,False,11009246
+applied for,1,1,False,11009252
+,0,11,True,11009261
+credit limit,1,1,False,11010004
+merchant,1,1,False,11010340
+account was closed,1,1,False,11011157
+,0,11,True,11011211
+merchant,1,1,False,11011222
+,0,11,True,11011256
+customer service,1,1,False,11011517
+,0,11,True,11011530
+investigation,1,1,False,11011780
+credit report,1,1,False,11011892
+unauthorized charges | merchant,2,1,False,11011998
+,0,11,True,11012001
+refund,1,1,False,11012191
+,0,11,True,11012200
+,0,11,True,11012881
+,0,11,True,11012923
+applied for,1,1,False,11013123
+,0,11,True,11013256
+credit limit,1,2,False,11013341
+late fee,1,1,False,11013677
+,0,11,True,11013722
+refund | merchant,2,1,False,11013946
+refund | merchant,2,1,False,11014174
+denied my application | applied for,2,2,False,11014180
+make a payment,1,2,False,11014224
+merchant,1,2,False,11014227
+refund,1,2,False,11014383
+rewards | customer service,2,1,False,11014836
+fees,1,2,False,11014853
+merchant,1,2,False,11014920
+,0,11,True,11015259
+,0,11,True,11015383
+credit report,1,1,False,11016077
+interest rate | fees,2,1,False,11016166
+fees,1,1,False,11016185
+,0,11,True,11016204
+,0,11,True,11016352
+promotional offer,1,1,False,11016400
+,0,11,True,11016430
+account closure | close my account,2,2,False,11016431
+unauthorized charge,1,1,False,11016453
+late fee | fees,2,1,False,11016454
+,0,11,True,11016478
+,0,11,True,11016482
+cash advance,1,1,False,11016508
+applied for,1,2,False,11016514
+,0,11,True,11016615
+interest rate | fees,2,1,False,11016740
+,0,11,True,11016855
+make a payment,1,1,False,11016958
+unauthorized charges | merchant,2,1,False,11016965
+,0,11,True,11003966
+merchant,1,2,False,11004439
+interest rate,1,3,False,11004469
+customer service,1,3,False,11004473
+credit limit,1,1,False,11004722
+unauthorized charges | fraudulent charges,2,2,False,11004727
+fees,1,1,False,11004728
+customer service,1,1,False,11004731
+unauthorized charges,1,1,False,11004793
+fees,1,4,False,11005097
+close my account,1,1,False,11005379
+incorrect information,1,1,False,11005838
+balance transfer,1,1,False,11005844
+fees,1,1,False,11005863
+balance transfer | customer service,2,1,False,11010713
+,0,11,True,11010715
+refund,1,1,False,11010778
+fees,1,2,False,11011027
+merchant,1,1,False,11017117
+,0,11,True,11017213
+,0,11,True,11017291
+,0,11,True,11018002
+fraudulent charges,1,1,False,11019150
+,0,11,True,11019158
+,0,11,True,11019225
+rewards | credit limit,2,1,False,11019286
+interest rate | annual fee | fees,3,1,False,11019287
+,0,11,True,11020721
+interest charge | late fee,2,1,False,11020888
+fraudulent charges,1,3,False,11020897
+fraudulent charges,1,3,False,11020918
+fraudulent charge | refund,2,1,False,11020937
+balance transfer,1,1,False,11021318
+closed my account,1,2,False,11021512
+fraudulent charge | merchant,2,1,False,11021589
+refund,1,1,False,11021609
+closed my account | close my account | account was closed,3,1,False,11021707
+annual fee,1,2,False,11021728
+close my account | account was closed,2,1,False,11021735
+,0,11,True,11022511
+,0,11,True,11022589
+refund,1,1,False,11022623
+interest charge,1,2,False,11022642
+fees,1,2,False,11022768
+fees,1,1,False,11022853
+,0,11,True,11022978
+,0,11,True,11023430
+late fee | fees,2,1,False,11023441
+refund,1,2,False,11023447
+close my account | account was closed,2,1,False,11023538
+refund,1,1,False,11023580
+customer service,1,2,False,11023609
+investigation,1,1,False,11024316
+fees,1,3,False,11024346
+refund,1,1,False,11024448
+rewards,1,1,False,11024458
+customer service,1,2,False,11024473
+,0,11,True,11024553
+refund,1,3,False,11024580
+,0,11,True,11024632
+fees,1,1,False,11024645
+merchant,1,1,False,11024684
+,0,11,True,11025047
+refund,1,1,False,11025105
+interest charge,1,2,False,11025157
+investigation,1,1,False,11025374
+refund,1,2,False,11025401
+rewards,1,1,False,11025710
+credit report,1,1,False,11025888
+financial hardship | hardship,2,1,False,11025915
+,0,11,True,11025968
+account was closed,1,1,False,11027589
+merchant,1,2,False,11027908
+refund,1,1,False,11028272
+chargeback,1,1,False,11028274
+,0,11,True,11028552
+applied for,1,1,False,11028556
+closed account,1,3,False,11028577
+refund,1,2,False,11029206
+,0,11,True,11029360
+apr,1,3,False,11029752
+late fee,1,3,False,11029784
+,0,11,True,11030208
+refund | merchant,2,1,False,11030213
+,0,11,True,11030238
+customer service,1,1,False,11030257
+refund,1,2,False,11030259
+fees,1,1,False,11030266
+hardship,1,1,False,11030270
+customer service,1,2,False,11031062
+late fee | fees,2,1,False,11031082
+,0,11,True,11031124
+late fee,1,1,False,11031763
+autopay,1,1,False,11031836
+,0,11,True,11031896
+refund,1,4,False,11032892
+merchant,1,1,False,11032900
+refund,1,1,False,11032901
+,0,11,True,11032927
+refund,1,3,False,11033009
+,0,11,True,11033352
+credit report,1,2,False,11033353
+refund | merchant,2,1,False,11033398
+,0,11,True,11033729
+refund,1,2,False,11033869
+late fee | fees,2,1,False,11033926
+,0,11,True,11034006
+,0,11,True,11034038
+credit report,1,1,False,11034042
+investigation,1,1,False,11034045
+,0,11,True,11034086
+investigation,1,1,False,11034087
+unauthorized charge | merchant,2,1,False,11034092
+,0,11,True,11045555
+late fee,1,1,False,11045601
+,0,11,True,11095075
+fees,1,1,False,11026240
+,0,11,True,11026247
+credit report,1,2,False,11026292
+,0,11,True,11026341
+refund,1,2,False,11026787
+customer service,1,1,False,11026791
+,0,11,True,11026862
+,0,11,True,11026914
+credit report,1,1,False,11027251
+cash advance,1,2,False,11027314
+fees,1,1,False,11027641
+refund,1,1,False,11027643
+annual fee,1,1,False,11027736
+,0,11,True,11027831
+interest rate | interest charge,2,1,False,11028184
+,0,11,True,11028256
+refund,1,1,False,11028537
+investigation,1,1,False,11032216
+,0,11,True,11032264
+,0,11,True,11032273
+fraudulent charge | merchant,2,2,False,11032394
+,0,11,True,11032404
+promotional offer,1,1,False,11032433
+financial hardship | hardship,2,1,False,11032480
+credit report,1,1,False,11033459
+,0,11,True,11034195
+credit limit,1,4,False,11034305
+promotion | advertised,2,1,False,11034713
+late fee,1,2,False,11035156
+,0,11,True,11035201
+fees,1,1,False,11035344
+interest charge,1,2,False,11035356
+unauthorized charges,1,2,False,11035534
+replacement card,1,1,False,11035584
+fees,1,1,False,11035614
+credit limit | cash advance,2,1,False,11035778
+fees,1,4,False,11035840
+credit limit | customer service,2,1,False,11035850
+fraudulent charge | fraudulent charges,2,1,False,11035879
+fees,1,3,False,11037147
+,0,11,True,11037863
+,0,11,True,11037880
+promotional offer,1,1,False,11038652
+,0,11,True,11038669
+,0,11,True,11039032
+refund,1,1,False,11039062
+,0,11,True,11039098
+rewards,1,1,False,11039134
+customer service,1,2,False,11039440
+investigation,1,1,False,11039551
+,0,11,True,11039601
+interest rate,1,1,False,11039609
+fraudulent charge,1,1,False,11040336
+,0,11,True,11041243
+,0,11,True,11041916
+,0,11,True,11042303
+rewards,1,2,False,11043023
+credit limit,1,1,False,11043114
+promotion,1,1,False,11043209
+credit limit,1,2,False,11043317
+fraudulent charges,1,1,False,11043322
+advertised,1,1,False,11043433
+merchant,1,1,False,11043572
+fraudulent charges,1,2,False,11044245
+refund | merchant,2,1,False,11044554
+refund,1,1,False,11044703
+fraudulent charges | chargeback | refund,3,1,False,11045085
+refund,1,2,False,11045384
+rewards | reward points,2,1,False,11045396
+card declined,1,1,False,11045451
+,0,11,True,11045452
+,0,11,True,11047079
+refund,1,2,False,11047098
+closed account,1,1,False,11047265
+fraudulent charges,1,2,False,11047631
+,0,11,True,11047780
+credit limit,1,1,False,11047792
+customer service,1,2,False,11047856
+unauthorized charge | refund | merchant,3,1,False,11047864
+closed my account,1,1,False,11047869
+,0,11,True,11047871
+fees,1,1,False,11047897
+apr,1,1,False,11047997
+fees,1,1,False,11048089
+,0,11,True,11048139
+,0,11,True,11048196
+credit report,1,1,False,11048241
+,0,11,True,11048344
+fees,1,3,False,11048405
+credit limit,1,2,False,11048454
+,0,11,True,11048463
+rewards | credit limit,2,1,False,11048515
+late fee | fees,2,1,False,11048732
+,0,11,True,11048746
+,0,11,True,11048846
+fees,1,2,False,11048929
+refund,1,1,False,11048933
+fraudulent charges,1,1,False,11049026
+financial hardship | hardship,2,1,False,11049097
+merchant,1,1,False,11049307
+refund,1,1,False,11049333
+,0,11,True,11036246
+fees,1,1,False,11045661
+refund,1,2,False,11045747
+credit report,1,1,False,11045793
+refund | merchant,2,1,False,11045809
+,0,11,True,11046022
+,0,11,True,11046082
+annual fee | late fee | fees,3,1,False,11046178
+fraudulent charges | refund | merchant,3,1,False,11046187
+customer service,1,1,False,11046224
+,0,11,True,11046230
+late fee | fees,2,1,False,11046722
+merchant,1,2,False,11047916
+,0,11,True,11048017
+rewards,1,1,False,11049715
+customer service,1,2,False,11049837
+refund,1,1,False,11050096
+refund,1,1,False,11050317
+,0,11,True,11050408
+,0,11,True,11050827
+,0,11,True,11050845
+,0,11,True,11050861
+inaccurate reporting | credit report,2,1,False,11051038
+fees,1,3,False,11051224
+refund | merchant,2,1,False,11051511
+late fee | fees,2,1,False,11052427
+,0,11,True,11053759
+promotion | advertising,2,1,False,11053786
+,0,11,True,11053870
+customer service,1,1,False,11053885
+verified as accurate,1,1,False,11054475
+interest charge,1,2,False,11054735
+interest charge,1,2,False,11054913
+,0,11,True,11055058
+,0,11,True,11055151
+,0,11,True,11055331
+,0,11,True,11055351
+,0,11,True,11056116
+credit report,1,2,False,11056411
+merchant,1,1,False,11056512
+credit limit,1,3,False,11056548
+refund,1,1,False,11056664
+,0,11,True,11056768
+chargeback | refund | merchant,3,1,False,11056907
+,0,11,True,11056918
+credit limit,1,2,False,11057203
+,0,11,True,11057224
+late fee,1,1,False,11057466
+refund | merchant,2,1,False,11057517
+,0,11,True,11057628
+,0,11,True,11057635
+,0,11,True,11058375
+fees,1,1,False,11058381
+lost my job,1,1,False,11058440
+merchant,1,2,False,11058575
+,0,11,True,11058856
+merchant,1,2,False,11058944
+,0,11,True,11059025
+customer service,1,2,False,11059033
+credit report,1,1,False,11059071
+,0,11,True,11059107
+,0,11,True,11059256
+,0,11,True,11059284
+rewards | reward points | customer service,3,1,False,11059335
+applied for | never applied,2,1,False,11059443
+,0,11,True,11059444
+credit card application | applied for | never applied,3,1,False,11059647
+applied for | never applied,2,1,False,11059649
+make a payment | payment processing,2,1,False,11059667
+close my account,1,2,False,11059919
+closed account,1,1,False,11059995
+,0,11,True,11060017
+fraudulent charge,1,4,False,11060044
+fees,1,1,False,11060245
+,0,11,True,11060355
+investigation,1,1,False,11060580
+,0,11,True,11060600
+credit limit | customer service,2,1,False,11060616
+refund | merchant,2,1,False,11060703
+chargeback | merchant,2,1,False,11060758
+unauthorized charges | refund,2,1,False,11060923
+interest rate | fees,2,1,False,11061023
+refund | merchant,2,1,False,11061060
+fees,1,1,False,11061070
+,0,11,True,11061088
+refund | merchant,2,1,False,11061096
+customer service,1,2,False,11061332
+hardship,1,1,False,11061726
+,0,11,True,11062107
+unauthorized charges,1,1,False,11062175
+close my account,1,1,False,11062205
+,0,11,True,11062594
+refund,1,1,False,11062892
+refund,1,1,False,11062981
+autopay,1,2,False,11063590
+,0,11,True,11063619
+financial hardship | hardship,2,1,False,11063700
+,0,11,True,11068893
+account closure | close my account,2,1,False,11068907
+fees,1,1,False,11121783
+interest rate,1,2,False,11136737
+applied for | never applied,2,1,False,11049654
+applied for | never applied,2,1,False,11049672
+,0,11,True,11052931
+,0,11,True,11054431
+customer service,1,2,False,11054489
+interest charge,1,2,False,11054521
+late fee | fees,2,1,False,11055150
+fraudulent charges,1,2,False,11065951
+chargeback | refund,2,1,False,11066081
+fees,1,2,False,11066231
+customer service,1,2,False,11066250
+rewards,1,1,False,11066292
+,0,11,True,11066300
+refund,1,3,False,11066325
+customer service,1,2,False,11066377
+,0,11,True,11066397
+promotion,1,1,False,11066493
+customer service,1,1,False,11066757
+,0,11,True,11066856
+,0,11,True,11066965
+late fee,1,2,False,11066989
+customer service,1,2,False,11067121
+,0,11,True,11067156
+merchant,1,1,False,11067199
+,0,11,True,11067453
+,0,11,True,11067518
+refund,1,2,False,11067588
+card was declined,1,1,False,11067594
+credit report,1,1,False,11067673
+account was closed,1,1,False,11067707
+,0,11,True,11067932
+,0,11,True,11067954
+unauthorized charge | merchant,2,1,False,11068064
+rewards | customer service,2,2,False,11068294
+advertised | advertising,2,1,False,11068335
+,0,11,True,11068365
+,0,11,True,11068401
+refund | merchant,2,1,False,11068592
+,0,11,True,11068741
+credit limit,1,2,False,11068956
+,0,11,True,11068995
+,0,11,True,11069005
+,0,11,True,11069044
+chargeback | refund,2,1,False,11069062
+promotion,1,1,False,11069081
+chargeback,1,1,False,11069095
+,0,11,True,11069150
+late fee,1,2,False,11069200
+applied for,1,1,False,11069280
+apr,1,3,False,11069447
+refund,1,1,False,11069514
+,0,11,True,11069664
+applied for,1,1,False,11069728
+refund | merchant,2,1,False,11069757
+fraudulent charge,1,2,False,11069785
+credit card application,1,1,False,11069802
+,0,11,True,11069913
+customer service,1,1,False,11069940
+,0,11,True,11069964
+,0,11,True,11070019
+customer service,1,2,False,11070022
+,0,11,True,11070095
+interest charge | late fee | fees,3,1,False,11070559
+late fee,1,1,False,11070583
+,0,11,True,11064174
+fees,1,1,False,11065519
+refund,1,2,False,11065520
+fees,1,1,False,11065707
+,0,11,True,11065752
+,0,11,True,11065829
+,0,11,True,11065835
+refund,1,2,False,11065998
+refund,1,1,False,11071107
+,0,11,True,11071146
+investigation,1,1,False,11071783
+,0,11,True,11071841
+merchant,1,1,False,11071844
+refund,1,2,False,11071891
+refund | merchant,2,1,False,11071899
+refund,1,1,False,11072155
+,0,11,True,11072841
+,0,11,True,11072873
+refund,1,1,False,11072934
+promotion | advertised,2,1,False,11073007
+closed my account | closed account,2,1,False,11073012
+,0,11,True,11073013
+refund | merchant,2,1,False,11073024
+,0,11,True,11073030
+fraudulent charges,1,2,False,11073031
+,0,11,True,11073073
+refund,1,2,False,11074745
+fees,1,1,False,11074824
+,0,11,True,11074825
+,0,11,True,11074875
+,0,11,True,11074898
+,0,11,True,11074928
+rewards | credit limit,2,1,False,11074964
+merchant,1,1,False,11075049
+fees | apr,2,1,False,11075097
+,0,11,True,11075178
+credit limit,1,1,False,11076433
+refund,1,1,False,11076573
+customer service,1,1,False,11076873
+rewards | customer service,2,1,False,11076993
+late fee | fees,2,1,False,11078396
+fees,1,1,False,11078464
+fraudulent charges | refund,2,2,False,11089077
+,0,11,True,11072367
+,0,11,True,11072368
+fees,1,2,False,11072391
+late fee,1,1,False,11072412
+closed my account,1,1,False,11072425
+,0,11,True,11072481
+,0,11,True,11072552
+customer service,1,1,False,11073420
+merchant,1,1,False,11073991
+,0,11,True,11074022
+,0,11,True,11074023
+balance transfer | customer service,2,2,False,11074029
+credit report,1,1,False,11075426
+closed account,1,3,False,11075447
+applied for,1,2,False,11075502
+account was closed,1,1,False,11075558
+customer service,1,1,False,11075614
+refund,1,2,False,11075913
+late fee | fees,2,1,False,11076046
+fraudulent charges,1,1,False,11076201
+applied for,1,1,False,11078308
+make a payment,1,1,False,11078360
+fraudulent charges,1,1,False,11078442
+,0,11,True,11078656
+,0,11,True,11078701
+investigation,1,1,False,11078787
+,0,11,True,11079735
+unauthorized charges | fraudulent charges,2,1,False,11080140
+closed my account,1,1,False,11080413
+unauthorized charges | fraudulent charges,2,1,False,11081070
+fees,1,2,False,11081161
+refund,1,3,False,11081529
+,0,11,True,11081541
+customer service,1,1,False,11083566
+annual fee,1,2,False,11084050
+investigation,1,1,False,11084929
+credit report,1,1,False,11084954
+refund,1,2,False,11084966
+,0,11,True,11084976
+late fee,1,1,False,11085468
+applied for,1,1,False,11085487
+refund,1,2,False,11085491
+,0,11,True,11085638
+,0,11,True,11086740
+,0,11,True,11086769
+account closure,1,1,False,11087143
+unauthorized charge,1,2,False,11087267
+refund,1,1,False,11087311
+credit report,1,2,False,11087579
+credit limit | customer service,2,1,False,11087826
+,0,11,True,11088049
+,0,11,True,11088247
+late fee | fees,2,1,False,11088333
+credit limit,1,2,False,11088336
+investigation,1,1,False,11088347
+fraudulent charges,1,3,False,11088354
+,0,11,True,11088681
+late fee,1,3,False,11088966
+,0,11,True,11088978
+promotional offer | promotion,2,1,False,11089133
+,0,11,True,11089870
+customer service,1,3,False,11089923
+closed my account | account was closed,2,1,False,11089940
+credit report,1,1,False,11089962
+,0,11,True,11089989
+refund,1,1,False,11090004
+rewards | customer service,2,2,False,11090009
+,0,11,True,11090322
+,0,11,True,11090362
+credit limit,1,1,False,11090464
+advertised | signup bonus,2,1,False,11090560
+credit report,1,1,False,11090655
+refund,1,1,False,11090671
+refund,1,2,False,11090677
+rewards,1,2,False,11090704
+refund,1,1,False,11090707
+late fee,1,1,False,11090723
+,0,11,True,11091124
+make a payment | payment processing,2,1,False,11091445
+rewards,1,1,False,11091578
+closed account | account was closed,2,1,False,11091715
+cash advance,1,3,False,11121779
+credit report,1,1,False,11077871
+credit report,1,1,False,11077874
+customer service,1,1,False,11077909
+,0,11,True,11078571
+,0,11,True,11078583
+credit report,1,1,False,11079309
+,0,11,True,11079696
+credit report,1,1,False,11079701
+merchant,1,1,False,11079716
+advertising | welcome bonus,2,1,False,11079828
+,0,11,True,11079830
+apr,1,2,False,11079833
+customer service,1,1,False,11079863
+credit report,1,1,False,11079867
+credit report,1,1,False,11079868
+customer service,1,3,False,11079872
+fees,1,2,False,11080710
+,0,11,True,11080828
+late fee,1,1,False,11080899
+promotion | welcome bonus,2,1,False,11081060
+fees,1,3,False,11081272
+merchant,1,3,False,11081286
+refund | merchant,2,1,False,11082407
+rewards | credit limit,2,1,False,11084882
+refund,1,2,False,11085525
+,0,11,True,11092609
+late fee,1,1,False,11092941
+interest rate | fees,2,1,False,11092947
+closed my account,1,2,False,11092992
+customer service,1,2,False,11093097
+closed my account | close my account | account was closed,3,1,False,11093262
+refund,1,1,False,11093344
+fees,1,1,False,11093513
+,0,11,True,11093724
+refund,1,1,False,11093975
+interest rate,1,1,False,11094083
+,0,11,True,11094315
+annual fee,1,2,False,11094950
+promotional offer | promotion,2,1,False,11095198
+,0,11,True,11095205
+late fee | fees,2,1,False,11095355
+,0,11,True,11095373
+,0,11,True,11095524
+apr,1,3,False,11095526
+,0,11,True,11095616
+refund,1,2,False,11095643
+merchant,1,1,False,11096160
+,0,11,True,11096237
+interest charge,1,2,False,11096244
+refund,1,1,False,11096293
+customer service,1,1,False,11096313
+annual fee | apr,2,2,False,11096862
+refund | merchant,2,1,False,11096926
+close my account,1,2,False,11096974
+credit report,1,1,False,11096978
+credit report,1,1,False,11097100
+late fee,1,2,False,11097195
+credit report,1,1,False,11097313
+,0,11,True,11097628
+advertised,1,1,False,11097739
+refund,1,1,False,11097783
+,0,11,True,11097841
+,0,11,True,11097844
+merchant,1,1,False,11097985
+merchant,1,1,False,11098137
+fees,1,1,False,11098221
+applied for,1,1,False,11098701
+,0,11,True,11098709
+,0,11,True,11098743
+customer service,1,1,False,11098775
+,0,11,True,11098834
+apr,1,3,False,11098891
+rewards,1,1,False,11098911
+autopay,1,2,False,11098970
+,0,11,True,11098972
+promotion,1,1,False,11099425
+refund,1,1,False,11099525
+credit limit,1,1,False,11099616
+,0,11,True,11099663
+,0,11,True,11100052
+refund,1,1,False,11100106
+,0,11,True,11100755
+merchant,1,1,False,11100849
+refund,1,1,False,11100923
+applied for,1,1,False,11101369
+refund,1,1,False,11102493
+,0,11,True,11104425
+,0,11,True,11104428
+investigation,1,1,False,11104436
+refund | merchant,2,1,False,11104505
+,0,11,True,11104609
+balance transfer | customer service,2,1,False,11106972
+fraudulent charge | refund,2,1,False,11106998
+fees | apr,2,1,False,11107011
+credit limit | customer service,2,1,False,11107023
+customer service,1,1,False,11107097
+,0,11,True,11107136
+interest rate,1,3,False,11107144
+rewards,1,1,False,11107164
+,0,11,True,11107168
+credit report,1,1,False,11107482
+late fee | fees,2,1,False,11107733
+,0,11,True,11094544
+close my account,1,1,False,11094687
+late fee | fees,2,1,False,11094815
+fees,1,1,False,11094846
+merchant,1,1,False,11094967
+account was closed,1,1,False,11094983
+,0,11,True,11095111
+fees,1,1,False,11095814
+credit card application,1,2,False,11096130
+refund,1,2,False,11096152
+,0,11,True,11096584
+,0,11,True,11097006
+,0,11,True,11097045
+merchant,1,1,False,11099305
+promotion | advertised,2,1,False,11099778
+fees,1,1,False,11100978
+close my account,1,3,False,11106336
+credit report,1,1,False,11106346
+never applied,1,1,False,11107188
+refund | merchant,2,1,False,11107193
+close my account | closed account,2,1,False,11107198
+fraudulent charges,1,3,False,11107863
+annual fee,1,2,False,11107897
+customer service,1,1,False,11108203
+,0,11,True,11108225
+,0,11,True,11108263
+rewards | customer service,2,1,False,11108584
+applied for | never applied,2,1,False,11108590
+refund | merchant,2,1,False,11108621
+late fee | fees,2,1,False,11108639
+,0,11,True,11108657
+fees,1,2,False,11109152
+fraudulent charges,1,2,False,11109317
+fraudulent charges | refund,2,1,False,11109881
+unauthorized charge | refund,2,1,False,11110082
+hardship,1,1,False,11110090
+applied for,1,1,False,11110097
+credit report,1,2,False,11110113
+customer service,1,1,False,11110134
+,0,11,True,11110141
+refund,1,2,False,11110163
+refund,1,2,False,11110178
+,0,11,True,11110189
+,0,11,True,11110208
+,0,11,True,11110324
+fraudulent charges,1,3,False,11110343
+,0,11,True,11112046
+,0,11,True,11112741
+,0,11,True,11113026
+refund,1,3,False,11113065
+fraudulent charges,1,2,False,11113208
+fees,1,1,False,11113751
+account closure | account was closed,2,1,False,11113761
+applied for,1,1,False,11113931
+advertised,1,1,False,11114626
+account was closed,1,1,False,11114709
+customer service,1,2,False,11114753
+,0,11,True,11115088
+customer service,1,2,False,11115315
+customer service,1,1,False,11116531
+closed my account | close my account | account was closed,3,1,False,11116582
+close my account,1,1,False,11116670
+advertising,1,1,False,11116722
+applied for,1,1,False,11117327
+chargeback,1,1,False,11117697
+cash advance,1,3,False,11117710
+unauthorized charges | fraudulent charges,2,1,False,11117863
+,0,11,True,11118078
+chargeback | refund | merchant,3,1,False,11118552
+,0,11,True,11118816
+refund,1,1,False,11119011
+interest charge | apr,2,1,False,11119078
+,0,11,True,11119556
+annual fee | late fee | fees,3,1,False,11119747
+investigation,1,1,False,11119904
+customer service,1,1,False,11120138
+refund,1,2,False,11120146
+,0,11,True,11120423
+merchant,1,1,False,11120584
+fees,1,2,False,11120771
+unauthorized charge | refund,2,1,False,11120842
+customer service,1,1,False,11120958
+refund,1,2,False,11120974
+credit report,1,1,False,11121152
+refund,1,2,False,11121219
+investigation,1,1,False,11121271
+customer service,1,1,False,11121288
+fees,1,1,False,11121336
+,0,11,True,11121579
+closed account,1,1,False,11121609
+merchant,1,1,False,11121692
+credit card application,1,1,False,11121811
+late fee,1,2,False,11121853
+credit report,1,1,False,11121944
+,0,11,True,11122204
+interest rate,1,2,False,11122384
+rewards,1,2,False,11122617
+fraudulent charges,1,2,False,11122624
+credit report,1,1,False,11122928
+refund,1,2,False,11122946
+account was closed,1,1,False,11122966
+,0,11,True,11123236
+,0,11,True,11123362
+,0,11,True,11125611
+refund,1,1,False,11136608
+customer service,1,1,False,11149642
+credit report,1,1,False,11189440
+credit limit | customer service,2,1,False,11108844
+,0,11,True,11108868
+,0,11,True,11108904
+credit limit | customer service,2,1,False,11109633
+,0,11,True,11109743
+refund | merchant,2,1,False,11109776
+credit limit,1,1,False,11109917
+rewards,1,2,False,11109985
+close my account,1,1,False,11110080
+closed my account,1,2,False,11111167
+closed account,1,1,False,11111181
+fees,1,1,False,11111270
+customer service,1,2,False,11111282
+rewards | balance transfer,2,1,False,11111327
+refund,1,1,False,11111331
+,0,11,True,11111382
+,0,11,True,11111388
+customer service,1,1,False,11111690
+apr,1,1,False,11111883
+merchant,1,1,False,11111942
+annual fee,1,3,False,11112007
+,0,11,True,11112777
+,0,11,True,11122211
+credit limit,1,1,False,11123099
+applied for,1,2,False,11125511
+close my account | account was closed,2,1,False,11127358
+account was closed,1,1,False,11127396
+,0,11,True,11127450
+make a payment,1,1,False,11127501
+chargeback | refund,2,1,False,11127512
+fees,1,2,False,11127536
+unauthorized charge,1,1,False,11129255
+credit card application,1,1,False,11129397
+,0,11,True,11129524
+refund,1,1,False,11129543
+,0,11,True,11129759
+merchant,1,2,False,11130267
+,0,11,True,11130342
+promotion | advertised,2,1,False,11130465
+annual fee,1,3,False,11130503
+refund | merchant,2,1,False,11130513
+,0,11,True,11130600
+interest rate | interest charge | fees,3,1,False,11130659
+unauthorized charge,1,2,False,11130826
+apr,1,3,False,11130837
+customer service,1,1,False,11131606
+refund,1,1,False,11131684
+fees,1,2,False,11131693
+,0,11,True,11131813
+,0,11,True,11131823
+annual fee,1,3,False,11131827
+investigation,1,1,False,11131943
+,0,11,True,11131945
+,0,11,True,11131946
+close my account,1,1,False,11131948
+credit limit | customer service,2,1,False,11132515
+credit report,1,1,False,11133037
+customer service,1,1,False,11133050
+,0,11,True,11133057
+,0,11,True,11133402
+,0,11,True,11134045
+fees,1,3,False,11134340
+late payment remarks,1,1,False,11134345
+hardship,1,1,False,11134379
+lost my job,1,1,False,11135793
+credit report,1,1,False,11135817
+unauthorized charges,1,4,False,11135865
+,0,11,True,11135909
+credit limit,1,1,False,11136584
+refund | merchant,2,1,False,11136644
+rewards | credit limit,2,1,False,11136677
+unauthorized charge | unauthorized charges | fraudulent charge,3,1,False,11136699
+refund | merchant,2,1,False,11136741
+,0,11,True,11136747
+refund | merchant,2,1,False,11136803
+refund,1,4,False,11136899
+,0,11,True,11136999
+credit report,1,1,False,11137398
+,0,11,True,11137674
+fraudulent charge | merchant,2,1,False,11137685
+fraudulent charges,1,2,False,11137716
+credit report,1,1,False,11137847
+merchant,1,2,False,11137864
+,0,11,True,11137897
+interest charge | fees,2,1,False,11137938
+applied for,1,1,False,11138006
+refund,1,1,False,11138157
+interest charge | fees,2,1,False,11138171
+,0,11,True,11138310
+fraudulent charges,1,1,False,11138665
+late fee | fees,2,1,False,11138719
+credit report,1,2,False,11138748
+annual fee | late fee | fees,3,1,False,11138757
+make a payment,1,2,False,11138767
+,0,11,True,11138795
+refund,1,3,False,11138797
+,0,11,True,11138809
+,0,11,True,11138838
+,0,11,True,11123511
+rewards | customer service,2,1,False,11123601
+fraudulent charges | merchant,2,1,False,11124089
+,0,11,True,11126271
+late fee,1,2,False,11126278
+refund | merchant,2,1,False,11127913
+,0,11,True,11127941
+merchant,1,3,False,11128372
+late fee,1,1,False,11128383
+,0,11,True,11128397
+fraudulent charge,1,1,False,11128752
+,0,11,True,11128753
+,0,11,True,11128763
+applied for,1,1,False,11129887
+applied for,1,2,False,11129972
+,0,11,True,11130099
+merchant,1,4,False,11131068
+fraudulent charge | merchant,2,1,False,11138981
+credit limit | customer service,2,1,False,11138983
+unauthorized charges,1,1,False,11138999
+late fee | fees,2,1,False,11139021
+,0,11,True,11139544
+investigation,1,1,False,11139560
+credit report,1,1,False,11139612
+applied for,1,2,False,11139619
+refund,1,2,False,11139629
+fees,1,1,False,11139659
+interest charge | late fee,2,1,False,11139679
+refund,1,5,False,11139681
+,0,11,True,11140414
+refund,1,1,False,11140490
+refund,1,2,False,11140498
+,0,11,True,11140500
+,0,11,True,11140547
+,0,11,True,11140598
+refund,1,1,False,11140629
+automatic payment,1,1,False,11140673
+credit limit,1,1,False,11140748
+,0,11,True,11142401
+rewards,1,3,False,11142487
+fraudulent charge,1,1,False,11142570
+customer service,1,1,False,11142654
+financial hardship | hardship,2,1,False,11142700
+late fee,1,4,False,11142702
+,0,11,True,11142793
+advertised,1,1,False,11142820
+,0,11,True,11142888
+,0,11,True,11142920
+,0,11,True,11143155
+fraudulent charges,1,2,False,11144820
+,0,11,True,11144885
+,0,11,True,11145195
+investigation,1,1,False,11145256
+,0,11,True,11145347
+credit report,1,2,False,11145354
+refund | merchant,2,1,False,11145371
+apr,1,2,False,11145373
+,0,11,True,11145413
+fees,1,1,False,11145416
+,0,11,True,11145702
+chargeback | refund,2,1,False,11146071
+inaccurate reporting,1,1,False,11146324
+unauthorized charge | unauthorized charges | merchant,3,1,False,11146642
+customer service,1,1,False,11146668
+fraudulent charge | merchant,2,1,False,11146805
+denied my application,1,1,False,11146928
+,0,11,True,11146938
+balance transfer | customer service,2,1,False,11147014
+fees,1,1,False,11147435
+replacement card,1,1,False,11147835
+,0,11,True,11148501
+fees,1,3,False,11148508
+,0,11,True,11149080
+,0,11,True,11149128
+,0,11,True,11149253
+rewards | customer service,2,1,False,11149282
+promotion,1,1,False,11149319
+credit limit,1,1,False,11149350
+,0,11,True,11149487
+,0,11,True,11150110
+,0,11,True,11150112
+applied for | never applied,2,1,False,11150120
+,0,11,True,11150153
+refund,1,3,False,11150327
+,0,11,True,11150348
+account closure | close my account,2,1,False,11150349
+merchant,1,1,False,11151029
+fees,1,2,False,11151362
+,0,11,True,11151428
+,0,11,True,11151491
+closed my account,1,1,False,11151497
+replacement card,1,2,False,11151501
+apr,1,1,False,11151590
+fees,1,3,False,11151671
+fees | apr,2,1,False,11151672
+fees,1,2,False,11152202
+fees,1,2,False,11152360
+refund,1,3,False,11141587
+credit report,1,1,False,11144269
+late fee | fees,2,1,False,11144402
+,0,11,True,11144456
+balance transfer,1,1,False,11147619
+,0,11,True,11148302
+balance transfer | customer service,2,1,False,11148516
+annual fee,1,1,False,11148679
+,0,11,True,11153271
+customer service,1,1,False,11153485
+make a payment,1,1,False,11153799
+unauthorized charge | merchant,2,1,False,11153810
+balance transfer | cash advance,2,1,False,11153815
+,0,11,True,11153844
+,0,11,True,11154089
+,0,11,True,11154100
+late fee,1,2,False,11154120
+,0,11,True,11154328
+credit limit,1,1,False,11154350
+,0,11,True,11154445
+customer service,1,1,False,11154482
+annual fee,1,3,False,11154514
+,0,11,True,11154569
+late fee,1,2,False,11154580
+credit limit,1,1,False,11154589
+fees,1,1,False,11154606
+,0,11,True,11154878
+inaccurate reporting | credit report,2,1,False,11155020
+fraudulent charges,1,1,False,11155024
+,0,11,True,11155106
+,0,11,True,11155155
+,0,11,True,11155393
+refund,1,1,False,11156493
+rewards,1,2,False,11156499
+fees,1,2,False,11156504
+customer service,1,1,False,11156538
+account was closed,1,1,False,11156554
+,0,11,True,11156559
+late fee,1,1,False,11156580
+fraudulent charge,1,2,False,11156618
+,0,11,True,11156620
+,0,11,True,11156635
+,0,11,True,11156639
+fees,1,1,False,11156670
+closed my account,1,2,False,11156762
+,0,11,True,11156832
+interest charge | late fee | fees,3,1,False,11156889
+credit report,1,1,False,11156934
+,0,11,True,11156940
+credit report,1,1,False,11156995
+close my account | account was closed,2,1,False,11157411
+fraudulent charges,1,2,False,11157416
+customer service,1,1,False,11157752
+credit limit | customer service,2,1,False,11158090
+make a payment,1,1,False,11158221
+late fee,1,1,False,11158287
+fees,1,2,False,11158383
+late fee,1,1,False,11158560
+fees,1,1,False,11158643
+make a payment,1,1,False,11158832
+refund,1,1,False,11158879
+,0,11,True,11158906
+fees,1,2,False,11158940
+account closure,1,1,False,11159224
+late fee | fees,2,1,False,11159234
+automatic payment,1,1,False,11159381
+,0,11,True,11159415
+unauthorized charges,1,2,False,11159547
+fees,1,1,False,11164188
+,0,11,True,11164201
+,0,11,True,11152756
+investigation,1,1,False,11153186
+,0,11,True,11153201
+customer service,1,2,False,11153209
+,0,11,True,11153224
+,0,11,True,11153248
+customer service,1,1,False,11153264
+,0,11,True,11155590
+,0,11,True,11155622
+,0,11,True,11155627
+rewards | reward points,2,1,False,11155668
+,0,11,True,11156045
+closed my account | close my account,2,1,False,11156050
+credit limit,1,2,False,11156222
+refund,1,1,False,11156396
+late fee | apr,2,1,False,11160791
+rewards,1,2,False,11160802
+customer service,1,2,False,11160815
+refund,1,4,False,11161016
+,0,11,True,11161022
+,0,11,True,11161041
+balance transfer | customer service,2,1,False,11161065
+,0,11,True,11161143
+merchant,1,3,False,11161444
+unauthorized charge | unauthorized charges | fraudulent charges,3,1,False,11161803
+fraudulent charges,1,2,False,11162137
+fraudulent charges,1,1,False,11162148
+,0,11,True,11162538
+,0,11,True,11162588
+customer service,1,2,False,11162627
+,0,11,True,11162667
+annual fee | late fee | fees,3,1,False,11162678
+fraudulent charge,1,1,False,11163247
+,0,11,True,11163276
+,0,11,True,11163607
+,0,11,True,11163712
+,0,11,True,11163714
+fraudulent charges,1,1,False,11163722
+fees,1,1,False,11163739
+late fee,1,1,False,11163974
+,0,11,True,11163986
+rewards,1,1,False,11164097
+fees,1,1,False,11164400
+,0,11,True,11164450
+rewards,1,1,False,11164563
+interest rate,1,1,False,11164741
+closed my account,1,1,False,11164753
+,0,11,True,11164769
+customer service,1,1,False,11164804
+credit limit,1,3,False,11164805
+chargeback,1,1,False,11164968
+credit limit,1,1,False,11165083
+fees,1,3,False,11159892
+promotion,1,1,False,11160017
+credit limit,1,2,False,11160074
+apr,1,1,False,11160903
+,0,11,True,11160960
+account was closed,1,2,False,11162078
+account was closed,1,2,False,11162082
+,0,11,True,11162966
+refund,1,2,False,11164254
+,0,11,True,11164297
+fees,1,1,False,11164342
+credit report,1,1,False,11164547
+,0,11,True,11164648
+,0,11,True,11165292
+credit report,1,1,False,11165303
+balance transfer,1,1,False,11165319
+interest charge,1,2,False,11165352
+financial hardship | hardship,2,1,False,11165907
+,0,11,True,11165916
+credit report,1,2,False,11165976
+fraudulent charge | refund,2,1,False,11166086
+,0,11,True,11166159
+customer service,1,1,False,11166174
+promotion,1,1,False,11166581
+customer service,1,3,False,11167111
+advertised,1,1,False,11167155
+refund,1,3,False,11167354
+,0,11,True,11167358
+,0,11,True,11167452
+account was closed,1,3,False,11167731
+,0,11,True,11167757
+refund,1,1,False,11167762
+credit limit,1,2,False,11167826
+,0,11,True,11167833
+,0,11,True,11167886
+refund,1,2,False,11167953
+,0,11,True,11167971
+credit limit,1,1,False,11167983
+chargeback | refund,2,1,False,11167984
+,0,11,True,11167985
+closed my account | close my account,2,1,False,11168004
+incorrect information | credit report,2,1,False,11168009
+refund,1,1,False,11169013
+,0,11,True,11169307
+credit report,1,1,False,11169308
+fees,1,1,False,11169371
+fraudulent charges,1,1,False,11169471
+,0,11,True,11169663
+customer service,1,2,False,11169844
+late fee,1,1,False,11169963
+late fee,1,3,False,11169991
+merchant,1,1,False,11170023
+fraudulent charges | refund,2,1,False,11170026
+,0,11,True,11170599
+,0,11,True,11170605
+customer service,1,3,False,11170621
+,0,11,True,11170644
+fraudulent charges,1,2,False,11172094
+reward points,1,2,False,11172259
+,0,11,True,11173174
+chargeback | refund | merchant,3,1,False,11173183
+,0,11,True,11173242
+refund,1,2,False,11173252
+fees,1,2,False,11173255
+,0,11,True,11173294
+customer service,1,1,False,11173317
+fees,1,2,False,11173470
+applied for,1,2,False,11173554
+merchant,1,1,False,11173578
+promotional offer | advertised,2,1,False,11173636
+rewards,1,1,False,11173787
+apr,1,3,False,11174615
+customer service,1,3,False,11174620
+late fee,1,1,False,11174745
+credit limit,1,1,False,11174748
+unauthorized charges | fraudulent charges | refund,3,1,False,11174803
+customer service,1,1,False,11174902
+,0,11,True,11174958
+,0,11,True,11175013
+credit report,1,1,False,11175092
+,0,11,True,11176058
+refund,1,2,False,11176156
+late fee | fees,2,1,False,11176271
+,0,11,True,11176276
+promotion | welcome bonus,2,1,False,11176333
+interest charge | fees,2,2,False,11176430
+interest rate | late fee | fees | apr,4,1,False,11177598
+chargeback | refund | merchant,3,1,False,11177847
+refund | merchant,2,1,False,11177903
+refund | merchant,2,1,False,11178055
+,0,11,True,11178092
+,0,11,True,11178101
+credit limit,1,3,False,11178129
+,0,11,True,11178195
+interest rate | interest charge,2,2,False,11178213
+,0,11,True,11178532
+unauthorized charges,1,2,False,11179698
+,0,11,True,11179875
+,0,11,True,11179928
+fraudulent charge,1,1,False,11179932
+,0,11,True,11179939
+credit report,1,1,False,11180054
+annual fee,1,5,False,11180059
+investigation,1,1,False,11199649
+refund,1,1,False,11171255
+merchant,1,2,False,11171416
+,0,11,True,11171430
+financial hardship | hardship,2,1,False,11172658
+applied for,1,2,False,11172715
+late fee,1,1,False,11173583
+make a payment,1,1,False,11174185
+,0,11,True,11174211
+rewards,1,1,False,11174426
+refund | merchant,2,1,False,11174974
+refund | merchant,2,1,False,11175259
+,0,11,True,11175280
+credit limit | customer service,2,1,False,11175320
+,0,11,True,11175459
+annual fee | fees,2,1,False,11175645
+fees,1,2,False,11175743
+fees,1,2,False,11175833
+fraudulent charges,1,3,False,11175920
+refund,1,2,False,11175931
+rewards | customer service,2,2,False,11180102
+refund,1,1,False,11180118
+late fee,1,2,False,11180338
+customer service,1,3,False,11180496
+,0,11,True,11180594
+merchant,1,1,False,11181777
+financial hardship | hardship,2,1,False,11181797
+merchant,1,2,False,11181801
+unauthorized charges | fraudulent charge | merchant,3,1,False,11181809
+unauthorized charges,1,2,False,11181815
+fees,1,2,False,11182561
+,0,11,True,11182615
+,0,11,True,11183103
+customer service,1,2,False,11183314
+,0,11,True,11183365
+merchant,1,4,False,11183726
+customer service,1,3,False,11184274
+interest rate,1,1,False,11184350
+customer service,1,1,False,11184415
+,0,11,True,11184433
+credit report,1,1,False,11184491
+refund,1,1,False,11184519
+autopay,1,2,False,11184702
+,0,11,True,11185347
+refund,1,1,False,11185400
+,0,11,True,11185584
+credit limit,1,1,False,11185747
+credit card application,1,1,False,11185784
+,0,11,True,11185791
+credit limit | customer service,2,1,False,11185831
+replacement card,1,1,False,11185865
+,0,11,True,11185880
+credit limit,1,1,False,11185897
+late fee,1,1,False,11185973
+applied for,1,1,False,11186003
+refund,1,1,False,11186007
+refund,1,2,False,11186042
+,0,11,True,11186063
+late fee | fees,2,1,False,11186068
+chargeback | merchant,2,1,False,11186110
+refund | merchant,2,1,False,11186842
+refund,1,1,False,11186924
+late fee | fees,2,1,False,11186929
+interest charge,1,1,False,11187030
+fees,1,2,False,11187034
+fees,1,2,False,11187043
+interest rate | fees,2,1,False,11187213
+closed my account,1,1,False,11188186
+refund,1,2,False,11188255
+merchant,1,2,False,11188265
+interest rate | fees,2,1,False,11188504
+refund,1,2,False,11188740
+merchant,1,1,False,11188936
+merchant,1,2,False,11189036
+fees,1,2,False,11189096
+fees,1,2,False,11189146
+refund,1,1,False,11189809
+interest rate,1,2,False,11189856
+late fee | fees | apr,3,1,False,11190065
+,0,11,True,11190275
+interest rate | fees,2,2,False,11192042
+refund,1,1,False,11192253
+interest rate | annual fee | fees,3,1,False,11192855
+,0,11,True,11193135
+,0,11,True,11193146
+promotion,1,1,False,11193817
+chargeback,1,1,False,11193829
+closed account,1,1,False,11193898
+refund,1,1,False,11193977
+fees,1,2,False,11194004
+,0,11,True,11194101
+,0,11,True,11194125
+merchant,1,2,False,11194233
+refund,1,3,False,11194344
+customer service,1,2,False,11194365
+fees,1,2,False,11194458
+late fee | fees,2,1,False,11194552
+fees,1,2,False,11194563
+,0,11,True,11194599
+refund | merchant,2,1,False,11194659
+annual fee | fees,2,1,False,11194729
+,0,11,True,11194743
+,0,11,True,11194749
+interest charge,1,1,False,11194771
+refund,1,1,False,11194852
+balance transfer | customer service,2,1,False,11194874
+applied for,1,2,False,11194916
+,0,11,True,11199681
+credit limit,1,1,False,11200717
+interest charge,1,1,False,11204127
+closed my account | closed account,2,1,False,11181130
+autopay,1,1,False,11189872
+,0,11,True,11190455
+apr,1,3,False,11190543
+,0,11,True,11190621
+,0,11,True,11191004
+refund,1,1,False,11191078
+fees,1,2,False,11191212
+merchant,1,2,False,11191504
+credit card application | applied for,2,1,False,11191527
+,0,11,True,11191787
+rewards,1,2,False,11191802
+reward points | credit limit,2,1,False,11191836
+credit report,1,1,False,11193492
+,0,11,True,11193504
+,0,11,True,11193633
+refund,1,1,False,11193656
+fraudulent charges,1,2,False,11193819
+,0,11,True,11193900
+chargeback,1,1,False,11194380
+autopay,1,1,False,11195108
+investigation | failed to investigate,2,1,False,11195479
+,0,11,True,11195488
+refund | merchant,2,1,False,11195524
+refund,1,2,False,11195525
+rewards,1,1,False,11195644
+credit card application | applied for | never applied,3,1,False,11195651
+,0,11,True,11195658
+merchant,1,2,False,11195671
+investigation,1,1,False,11195681
+merchant,1,1,False,11195682
+credit card application,1,2,False,11195688
+credit card application | application denied,2,1,False,11195756
+credit report,1,1,False,11195801
+interest rate | apr,2,1,False,11196873
+refund | merchant,2,1,False,11196961
+fees,1,1,False,11197011
+,0,11,True,11197030
+,0,11,True,11197238
+,0,11,True,11197241
+annual fee | fees,2,1,False,11197309
+credit report,1,1,False,11197653
+closed my account,1,1,False,11198053
+credit card application | applied for,2,1,False,11198058
+fraudulent charge,1,2,False,11198146
+chargeback | refund | merchant,3,1,False,11198314
+interest rate,1,1,False,11198328
+,0,11,True,11198878
+refund,1,1,False,11199008
+fraudulent charge,1,1,False,11199234
+apr,1,3,False,11199341
+interest rate,1,1,False,11199489
+customer service,1,2,False,11199523
+refund | merchant,2,1,False,11199587
+customer service,1,1,False,11199599
+interest charge | fees,2,1,False,11199604
+,0,11,True,11199608
+chargeback | refund | merchant,3,1,False,11199694
+applied for,1,1,False,11200130
+,0,11,True,11201924
+rewards | customer service,2,1,False,11201953
+refund,1,2,False,11202203
+unauthorized charges | fraudulent charge,2,1,False,11202377
+closed my account | close my account,2,1,False,11202410
+unauthorized charge | merchant,2,1,False,11202531
+account was closed,1,1,False,11202547
+,0,11,True,11202562
+apr,1,1,False,11202574
+refund,1,1,False,11202585
+investigation,1,1,False,11202593
+,0,11,True,11202603
+interest charge | late fee | fees,3,1,False,11202641
+customer service,1,1,False,11202642
+investigation,1,1,False,11202715
+fees,1,1,False,11202785
+refund,1,2,False,11202838
+,0,11,True,11202976
+investigation,1,1,False,11203003
+,0,11,True,11203058
+,0,11,True,11203266
+fraudulent charges,1,1,False,11203291
+interest rate,1,2,False,11203572
+,0,11,True,11203612
+customer service,1,1,False,11204540
+,0,11,True,11204605
+interest rate | late fee,2,1,False,11204738
+make a payment,1,1,False,11204810
+,0,11,True,11204883
+investigation,1,1,False,11204933
+,0,11,True,11204958
+customer service,1,1,False,11205058
+fees,1,3,False,11205143
+,0,11,True,11205174
+fraudulent charges | merchant,2,1,False,11205252
+close my account | account was closed,2,1,False,11205473
+interest rate | interest charge,2,1,False,11205559
+merchant,1,1,False,11205601
+fees | apr,2,1,False,11205621
+,0,11,True,11205727
+incorrect information,1,1,False,11205908
+interest charge | late fee,2,1,False,11205911
+customer service,1,1,False,11205971
+,0,11,True,11206088
+late fee | fees,2,1,False,11206145
+,0,11,True,11206157
+customer service,1,1,False,11206158
+fees,1,3,False,11206647
+late fee,1,1,False,11206718
+credit report,1,1,False,11206786
+interest rate | interest charge,2,1,False,11206876
+unauthorized charges,1,1,False,11208155
+,0,11,True,11208614
+refund,1,2,False,11208673
+refund,1,2,False,11208736
+,0,11,True,11208752
+autopay,1,1,False,11208932
+,0,11,True,11197136
+,0,11,True,11197537
+investigation,1,1,False,11200838
+late fee,1,1,False,11201059
+refund,1,3,False,11201272
+,0,11,True,11201413
+fees,1,2,False,11202090
+,0,11,True,11202176
+never applied,1,2,False,11209338
+credit limit | customer service,2,1,False,11210375
+customer service,1,1,False,11210462
+credit limit,1,1,False,11210784
+credit report,1,1,False,11210917
+,0,11,True,11211159
+fees,1,1,False,11211172
+customer service,1,2,False,11211215
+,0,11,True,11211217
+customer service,1,4,False,11211253
+,0,11,True,11211307
+refund | merchant,2,1,False,11211324
+annual fee,1,1,False,11211350
+credit report,1,1,False,11211957
+fees,1,1,False,11212095
+merchant,1,1,False,11212117
+rewards,1,1,False,11212188
+,0,11,True,11212222
+,0,11,True,11212241
+chargeback | refund | merchant,3,1,False,11212249
+,0,11,True,11212323
+fraudulent charges | merchant,2,1,False,11212482
+applied for,1,1,False,11212701
+refund,1,2,False,11212985
+credit limit,1,1,False,11213071
+refund,1,3,False,11213159
+refund,1,1,False,11213253
+,0,11,True,11213269
+,0,11,True,11214028
+,0,11,True,11214472
+fraudulent charges,1,3,False,11214650
+credit report,1,1,False,11214827
+applied for,1,1,False,11214965
+,0,11,True,11215044
+,0,11,True,11215344
+investigation,1,1,False,11215489
+promotion | welcome bonus,2,1,False,11215512
+,0,11,True,11215723
+,0,11,True,11215798
+,0,11,True,11215844
+credit report,1,1,False,11217503
+customer service,1,2,False,11217679
+,0,11,True,11220038
+fraudulent charges,1,1,False,11220423
+credit report,1,1,False,11221134
+fees,1,1,False,11221232
+annual fee,1,1,False,11221433
+customer service,1,1,False,11221470
+,0,11,True,11221483
+unauthorized charges,1,2,False,11221528
+,0,11,True,11221533
+,0,11,True,11221539
+investigation,1,1,False,11221568
+,0,11,True,11221571
+refund,1,1,False,11221611
+customer service,1,1,False,11221697
+,0,11,True,11221728
+,0,11,True,11221757
+interest rate,1,1,False,11221780
+credit report,1,1,False,11221937
+fees,1,1,False,11222334
+fees,1,3,False,11222414
+,0,11,True,11222470
+investigation,1,1,False,11222526
+applied for,1,2,False,11222557
+refund,1,1,False,11222566
+,0,11,True,11222609
+rewards,1,1,False,11222652
+refund | merchant,2,1,False,11222661
+balance transfer,1,1,False,11222759
+chargeback | refund,2,1,False,11222760
+merchant,1,2,False,11222821
+interest rate,1,2,False,11223186
+credit limit,1,1,False,11223257
+merchant,1,1,False,11223327
+,0,11,True,11223400
+account was closed,1,1,False,11223439
+customer service,1,1,False,11223440
+credit report,1,1,False,11223556
+account was closed,1,1,False,11224063
+merchant,1,2,False,11224279
+denied my application,1,1,False,11224331
+merchant,1,2,False,11224364
+,0,11,True,11231397
+annual fee,1,2,False,11236556
+fees,1,4,False,11216980
+,0,11,True,11216983
+,0,11,True,11217550
+,0,11,True,11218350
+,0,11,True,11218390
+,0,11,True,11218397
+credit report,1,1,False,11219068
+,0,11,True,11220554
+,0,11,True,11220762
+,0,11,True,11220831
+interest charge | fees,2,1,False,11220916
+,0,11,True,11220998
+,0,11,True,11224719
+fees,1,1,False,11224884
+,0,11,True,11225082
+,0,11,True,11226243
+interest rate,1,1,False,11226502
+chargeback | merchant,2,1,False,11226537
+investigation,1,1,False,11226740
+,0,11,True,11227039
+interest charge | late fee,2,1,False,11227178
+,0,11,True,11227333
+,0,11,True,11227425
+late fee | fees,2,1,False,11227989
+fees,1,3,False,11228401
+interest rate,1,2,False,11228424
+annual fee,1,2,False,11228426
+late fee | fees,2,1,False,11228432
+refund | merchant,2,1,False,11228435
+financial hardship | hardship,2,1,False,11228444
+,0,11,True,11228557
+fees,1,2,False,11228594
+account was closed,1,1,False,11228763
+interest charge | late fee,2,1,False,11229510
+fees,1,2,False,11230005
+closed my account,1,1,False,11230047
+fees,1,2,False,11230325
+cash advance | customer service,2,1,False,11230353
+balance transfer,1,2,False,11230367
+investigation,1,1,False,11230417
+,0,11,True,11230462
+,0,11,True,11230484
+,0,11,True,11230770
+late fee,1,2,False,11230781
+interest rate | apr,2,1,False,11231038
+applied for | never applied,2,1,False,11231069
+rewards | reward points,2,1,False,11231122
+applied for,1,1,False,11231297
+interest charge | fees,2,1,False,11231369
+refund,1,2,False,11231996
+,0,11,True,11232103
+fees,1,2,False,11232121
+interest rate | apr,2,1,False,11232158
+balance transfer,1,2,False,11232208
+,0,11,True,11232259
+,0,11,True,11232267
+,0,11,True,11232296
+,0,11,True,11232320
+customer service,1,3,False,11232472
+,0,11,True,11232516
+refund,1,1,False,11232546
+credit report,1,1,False,11232662
+,0,11,True,11232991
+unauthorized charges,1,1,False,11233232
+,0,11,True,11233454
+refund | merchant,2,1,False,11233527
+unauthorized charge,1,3,False,11233619
+customer service,1,1,False,11235536
+,0,11,True,11236867
+credit report,1,1,False,11237360
+cash advance,1,1,False,11237363
+late fee | fees,2,1,False,11237376
+fees,1,1,False,11237401
+fraudulent charges,1,1,False,11237410
+,0,11,True,11237451
+fees,1,4,False,11237505
+,0,11,True,11237539
+customer service,1,1,False,11237540
+,0,11,True,11242118
+late fee | fees,2,2,False,11242125
+,0,11,True,11226868
+refund,1,1,False,11227477
+closed my account,1,1,False,11227904
+make a payment,1,1,False,11229096
+customer service,1,1,False,11229174
+rewards,1,1,False,11229213
+credit limit,1,1,False,11229357
+,0,11,True,11229389
+credit limit | customer service,2,1,False,11229644
+,0,11,True,11231732
+rewards,1,1,False,11231753
+,0,11,True,11231776
+applied for | never applied,2,1,False,11231783
+customer service,1,1,False,11231785
+closed my account,1,1,False,11231948
+credit card application,1,1,False,11232154
+merchant,1,2,False,11238048
+applied for,1,2,False,11238113
+,0,11,True,11238248
+financial hardship | hardship,2,1,False,11238410
+,0,11,True,11238654
+closed account | account was closed,2,1,False,11238683
+autopay,1,1,False,11238872
+,0,11,True,11238989
+,0,11,True,11239004
+,0,11,True,11239120
+customer service,1,3,False,11239121
+interest charge | late fee | fees,3,1,False,11239123
+,0,11,True,11239181
+sign up bonus,1,2,False,11240141
+late fee | fees,2,1,False,11241866
+,0,11,True,11241971
+,0,11,True,11242223
+,0,11,True,11242584
+apr,1,1,False,11242743
+credit report,1,2,False,11242784
+closed account,1,3,False,11242844
+fees,1,2,False,11242908
+interest rate,1,2,False,11242950
+,0,11,True,11242978
+,0,11,True,11243027
+closed my account | account was closed,2,1,False,11243041
+rewards,1,1,False,11243236
+,0,11,True,11243250
+close my account,1,1,False,11243286
+,0,11,True,11243291
+closed my account | account closure | close my account | account was closed,4,1,False,11243312
+credit report,1,1,False,11243430
+,0,11,True,11243464
+refund,1,1,False,11243498
+investigation,1,1,False,11243566
+refund | merchant,2,1,False,11243622
+credit report,1,1,False,11243679
+refund,1,2,False,11243705
+credit limit | customer service,2,1,False,11243709
+unable to pay,1,1,False,11243767
+,0,11,True,11243829
+,0,11,True,11243834
+interest rate | fees,2,1,False,11243855
+late fee,1,1,False,11243956
+,0,11,True,11244059
+,0,11,True,11244092
+applied for,1,1,False,11244166
+credit limit | customer service,2,1,False,11244234
+annual fee,1,3,False,11244238
+fraudulent charges,1,2,False,11244265
+,0,11,True,11244317
+,0,11,True,11244410
+credit report,1,1,False,11244652
+fraudulent charges,1,1,False,11244715
+refund,1,2,False,11244737
+fraudulent charge | merchant,2,1,False,11244743
+late fee | fees,2,1,False,11244880
+,0,11,True,11245516
+,0,11,True,11248328
+,0,11,True,11248561
+interest rate,1,1,False,11249554
+,0,11,True,11249579
+interest rate | fees | apr,3,1,False,11249593
+,0,11,True,11249608
+fees,1,2,False,11249640
+credit report,1,1,False,11249825
+closed account | account was closed,2,1,False,11275410
+refund,1,1,False,11275414
+,0,11,True,11239717
+,0,11,True,11240039
+fraudulent charge | fraudulent charges | merchant,3,1,False,11240312
+interest charge,1,1,False,11240477
+,0,11,True,11240587
+,0,11,True,11240599
+refund | merchant,2,1,False,11240600
+closed my account | account closure,2,1,False,11240741
+financial hardship | hardship,2,1,False,11240838
+,0,11,True,11241122
+refund,1,1,False,11241238
+,0,11,True,11241608
+refund,1,1,False,11241609
+investigation,1,1,False,11245909
+customer service,1,1,False,11245961
+,0,11,True,11245997
+unauthorized charges,1,2,False,11246017
+credit card application | applied for,2,1,False,11246059
+,0,11,True,11246074
+closed my account | close my account,2,1,False,11246105
+credit report,1,1,False,11246127
+,0,11,True,11246149
+,0,11,True,11246190
+interest rate | fees,2,2,False,11246262
+,0,11,True,11246371
+,0,11,True,11246473
+,0,11,True,11246517
+credit report,1,1,False,11247004
+credit card application,1,1,False,11247009
+credit report,1,1,False,11247058
+,0,11,True,11247125
+refund | merchant,2,1,False,11247196
+merchant,1,2,False,11247237
+autopay | make a payment,2,1,False,11247327
+,0,11,True,11247329
+fees,1,1,False,11247330
+,0,11,True,11247338
+,0,11,True,11247389
+credit limit | customer service,2,1,False,11247401
+fees,1,2,False,11247409
+late fee | fees,2,1,False,11248008
+refund,1,1,False,11248093
+customer service,1,1,False,11248126
+interest charge,1,1,False,11248570
+,0,11,True,11248721
+,0,11,True,11249806
+credit report,1,1,False,11250078
+annual fee,1,2,False,11250272
+refund,1,1,False,11250537
+credit report,1,1,False,11245088
+,0,11,True,11245090
+,0,11,True,11245189
+,0,11,True,11245317
+interest charge | late fee,2,1,False,11245503
+refund,1,2,False,11248875
+,0,11,True,11249390
+rewards | customer service,2,1,False,11249524
+financial hardship | hardship,2,1,False,11252154
+fraudulent charges,1,4,False,11252290
+,0,11,True,11252342
+cash advance,1,1,False,11252544
+,0,11,True,11252731
+,0,11,True,11252950
+applied for,1,1,False,11252951
+customer service,1,1,False,11254783
+,0,11,True,11255097
+rewards,1,1,False,11255346
+refund,1,1,False,11255770
+,0,11,True,11255782
+,0,11,True,11255877
+,0,11,True,11255986
+interest rate | interest charge,2,1,False,11255993
+late fee | fees,2,1,False,11256026
+,0,11,True,11256101
+annual fee,1,2,False,11256915
+,0,11,True,11256980
+credit report,1,2,False,11257764
+late fee,1,2,False,11258005
+,0,11,True,11258023
+customer service,1,1,False,11258053
+annual fee,1,1,False,11258492
+refund,1,1,False,11258510
+interest charge,1,1,False,11258607
+,0,11,True,11258651
+credit report,1,1,False,11258821
+,0,11,True,11258978
+merchant,1,1,False,11259081
+,0,11,True,11259261
+,0,11,True,11260676
+refund,1,4,False,11261347
+closed my account | close my account,2,1,False,11262083
+,0,11,True,11262242
+closed my account | close my account,2,1,False,11269569
+closed account,1,1,False,11269630
+merchant,1,2,False,11269824
+merchant,1,1,False,11270032
+,0,11,True,11270084
+interest charge,1,2,False,11270201
+credit limit,1,1,False,11270243
+late fee | fees,2,1,False,11270299
+,0,11,True,11270336
+,0,11,True,11270512
+inaccurate reporting,1,2,False,11271048
+refund | merchant,2,2,False,11271218
+customer service,1,2,False,11271270
+,0,11,True,11271274
+reporting inaccurately,1,1,False,11271304
+,0,11,True,11271358
+,0,11,True,11271451
+fees,1,3,False,11271593
+refund,1,4,False,11271705
+credit limit,1,2,False,11271718
+refund,1,1,False,11271823
+credit limit | customer service,2,1,False,11271990
+investigation,1,1,False,11272072
+financial hardship | hardship,2,1,False,11272357
+refund,1,1,False,11272379
+interest charge,1,3,False,11272714
+credit report,1,1,False,11272778
+fees,1,1,False,11272939
+investigation,1,1,False,11273132
+applied for | never applied,2,1,False,11273165
+merchant,1,1,False,11273169
+interest rate,1,1,False,11274250
+applied for,1,1,False,11274266
+unauthorized charge | refund,2,2,False,11274474
+,0,11,True,11274509
+,0,11,True,11274541
+late fee | fees,2,1,False,11275037
+chargeback | refund,2,1,False,11275139
+close my account | account was closed,2,1,False,11275316
+,0,11,True,11275343
+refund,1,1,False,11275373
+,0,11,True,11275428
+rewards,1,1,False,11275626
+refund,1,2,False,11275649
+customer service,1,1,False,11275783
+refund,1,4,False,11275941
+chargeback,1,1,False,11276023
+late fee,1,1,False,11276082
+,0,11,True,11276105
+,0,11,True,11276182
+closed my account,1,3,False,11276353
+,0,11,True,11276469
+fees,1,1,False,11276497
+credit limit,1,1,False,11276522
+,0,11,True,11276557
+,0,11,True,11250654
+,0,11,True,11251072
+applied for | never applied,2,1,False,11251116
+,0,11,True,11253251
+fees,1,2,False,11253269
+fraudulent charges,1,2,False,11253280
+,0,11,True,11253295
+refund,1,1,False,11253303
+,0,11,True,11253838
+close my account | account was closed,2,1,False,11253869
+,0,11,True,11253934
+,0,11,True,11254299
+,0,11,True,11254348
+,0,11,True,11254349
+fraudulent charges,1,4,False,11254371
+,0,11,True,11254586
+,0,11,True,11254704
+credit report,1,1,False,11254760
+,0,11,True,11254792
+account was closed,1,1,False,11258018
+merchant,1,3,False,11264287
+investigation,1,1,False,11264342
+advertised,1,1,False,11264366
+credit report,1,1,False,11264460
+credit limit,1,1,False,11264747
+account was closed,1,1,False,11264805
+customer service,1,2,False,11265104
+,0,11,True,11265243
+,0,11,True,11265317
+fraudulent charges | merchant,2,1,False,11265350
+,0,11,True,11265362
+refund,1,1,False,11265405
+reward points,1,1,False,11265561
+customer service,1,2,False,11265633
+fees,1,1,False,11265717
+account closure | account was closed,2,1,False,11265760
+customer service,1,1,False,11265882
+,0,11,True,11265893
+fees,1,1,False,11265896
+fees,1,1,False,11265944
+credit limit,1,1,False,11265948
+fees,1,1,False,11265984
+fees,1,1,False,11266021
+investigation | failed to investigate,2,1,False,11266075
+refund,1,2,False,11266124
+credit card application | applied for,2,1,False,11266227
+fraudulent charges,1,1,False,11266240
+credit report,1,2,False,11266318
+investigation,1,1,False,11266351
+balance transfer,1,1,False,11266454
+fees,1,1,False,11266458
+refund,1,1,False,11266624
+fees,1,1,False,11266675
+,0,11,True,11266700
+fees,1,1,False,11266730
+fees,1,1,False,11266741
+,0,11,True,11266765
+,0,11,True,11266815
+fees,1,1,False,11266860
+credit limit,1,1,False,11266880
+late fee | fees,2,1,False,11266884
+fees,1,2,False,11266978
+refund,1,2,False,11267200
+credit report,1,1,False,11267316
+,0,11,True,11267351
+investigation,1,1,False,11267352
+close my account,1,2,False,11267531
+,0,11,True,11267537
+,0,11,True,11267572
+refund,1,1,False,11268157
+,0,11,True,11268260
+autopay,1,1,False,11268330
+chargeback | refund,2,1,False,11268519
+customer service,1,1,False,11268585
+credit report,1,1,False,11268717
+,0,11,True,11268928
+refund,1,2,False,11268930
+fees,1,3,False,11269044
+,0,11,True,11269086
+late fee | fees,2,1,False,11269261
+rewards | customer service,2,1,False,11269686
+account was closed,1,2,False,11269927
+closed my account | account closure,2,1,False,11270019
+refund,1,1,False,11270064
+investigation | reinvestigation,2,1,False,11270136
+,0,11,True,11270167
+applied for,1,3,False,11270950
+customer service,1,2,False,11270985
+,0,11,True,11271186
+late fee | fees,2,1,False,11272029
+fees | apr,2,1,False,11273901
+,0,11,True,11274062
+account closure,1,1,False,11274099
+,0,11,True,11275472
+fees,1,3,False,11275487
+,0,11,True,11276624
+customer service,1,1,False,11276644
+make a payment,1,3,False,11260020
+refund,1,2,False,11261266
+customer service,1,1,False,11261674
+,0,11,True,11261686
+investigation,1,1,False,11261690
+interest charge | annual fee | fees,3,1,False,11262084
+chargeback,1,2,False,11262324
+,0,11,True,11262489
+,0,11,True,11262544
+,0,11,True,11262558
+fraudulent charges,1,1,False,11262611
+,0,11,True,11262628
+annual fee | fees,2,1,False,11262641
+fraudulent charge,1,1,False,11262645
+refund,1,1,False,11262903
+interest rate | apr,2,2,False,11263149
+,0,11,True,11263185
+unauthorized charges,1,2,False,11263303
+,0,11,True,11263306
+refund | merchant,2,1,False,11263330
+credit report,1,2,False,11263561
+customer service,1,2,False,11263608
+,0,11,True,11263698
+,0,11,True,11263834
+late fee | fees,2,1,False,11264102
+applied for,1,2,False,11264288
+customer service,1,1,False,11264837
+credit report,1,1,False,11256396
+,0,11,True,11256526
+customer service,1,1,False,11257559
+,0,11,True,11259839
+merchant,1,1,False,11259908
+,0,11,True,11259910
+,0,11,True,11259927
+fraudulent charges | chargeback | refund | merchant,4,1,False,11259938
+interest rate,1,2,False,11259988
+,0,11,True,11278214
+fraudulent charges | merchant,2,1,False,11278523
+promotional offer | promotion,2,1,False,11278549
+annual fee | fees,2,1,False,11278567
+,0,11,True,11278649
+refund | merchant,2,1,False,11278670
+merchant,1,1,False,11278697
+credit report,1,1,False,11278718
+close my account,1,1,False,11279232
+welcome bonus,1,1,False,11279349
+interest rate,1,1,False,11279857
+blocked my card,1,1,False,11279980
+,0,11,True,11280378
+refund,1,1,False,11280483
+,0,11,True,11280530
+hardship,1,1,False,11280553
+fraudulent charges | refund | merchant,3,1,False,11280732
+,0,11,True,11280834
+,0,11,True,11281098
+late fee | fees,2,1,False,11281177
+account was closed,1,2,False,11281223
+credit report,1,1,False,11281353
+unauthorized charges | fraudulent charge | refund,3,1,False,11281357
+apr,1,2,False,11281642
+merchant,1,3,False,11281653
+credit limit | customer service,2,1,False,11281791
+merchant,1,1,False,11281915
+customer service,1,1,False,11281959
+refund,1,1,False,11282540
+closed my account | account closure,2,1,False,11282572
+,0,11,True,11282599
+refund,1,2,False,11282605
+close my account,1,1,False,11282694
+,0,11,True,11282742
+unauthorized charges,1,2,False,11282744
+credit limit | customer service,2,1,False,11283001
+,0,11,True,11283011
+,0,11,True,11283066
+late fee,1,3,False,11283255
+refund | merchant,2,1,False,11283297
+fraudulent charges,1,1,False,11283309
+,0,11,True,11283320
+fraudulent charges,1,1,False,11283340
+,0,11,True,11283380
+,0,11,True,11283590
+apr,1,2,False,11283666
+late fee,1,1,False,11284452
+investigation,1,1,False,11284484
+applied for,1,1,False,11284561
+,0,11,True,11284858
+late fee,1,1,False,11284887
+interest rate,1,3,False,11285271
+,0,11,True,11285317
+merchant,1,2,False,11285319
+financial hardship | hardship,2,1,False,11285353
+credit report,1,1,False,11286232
+refund,1,3,False,11286896
+customer service,1,3,False,11287114
+fraudulent charges,1,4,False,11287139
+fraudulent charges | merchant,2,1,False,11287184
+fees,1,2,False,11287560
+fraudulent charges,1,1,False,11287593
+autopay,1,1,False,11287888
+refund,1,1,False,11287911
+,0,11,True,11287964
+refund | merchant,2,1,False,11287991
+annual fee,1,4,False,11288009
+fees,1,2,False,11288022
+refund,1,1,False,11288038
+refund,1,2,False,11288066
+balance transfer,1,1,False,11288067
+late fee,1,2,False,11288091
+customer service,1,1,False,11288648
+late fee | fees,2,1,False,11288997
+,0,11,True,11289044
+unauthorized charge | fraudulent charge,2,1,False,11289065
+promotion | advertising | welcome bonus,3,1,False,11289069
+,0,11,True,11289079
+,0,11,True,11289117
+unauthorized charges,1,1,False,11289136
+applied for,1,2,False,11289391
+fees,1,1,False,11289405
+closed my account | account was closed,2,1,False,11290300
+rewards,1,1,False,11290374
+,0,11,True,11290381
+unauthorized charge,1,1,False,11290686
+incorrect information,1,1,False,11290740
+fees,1,1,False,11290744
+interest rate | interest charge,2,1,False,11290760
+customer service,1,1,False,11327027
+credit report,1,1,False,11284089
+unauthorized charges | fraudulent charges,2,1,False,11284241
+fees,1,1,False,11284308
+customer service,1,2,False,11284332
+fees,1,1,False,11284366
+account closure,1,1,False,11284398
+fraudulent charge,1,2,False,11284472
+credit limit,1,1,False,11284478
+,0,11,True,11284483
+annual fee,1,4,False,11284585
+balance transfer | customer service,2,1,False,11284855
+credit limit,1,1,False,11285716
+credit limit,1,1,False,11285751
+,0,11,True,11285773
+credit limit,1,1,False,11285957
+,0,11,True,11286167
+fees,1,1,False,11286453
+customer service,1,1,False,11286512
+,0,11,True,11287168
+,0,11,True,11287228
+,0,11,True,11287246
+customer service,1,1,False,11287773
+credit limit,1,1,False,11287857
+interest rate,1,3,False,11287876
+refund,1,2,False,11292542
+unauthorized charges,1,3,False,11293693
+applied for | never applied,2,1,False,11293825
+,0,11,True,11294016
+,0,11,True,11294021
+hardship | unable to pay,2,1,False,11294028
+,0,11,True,11294056
+balance transfer | customer service,2,1,False,11294061
+closed my account,1,1,False,11294137
+unauthorized charge,1,2,False,11294138
+rewards,1,1,False,11294173
+,0,11,True,11294436
+investigation,1,1,False,11294541
+annual fee | fees,2,1,False,11294547
+autopay,1,2,False,11294604
+,0,11,True,11294614
+promotional offer | promotion | advertised,3,1,False,11294662
+refund | merchant,2,1,False,11294691
+,0,11,True,11295129
+refund,1,2,False,11295207
+customer service,1,2,False,11295292
+customer service,1,1,False,11295763
+,0,11,True,11295777
+applied for,1,1,False,11295780
+,0,11,True,11295913
+closed my account | closed account,2,2,False,11295917
+balance transfer,1,2,False,11295949
+applied for,1,1,False,11295965
+rewards,1,1,False,11295974
+investigation,1,1,False,11295975
+,0,11,True,11295999
+,0,11,True,11296462
+,0,11,True,11296520
+rewards | customer service,2,1,False,11296605
+financial hardship | hardship,2,1,False,11296718
+credit limit,1,1,False,11296926
+,0,11,True,11297135
+,0,11,True,11297446
+refund,1,1,False,11297511
+,0,11,True,11297560
+customer service,1,1,False,11297561
+fees,1,1,False,11297690
+,0,11,True,11298208
+refund,1,2,False,11298325
+,0,11,True,11298386
+,0,11,True,11298657
+,0,11,True,11299363
+fraudulent charges,1,3,False,11299425
+fees,1,2,False,11299458
+,0,11,True,11299473
+,0,11,True,11299764
+,0,11,True,11300063
+applied for,1,1,False,11300312
+,0,11,True,11300582
+fees,1,3,False,11300588
+fees | apr,2,1,False,11300596
+fees,1,1,False,11300626
+,0,11,True,11300632
+,0,11,True,11301259
+merchant,1,2,False,11301354
+applied for,1,2,False,11301374
+close my account,1,1,False,11301389
+refund,1,1,False,11301537
+late fee,1,1,False,11301867
+merchant,1,1,False,11302067
+applied for,1,1,False,11302117
+fraudulent charges,1,1,False,11302212
+,0,11,True,11302289
+fees,1,1,False,11302307
+merchant,1,1,False,11302595
+,0,11,True,11303293
+,0,11,True,11303568
+credit report,1,2,False,11303850
+refund,1,1,False,11291024
+,0,11,True,11291256
+refund,1,1,False,11293370
+,0,11,True,11293441
+refund,1,2,False,11293469
+,0,11,True,11293483
+,0,11,True,11293488
+interest charge | late fee,2,1,False,11293639
+,0,11,True,11293657
+,0,11,True,11293723
+,0,11,True,11293733
+,0,11,True,11293767
+inaccurate reporting | credit report,2,1,False,11293797
+refund | merchant,2,1,False,11293827
+,0,11,True,11293915
+credit card application,1,1,False,11293926
+refund,1,2,False,11293927
+,0,11,True,11293969
+,0,11,True,11293978
+customer service,1,2,False,11293992
+refund,1,2,False,11293997
+merchant,1,2,False,11294024
+interest rate,1,1,False,11294037
+,0,11,True,11304968
+closed my account,1,2,False,11305075
+customer service,1,1,False,11305191
+advertised,1,2,False,11305326
+,0,11,True,11305340
+autopay,1,1,False,11305502
+,0,11,True,11305578
+,0,11,True,11305696
+fees,1,3,False,11305828
+promotion,1,1,False,11306013
+,0,11,True,11306067
+refund | merchant,2,1,False,11306157
+fees,1,1,False,11306252
+credit report,1,1,False,11306282
+merchant,1,1,False,11306310
+promotional offer | advertising,2,1,False,11306364
+,0,11,True,11306369
+rewards,1,2,False,11306401
+chargeback,1,1,False,11306482
+refund,1,2,False,11306519
+merchant,1,1,False,11306540
+refund,1,3,False,11306603
+financial hardship | hardship,2,1,False,11306663
+credit report,1,1,False,11306674
+refund,1,1,False,11306943
+late fee | fees,2,1,False,11306961
+fees,1,1,False,11307228
+fraudulent charge,1,2,False,11307270
+interest rate,1,1,False,11307354
+cash advance | customer service,2,1,False,11307374
+fraudulent charges,1,2,False,11307461
+refund,1,1,False,11307652
+make a payment,1,1,False,11307707
+rewards,1,1,False,11307730
+,0,11,True,11307887
+merchant,1,3,False,11308084
+applied for,1,1,False,11308560
+,0,11,True,11308615
+,0,11,True,11308820
+credit report,1,1,False,11308873
+customer service,1,2,False,11310913
+,0,11,True,11310919
+balance transfer,1,1,False,11311088
+applied for,1,1,False,11311222
+merchant,1,1,False,11311254
+closed account | account was closed,2,1,False,11311293
+,0,11,True,11311501
+fees,1,1,False,11311506
+advertised | advertising,2,1,False,11311534
+,0,11,True,11311632
+fees,1,1,False,11311679
+unauthorized charges,1,1,False,11311833
+reward points,1,2,False,11311838
+credit report,1,1,False,11311891
+refund,1,2,False,11311902
+,0,11,True,11311969
+fees,1,1,False,11312018
+refund | merchant,2,1,False,11312099
+interest charge,1,2,False,11332505
+,0,11,True,11309427
+interest rate,1,2,False,11309983
+customer service,1,1,False,11310245
+applied for | never applied,2,1,False,11310313
+customer service,1,1,False,11310501
+autopay,1,3,False,11310550
+credit limit,1,1,False,11310575
+,0,11,True,11310626
+refund | merchant,2,1,False,11310827
+apr,1,3,False,11310842
+,0,11,True,11310871
+fees,1,3,False,11310872
+interest rate,1,2,False,11310939
+,0,11,True,11310988
+refund,1,2,False,11311099
+interest charge | late fee,2,1,False,11315118
+,0,11,True,11315188
+,0,11,True,11315450
+cash advance | customer service,2,1,False,11315606
+,0,11,True,11315644
+,0,11,True,11315707
+promotional offer | promotion,2,1,False,11315749
+merchant,1,1,False,11315773
+closed my account | close my account,2,1,False,11315785
+chargeback,1,1,False,11315790
+account was closed,1,1,False,11315800
+credit report,1,1,False,11315806
+closed my account,1,1,False,11315933
+,0,11,True,11315936
+,0,11,True,11315966
+annual fee,1,2,False,11315997
+fraudulent charges,1,1,False,11316019
+refund,1,1,False,11316037
+customer service,1,1,False,11316080
+advertised | advertising,2,1,False,11316083
+closed my account | closed account | account was closed,3,1,False,11316099
+customer service,1,2,False,11316139
+customer service,1,1,False,11316208
+fees,1,1,False,11316711
+,0,11,True,11316756
+,0,11,True,11316787
+,0,11,True,11317031
+late fee | fees,2,1,False,11317041
+customer service,1,1,False,11317044
+advertising,1,2,False,11317083
+,0,11,True,11317184
+,0,11,True,11317185
+,0,11,True,11317189
+interest rate | interest charge,2,1,False,11317227
+investigation,1,1,False,11317229
+customer service,1,1,False,11317230
+,0,11,True,11317237
+,0,11,True,11317268
+fees,1,1,False,11317766
+refund,1,1,False,11317895
+closed my account,1,1,False,11317896
+unauthorized charges | refund,2,2,False,11317963
+interest charge,1,1,False,11318095
+interest rate | interest charge | late fee,3,1,False,11318123
+,0,11,True,11318166
+promotion | advertising,2,1,False,11318575
+fraudulent charge | fraudulent charges | merchant,3,1,False,11318616
+credit limit,1,2,False,11330576
+fraudulent charges,1,1,False,11312379
+fraudulent charges,1,1,False,11312465
+refund,1,2,False,11313985
+,0,11,True,11314134
+refund,1,3,False,11314368
+,0,11,True,11314498
+,0,11,True,11314521
+interest rate | fees,2,1,False,11314618
+fees,1,2,False,11314640
+customer service,1,2,False,11314684
+,0,11,True,11314762
+refund,1,2,False,11314981
+,0,11,True,11321567
+refund | merchant,2,1,False,11321654
+balance transfer | customer service,2,1,False,11321727
+investigation,1,1,False,11321882
+refund,1,4,False,11321971
+customer service,1,2,False,11322057
+chargeback | merchant,2,1,False,11322428
+late fee,1,1,False,11322541
+,0,11,True,11322595
+applied for | never applied,2,1,False,11322602
+late fee,1,1,False,11322687
+,0,11,True,11322753
+account was closed,1,2,False,11322757
+,0,11,True,11322789
+apr,1,2,False,11322822
+promotion | advertised,2,1,False,11322846
+late fee,1,1,False,11322876
+,0,11,True,11322927
+,0,11,True,11322967
+late fee | fees,2,1,False,11323089
+refund,1,1,False,11323163
+,0,11,True,11323170
+,0,11,True,11323263
+customer service,1,1,False,11323518
+merchant,1,2,False,11323565
+,0,11,True,11323625
+unauthorized charge | merchant,2,1,False,11323656
+,0,11,True,11323671
+interest charge,1,1,False,11323675
+cash advance | customer service,2,1,False,11323681
+interest rate,1,2,False,11323714
+annual fee | fees,2,1,False,11323790
+refund,1,1,False,11323799
+investigation,1,1,False,11323910
+,0,11,True,11323922
+,0,11,True,11323943
+,0,11,True,11323982
+,0,11,True,11323998
+late fee,1,1,False,11324323
+investigation,1,1,False,11324329
+refund | merchant,2,1,False,11324367
+denied my application,1,1,False,11324442
+,0,11,True,11324453
+refund | merchant,2,1,False,11324543
+,0,11,True,11324550
+,0,11,True,11324575
+late fee | fees,2,1,False,11324589
+interest rate,1,3,False,11324620
+customer service,1,1,False,11324654
+interest charge,1,1,False,11324691
+fees,1,1,False,11325191
+annual fee | fees,2,1,False,11325242
+applied for | never applied,2,1,False,11325288
+interest rate,1,1,False,11325296
+applied for | never applied,2,1,False,11325406
+fraudulent charge | refund | merchant,3,1,False,11325441
+applied for | never applied,2,1,False,11325462
+autopay,1,1,False,11325543
+customer service,1,3,False,11325582
+closed my account,1,2,False,11325641
+,0,11,True,11325714
+,0,11,True,11325720
+merchant,1,3,False,11325725
+,0,11,True,11325738
+,0,11,True,11325813
+applied for | never applied,2,1,False,11325887
+annual fee,1,1,False,11326017
+apr,1,1,False,11326845
+merchant,1,3,False,11326895
+fees | apr,2,1,False,11326996
+investigation,1,1,False,11327357
+,0,11,True,11327517
+late fee | fees,2,1,False,11327664
+,0,11,True,11327668
+credit report,1,1,False,11327802
+fees,1,4,False,11327981
+,0,11,True,11328023
+,0,11,True,11328226
+customer service,1,1,False,11328280
+interest rate | fees,2,1,False,11328461
+,0,11,True,11328501
+financial hardship | hardship,2,1,False,11328786
+customer service,1,1,False,11328881
+rewards | reward points,2,1,False,11328905
+account was closed,1,1,False,11328920
+customer service,1,1,False,11328922
+,0,11,True,11329576
+credit limit,1,2,False,11329690
+,0,11,True,11330146
+fees,1,1,False,11330539
+fees,1,1,False,11330554
+,0,11,True,11330875
+customer service,1,2,False,11330924
+closed my account,1,1,False,11330969
+close my account,1,1,False,11331336
+credit card application | applied for,2,1,False,11331476
+credit report,1,1,False,11331640
+,0,11,True,11321052
+late fee | fees,2,1,False,11321348
+applied for,1,2,False,11321373
+interest charge | fees | apr,3,1,False,11321401
+credit report,1,1,False,11321779
+,0,11,True,11322051
+applied for,1,1,False,11322052
+late fee | fees,2,1,False,11322102
+refund,1,1,False,11322110
+credit card application | applied for,2,1,False,11322339
+late fee | fees,2,1,False,11322407
+merchant,1,3,False,11322663
+refund,1,1,False,11332228
+,0,11,True,11332236
+,0,11,True,11332254
+chargeback | refund | merchant,3,1,False,11332270
+promotion,1,1,False,11332272
+payment assistance,1,1,False,11332331
+fees,1,2,False,11332337
+advertised,1,1,False,11332340
+refund,1,1,False,11332355
+,0,11,True,11332363
+fees,1,3,False,11332463
+,0,11,True,11332494
+,0,11,True,11332552
+merchant,1,1,False,11332657
+merchant,1,1,False,11332872
+credit limit,1,1,False,11332895
+,0,11,True,11332901
+customer service,1,3,False,11332934
+investigation,1,1,False,11332937
+,0,11,True,11332955
+,0,11,True,11332958
+credit report,1,1,False,11333282
+refund,1,4,False,11335504
+financial hardship | hardship,2,1,False,11335716
+rewards | customer service,2,1,False,11335742
+,0,11,True,11335749
+,0,11,True,11335783
+reward points,1,2,False,11335789
+applied for,1,1,False,11335833
+investigation,1,1,False,11335933
+fraudulent charge,1,2,False,11335994
+promotion,1,1,False,11336007
+credit limit,1,3,False,11336041
+close my account,1,1,False,11336108
+close my account,1,1,False,11336110
+annual fee,1,3,False,11336144
+fraudulent charges,1,1,False,11336159
+applied for,1,1,False,11336164
+reward points,1,2,False,11336166
+,0,11,True,11336181
+merchant,1,2,False,11336187
+,0,11,True,11336319
+unauthorized charges | chargeback | refund,3,1,False,11336337
+interest charge | late fee | fees,3,1,False,11336342
+,0,11,True,11336348
+credit card application,1,1,False,11336441
+apr,1,1,False,11336457
+credit report,1,1,False,11336487
+,0,11,True,11336502
+,0,11,True,11336520
+,0,11,True,11336538
+fees,1,2,False,11336578
+investigation,1,1,False,11336744
+credit card application,1,1,False,11336773
+,0,11,True,11336820
+credit report,1,1,False,11336840
+customer service,1,2,False,11336865
+closed my account,1,1,False,11337240
+inaccurate reporting | credit report,2,1,False,11337289
+,0,11,True,11337312
+make a payment,1,1,False,11337336
+account was closed,1,2,False,11337338
+,0,11,True,11337344
+fees,1,2,False,11337568
+late fee,1,2,False,11337569
+,0,11,True,11337623
+customer service,1,2,False,11337648
+fees,1,1,False,11337663
+refund,1,1,False,11337671
+,0,11,True,11337674
+refund,1,2,False,11337676
+,0,11,True,11337697
+reward points,1,2,False,11337708
+investigation,1,1,False,11337736
+,0,11,True,11337904
+interest rate | fees,2,1,False,11337945
+refund,1,2,False,11337971
+late fee | fees,2,1,False,11338071
+fees,1,3,False,11338231
+refund | merchant,2,1,False,11338241
+autopay,1,1,False,11338358
+,0,11,True,11338361
+account closure | account was closed,2,1,False,11338443
+credit report,1,1,False,11338515
+,0,11,True,11338555
+inaccurate reporting | credit report,2,1,False,11338714
+,0,11,True,11338733
+,0,11,True,11338739
+refund,1,1,False,11338766
+merchant,1,1,False,11338783
+,0,11,True,11338820
+,0,11,True,11338822
+credit limit,1,2,False,11338829
+,0,11,True,11338833
+,0,11,True,11338865
+merchant,1,1,False,11346173
+,0,11,True,11346182
+late fee | fees,2,3,False,11346192
+,0,11,True,11356132

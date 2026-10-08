@@ -1,0 +1,441 @@
+model,focal_Issue,direction,other_Issue,count,denominator,conditional_percent
+Epoch 1,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",45,350,12.857142857142858
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Closing your account,39,350,11.142857142857142
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Fees or interest,58,350,16.571428571428573
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Getting a credit card,33,350,9.428571428571429
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,32,350,9.142857142857142
+Epoch 1,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",7,350,2.0
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Problem when making payments,26,350,7.428571428571429
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,82,350,23.428571428571427
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,11,350,3.142857142857143
+Epoch 1,"Other features, terms, or problems",true_to_predicted,Trouble using your card,17,350,4.857142857142857
+Epoch 1,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",4,17,23.529411764705884
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Closing your account,0,17,0.0
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Fees or interest,0,17,0.0
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Getting a credit card,1,17,5.882352941176471
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,17,0.0
+Epoch 1,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",7,17,41.1764705882353
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Problem when making payments,3,17,17.647058823529413
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,17,0.0
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,2,17,11.764705882352942
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,17,0.0
+Epoch 1,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,17,0.0
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,5,46,10.869565217391305
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,5,46,10.869565217391305
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,24,46,52.17391304347826
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,4,46,8.695652173913043
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,4,46,8.695652173913043
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Epoch 1,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,2,46,4.3478260869565215
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,0,
+Epoch 1,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,0,
+Epoch 2,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",56,350,16.0
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Closing your account,38,350,10.857142857142858
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Fees or interest,46,350,13.142857142857142
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Getting a credit card,46,350,13.142857142857142
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,20,350,5.714285714285714
+Epoch 2,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",7,350,2.0
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Problem when making payments,40,350,11.428571428571429
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,81,350,23.142857142857142
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,3,350,0.8571428571428571
+Epoch 2,"Other features, terms, or problems",true_to_predicted,Trouble using your card,13,350,3.7142857142857144
+Epoch 2,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Closing your account,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Fees or interest,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",7,9,77.77777777777777
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Problem when making payments,1,9,11.11111111111111
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,1,9,11.11111111111111
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,9,0.0
+Epoch 2,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,9,0.0
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,2,46,4.3478260869565215
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,2,46,4.3478260869565215
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,10,46,21.73913043478261
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,19,46,41.30434782608695
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,7,46,15.217391304347826
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,5,46,10.869565217391305
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,0,46,0.0
+Epoch 2,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,0,
+Epoch 2,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,0,
+Epoch 3,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",62,350,17.714285714285715
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Closing your account,32,350,9.142857142857142
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Fees or interest,43,350,12.285714285714286
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Getting a credit card,33,350,9.428571428571429
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,28,350,8.0
+Epoch 3,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",4,350,1.1428571428571428
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Problem when making payments,41,350,11.714285714285714
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,84,350,24.0
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,3,350,0.8571428571428571
+Epoch 3,"Other features, terms, or problems",true_to_predicted,Trouble using your card,20,350,5.714285714285714
+Epoch 3,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Closing your account,0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Fees or interest,1,8,12.5
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",4,8,50.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Problem when making payments,1,8,12.5
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,1,8,12.5
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,8,0.0
+Epoch 3,"Other features, terms, or problems",predicted_from_true,Trouble using your card,1,8,12.5
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,6,46,13.043478260869565
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,27,46,58.69565217391305
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,4,46,8.695652173913043
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,46,13.043478260869565
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,0,46,0.0
+Epoch 3,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,0,
+Epoch 3,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,0,
+Epoch 4,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",72,350,20.571428571428573
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Closing your account,30,350,8.571428571428571
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Fees or interest,34,350,9.714285714285714
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Getting a credit card,37,350,10.571428571428571
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,29,350,8.285714285714286
+Epoch 4,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",2,350,0.5714285714285714
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Problem when making payments,47,350,13.428571428571429
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,69,350,19.714285714285715
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,4,350,1.1428571428571428
+Epoch 4,"Other features, terms, or problems",true_to_predicted,Trouble using your card,26,350,7.428571428571429
+Epoch 4,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Closing your account,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Fees or interest,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",2,5,40.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Problem when making payments,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,5,60.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,5,0.0
+Epoch 4,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,5,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,6,46,13.043478260869565
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,27,46,58.69565217391305
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,4,46,8.695652173913043
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,46,13.043478260869565
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,0,46,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,1,1,100.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,1,0.0
+Epoch 4,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,1,0.0
+Epoch 5,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",65,350,18.571428571428573
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Closing your account,32,350,9.142857142857142
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Fees or interest,31,350,8.857142857142858
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Getting a credit card,43,350,12.285714285714286
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,27,350,7.714285714285714
+Epoch 5,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",2,350,0.5714285714285714
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Problem when making payments,46,350,13.142857142857142
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,73,350,20.857142857142858
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,4,350,1.1428571428571428
+Epoch 5,"Other features, terms, or problems",true_to_predicted,Trouble using your card,27,350,7.714285714285714
+Epoch 5,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Closing your account,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Fees or interest,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",2,5,40.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Problem when making payments,1,5,20.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,2,5,40.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,5,0.0
+Epoch 5,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,5,0.0
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,7,46,15.217391304347826
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,25,46,54.34782608695652
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,3,46,6.521739130434782
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,7,46,15.217391304347826
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Epoch 5,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,0,
+Epoch 5,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,0,
+Epoch 6,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",67,350,19.142857142857142
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Closing your account,31,350,8.857142857142858
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Fees or interest,31,350,8.857142857142858
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Getting a credit card,33,350,9.428571428571429
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,30,350,8.571428571428571
+Epoch 6,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",3,350,0.8571428571428571
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Problem when making payments,45,350,12.857142857142858
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,77,350,22.0
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,4,350,1.1428571428571428
+Epoch 6,"Other features, terms, or problems",true_to_predicted,Trouble using your card,29,350,8.285714285714286
+Epoch 6,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,9,0.0
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Closing your account,1,9,11.11111111111111
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Fees or interest,1,9,11.11111111111111
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,9,0.0
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,9,0.0
+Epoch 6,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",3,9,33.333333333333336
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Problem when making payments,1,9,11.11111111111111
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,9,0.0
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,9,33.333333333333336
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,9,0.0
+Epoch 6,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,9,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,6,46,13.043478260869565
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,27,46,58.69565217391305
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,3,46,6.521739130434782
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,46,13.043478260869565
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Epoch 6,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,1,2,50.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,1,2,50.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,2,0.0
+Epoch 6,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,2,0.0
+Epoch 7,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",69,350,19.714285714285715
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Closing your account,29,350,8.285714285714286
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Fees or interest,31,350,8.857142857142858
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Getting a credit card,31,350,8.857142857142858
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,29,350,8.285714285714286
+Epoch 7,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",3,350,0.8571428571428571
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Problem when making payments,46,350,13.142857142857142
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,76,350,21.714285714285715
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,5,350,1.4285714285714286
+Epoch 7,"Other features, terms, or problems",true_to_predicted,Trouble using your card,31,350,8.857142857142858
+Epoch 7,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Closing your account,2,11,18.181818181818183
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Fees or interest,3,11,27.272727272727273
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",3,11,27.272727272727273
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Problem when making payments,0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,11,27.272727272727273
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,11,0.0
+Epoch 7,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,11,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,7,46,15.217391304347826
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,24,46,52.17391304347826
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,3,46,6.521739130434782
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,8,46,17.391304347826086
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Epoch 7,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,1,2,50.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,1,2,50.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,2,0.0
+Epoch 7,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,2,0.0
+Epoch 8,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",72,350,20.571428571428573
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Closing your account,29,350,8.285714285714286
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Fees or interest,31,350,8.857142857142858
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Getting a credit card,32,350,9.142857142857142
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,27,350,7.714285714285714
+Epoch 8,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",4,350,1.1428571428571428
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Problem when making payments,43,350,12.285714285714286
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,76,350,21.714285714285715
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,5,350,1.4285714285714286
+Epoch 8,"Other features, terms, or problems",true_to_predicted,Trouble using your card,31,350,8.857142857142858
+Epoch 8,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Closing your account,2,12,16.666666666666668
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Fees or interest,3,12,25.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",4,12,33.333333333333336
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Problem when making payments,0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,12,25.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,12,0.0
+Epoch 8,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,12,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,7,46,15.217391304347826
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,24,46,52.17391304347826
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,3,46,6.521739130434782
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,8,46,17.391304347826086
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Epoch 8,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,1,2,50.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,1,2,50.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,2,0.0
+Epoch 8,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,2,0.0
+TF-IDF,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",30,350,8.571428571428571
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Closing your account,39,350,11.142857142857142
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Fees or interest,25,350,7.142857142857143
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Getting a credit card,33,350,9.428571428571429
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,12,350,3.4285714285714284
+TF-IDF,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",94,350,26.857142857142858
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Problem when making payments,26,350,7.428571428571429
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,1,350,0.2857142857142857
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,68,350,19.428571428571427
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,3,350,0.8571428571428571
+TF-IDF,"Other features, terms, or problems",true_to_predicted,Trouble using your card,19,350,5.428571428571429
+TF-IDF,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",16,198,8.080808080808081
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Closing your account,11,198,5.555555555555555
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Fees or interest,14,198,7.070707070707071
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Getting a credit card,15,198,7.575757575757576
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,198,0.0
+TF-IDF,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",94,198,47.474747474747474
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Problem when making payments,10,198,5.05050505050505
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,1,198,0.5050505050505051
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,21,198,10.606060606060606
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,5,198,2.525252525252525
+TF-IDF,"Other features, terms, or problems",predicted_from_true,Trouble using your card,11,198,5.555555555555555
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,2,46,4.3478260869565215
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,4,46,8.695652173913043
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,11,46,23.91304347826087
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,10,46,21.73913043478261
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",1,46,2.1739130434782608
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,4,46,8.695652173913043
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,6,46,13.043478260869565
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,46,13.043478260869565
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,2,46,4.3478260869565215
+TF-IDF,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,0,46,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,15,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,15,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,15,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,3,15,20.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,1,15,6.666666666666667
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",1,15,6.666666666666667
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,3,15,20.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,6,15,40.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,15,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,15,0.0
+TF-IDF,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,1,15,6.666666666666667
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",36,350,10.285714285714286
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Closing your account,36,350,10.285714285714286
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Fees or interest,24,350,6.857142857142857
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Getting a credit card,26,350,7.428571428571429
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,11,350,3.142857142857143
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",97,350,27.714285714285715
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Problem when making payments,24,350,6.857142857142857
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,17,350,4.857142857142857
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,45,350,12.857142857142858
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,9,350,2.5714285714285716
+Frozen MiniLM,"Other features, terms, or problems",true_to_predicted,Trouble using your card,25,350,7.142857142857143
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",22,230,9.565217391304348
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Closing your account,8,230,3.4782608695652173
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Fees or interest,12,230,5.217391304347826
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Getting a credit card,17,230,7.391304347826087
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,230,0.0
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",97,230,42.17391304347826
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Problem when making payments,21,230,9.130434782608695
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,230,0.0
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,39,230,16.956521739130434
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,2,230,0.8695652173913043
+Frozen MiniLM,"Other features, terms, or problems",predicted_from_true,Trouble using your card,12,230,5.217391304347826
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,2,46,4.3478260869565215
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,6,46,13.043478260869565
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,14,46,30.434782608695652
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,1,46,2.1739130434782608
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,15,46,32.608695652173914
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,4,46,8.695652173913043
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,3,46,6.521739130434782
+Frozen MiniLM,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,0,46,0.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",4,100,4.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,4,100,4.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,6,100,6.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,11,100,11.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,12,100,12.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",17,100,17.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,14,100,14.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,15,100,15.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,11,100,11.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,100,0.0
+Frozen MiniLM,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,6,100,6.0

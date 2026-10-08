@@ -1,0 +1,32 @@
+{
+  "source_sha256": "be744bcf5de3c8074c794ea1c959ad01c92413f5ad18494465ec7648773ced4c",
+  "input_sha256": {
+    "finetune_benchmark\\epoch_1_validation_predictions.csv": "e2e4c0bc684f8dff9d6dc28e137bb18371634f22584701b21ea4cd3df8cb3730",
+    "finetune_benchmark\\epoch_2_validation_predictions.csv": "43e02c6b677f79e1aa0739631a4c4303f59237627792a9413b623ef11eac3672",
+    "finetune_benchmark\\epoch_3_validation_predictions.csv": "0c6d89de424c73590a9730a41161d7edf7c3515495d6e1d624d2fc6e95b11191",
+    "finetune_benchmark\\epoch_4_validation_predictions.csv": "81fc23966890b514518a737c8ede0efc414b055e6f710d910d96b742deb031b4",
+    "finetune_benchmark\\epoch_5_validation_predictions.csv": "66df811a6fe5c0ef6ad77f80932c5fed7ba488e4b11e1b10e130fe42ec23c2af",
+    "finetune_benchmark\\epoch_6_validation_predictions.csv": "4678b10034465ee2b2bee000c8ff9daa2d9d3ddf0564d9149e0e6a5958f9e334",
+    "finetune_benchmark\\epoch_7_validation_predictions.csv": "5a670c6a183fa0c64ba897bb161fc93ad75e69f65381eb8c3304c340a904cd25",
+    "finetune_benchmark\\epoch_8_validation_predictions.csv": "bc2aba7b01e9ee4f75f85d88b45fcfc13b6822a4489deb4b5fad50dcee8eebc1",
+    "benchmark\\tfidf_df2_C1.0_balanced_validation_predictions.csv": "1f7b73b2b0c445221613f46707e8d4670d7b164925b4ce234700640ba6fc10e0",
+    "embedding_benchmark\\embedding_C4.0_balanced_validation_predictions.csv": "71ab2fa8a4cb2ea181320dbafe45af6b78669c0df8927f9ba6542325aa59bd14",
+    "finetune_benchmark\\selected_per_label.csv": "4662fc08f52561bd11974ffe27c1c662d3c087ebae88b7c9d9c781747ee428de",
+    "finetune_benchmark\\epoch_history.csv": "c9bf3aaf8c9adb4077666fe3b28ad921c765cd3cf67dcf037d5973a0c0d14187",
+    "finetune_benchmark\\loss_weights.csv": "6a66708ca1791339ede6d777d28a8daec2f5486e3a347a9b2d2572006656d1a2"
+  },
+  "validation_rows": 2695,
+  "prediction_alignment_verified": true,
+  "input_files_unchanged": true,
+  "test_accessed": false,
+  "epoch_macro_f1_matches_history": true,
+  "class_counts_and_flow_percentages_reconcile": true,
+  "model_loaded": false,
+  "training_performed": false,
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.1",
+    "matplotlib": "3.10.8",
+    "scikit-learn": "1.7.2"
+  }
+}

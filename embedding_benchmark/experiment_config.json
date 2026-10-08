@@ -1,0 +1,62 @@
+{
+  "pretrained_repository": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "input": "Consumer complaint narrative",
+  "frozen_transformer": true,
+  "device": "cpu",
+  "torch_threads": 4,
+  "batch_size": 32,
+  "dtype": "float32",
+  "embedding_dimension": 384,
+  "sequence_limit_including_special_tokens": 256,
+  "chunk_content_capacity": 254,
+  "overlap_tokens": 0,
+  "long_text_policy": "Tokenize entire narrative without truncation; contiguous nonoverlapping 254-wordpiece chunks; normalize each frozen chunk embedding; content-token-count weighted mean; L2-normalize narrative vector.",
+  "learned_preprocessing": "None. Pretrained tokenizer and encoder are fixed; no scaler/PCA/feature selection.",
+  "classifier": {
+    "solver": "lbfgs",
+    "penalty": "l2",
+    "max_iter": 1000,
+    "tol": 0.0001,
+    "objective": "multinomial softmax",
+    "random_state": 20261008,
+    "threads": 1
+  },
+  "experiments": [
+    {
+      "id": "embedding_C1.0_none",
+      "C": 1.0,
+      "class_weight": null
+    },
+    {
+      "id": "embedding_C1.0_balanced",
+      "C": 1.0,
+      "class_weight": "balanced"
+    },
+    {
+      "id": "embedding_C4.0_none",
+      "C": 4.0,
+      "class_weight": null
+    },
+    {
+      "id": "embedding_C4.0_balanced",
+      "C": 4.0,
+      "class_weight": "balanced"
+    }
+  ],
+  "selection": "highest December validation macro-F1; exact tie uses listed order",
+  "test_accessed": false,
+  "labels": [
+    "Advertising and marketing, including promotional offers",
+    "Closing your account",
+    "Fees or interest",
+    "Getting a credit card",
+    "Incorrect information on your report",
+    "Other features, terms, or problems",
+    "Problem when making payments",
+    "Problem with a company's investigation into an existing problem",
+    "Problem with a purchase shown on your statement",
+    "Struggling to pay your bill",
+    "Trouble using your card"
+  ]
+}

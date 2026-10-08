@@ -1,0 +1,56 @@
+[
+  {
+    "Issue": "Other features, terms, or problems",
+    "predicted_counts_by_epoch": [
+      17,
+      9,
+      8,
+      5,
+      5,
+      9,
+      11,
+      12
+    ],
+    "true_positives_by_epoch": [
+      7,
+      7,
+      4,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "monotonically_nonincreasing": false,
+    "first_zero_prediction_epoch": null,
+    "absent_at_final_epoch": false,
+    "final_vs_first_prediction_count_change_percent": -29.41176470588235
+  },
+  {
+    "Issue": "Problem with a company's investigation into an existing problem",
+    "predicted_counts_by_epoch": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      2,
+      2
+    ],
+    "true_positives_by_epoch": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "monotonically_nonincreasing": false,
+    "first_zero_prediction_epoch": 1,
+    "absent_at_final_epoch": false,
+    "final_vs_first_prediction_count_change_percent": null
+  }
+]

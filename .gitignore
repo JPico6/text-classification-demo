@@ -1,0 +1,31 @@
+.venv-benchmark/
+.benchmark-cache/
+__pycache__/
+benchmark/mpl-cache/
+.venv-embedding/
+.embedding-cache/
+.embedding-model/
+embedding_benchmark/mpl-cache/
+.venv-finetune/
+finetune_benchmark/mpl-cache/
+
+# Raw CFPB data
+CCDB_Export_*.csv
+
+# Derived cohort data containing complaint narratives
+cohort/*.csv
+
+# Trained model artifacts
+*.joblib
+*.safetensors
+
+# Cached embeddings
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/

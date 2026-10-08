@@ -1,0 +1,16 @@
+{
+  "checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "sentence_transformer_default_max_seq_length": 256,
+  "tokenizer_model_max_length": 512,
+  "config_max_position_embeddings": 512,
+  "loaded_positional_embedding_shape": [
+    512,
+    384
+  ],
+  "verified_forward_sequence_length": 512,
+  "selected_sequence_length": 512,
+  "content_capacity": 510,
+  "architecture_resized": false,
+  "interpretation": "256 is the sentence-embedding wrapper default, not the 512-position encoder architecture limit. No position resizing or extrapolation."
+}

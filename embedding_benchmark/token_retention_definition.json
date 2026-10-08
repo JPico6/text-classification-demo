@@ -1,0 +1,4 @@
+{
+  "source": "narrative_length_audit.csv",
+  "definition": "Fraction of content wordpieces retained under one truncation window, with two special-token positions reserved. Percentage of narratives retaining AT LEAST each threshold. No model fitted or test data read."
+}

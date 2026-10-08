@@ -1,0 +1,310 @@
+id_a,id_b,year_a,year_b,issue_a,issue_b,jaccard
+10846935,10999187,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17050253,17049332,2025,2025,Getting a credit card,Getting a credit card,0.819672131147541
+10846935,11031332,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11004861,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11169466,11170020,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+10846935,10925570,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10881638,10879998,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.9288135593220339
+11159892,11170670,2024,2024,Getting a credit card,Getting a credit card,0.9442896935933147
+17185591,17223631,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9081632653061225
+10846935,11010318,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18145562,18145682,2025,2025,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.9310344827586207
+10846935,10929073,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11059260,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18263746,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10846935,10999328,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993479,17002570,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+10846935,11097818,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17185591,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+10702964,11173404,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8993288590604027
+10846935,10916168,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17425564,17871570,2025,2025,Getting a credit card,Getting a credit card,0.8227272727272728
+10846935,11059419,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11123667,11180576,2024,2024,Incorrect information on your report,Getting a credit card,0.8939393939393939
+10812695,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17204338,17226726,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+11123471,11184488,2024,2024,Incorrect information on your report,Getting a credit card,0.855072463768116
+17226726,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+10846935,11035484,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993340,16991968,2025,2025,Struggling to pay your bill,Struggling to pay your bill,0.8878504672897196
+10846935,10892232,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11008856,11005423,2024,2024,Incorrect information on your report,Improper use of your report,0.8035714285714286
+10846935,10937579,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10847436,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993372,17194895,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+10846935,10849432,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16996460,17212988,2025,2025,Incorrect information on your report,Getting a credit card,0.8101851851851852
+10981102,10979241,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8360655737704918
+11260069,11259783,2024,2024,Incorrect information on your report,Closing your account,0.8810810810810811
+11287246,11287330,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8043478260869565
+17185591,17226726,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10846935,10940989,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11123667,11184488,2024,2024,Incorrect information on your report,Getting a credit card,0.8676470588235294
+11162082,11167761,2024,2024,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.9386503067484663
+10871064,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10892363,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993340,17294965,2025,2025,Struggling to pay your bill,Struggling to pay your bill,0.9065420560747663
+17175943,17295273,2025,2025,Fees or interest,Fees or interest,0.84375
+10846935,11004779,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10981102,10980958,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8360655737704918
+10846935,10880020,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993372,16987361,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+11170548,11176807,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+18155014,18233630,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+17226726,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+10846935,10948665,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10876532,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+11326981,11327603,2024,2024,Getting a credit card,Getting a credit card,0.93717277486911
+17204338,17210463,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10849168,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10880102,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11170548,11169879,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+17226726,18233736,2025,2025,Incorrect information on your report,Incorrect information on your report,0.956989247311828
+10846935,11038700,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17938262,18172163,2025,2025,Closing your account,Closing your account,0.8717948717948718
+11173298,11173294,2024,2024,Closing your account,Closing your account,0.9215686274509803
+10846935,11043308,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11222256,11222265,2024,2024,Getting a credit card,Getting a credit card,0.9252669039145908
+10846935,10967747,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10693411,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17262262,17261608,2025,2025,Getting a credit card,Getting a credit card,0.8478260869565217
+10846935,10977278,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10949773,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10811671,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17223631,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10796564,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10859382,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11039055,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18155014,18232507,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+11146296,11142956,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.865979381443299
+17262262,17261386,2025,2025,Getting a credit card,Getting a credit card,0.8279569892473119
+11142956,11143180,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.9657534246575342
+17185591,17210463,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10846935,10978577,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993372,17188344,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+11077687,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+10846935,11050255,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10856511,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17979517,17931183,2025,2025,Closing your account,Closing your account,0.8079470198675497
+10846935,10945674,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17044918,17148973,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8666666666666667
+11259943,11260069,2024,2024,Closing your account,Incorrect information on your report,0.8125
+10846935,11049764,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18232507,18233630,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10801760,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10969051,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11169466,11167731,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+11220423,11222265,2024,2024,Getting a credit card,Getting a credit card,0.9672727272727273
+10748073,10748034,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+10914715,10906240,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8850574712643678
+10846935,10926922,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11167731,11176807,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+17565306,17584962,2025,2025,Getting a credit card,Getting a credit card,0.8297872340425532
+11099182,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+11159892,11171192,2024,2024,Getting a credit card,Getting a credit card,0.9576271186440678
+11098316,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+17204338,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+10846935,10925378,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16991968,17294965,2025,2025,Struggling to pay your bill,Struggling to pay your bill,0.8053097345132744
+10846935,11052264,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10870823,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17204338,18233736,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10846935,10917328,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10748034,10748023,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+17300171,17403406,2025,2025,Getting a credit card,Getting a credit card,0.8325581395348837
+10791959,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17114382,17114480,2025,2025,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.8142292490118577
+10881638,11173404,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.9385665529010239
+18003224,18074136,2025,2025,Trouble using your card,Trouble using your card,0.8584474885844748
+18060119,18060332,2025,2025,Trouble using your card,"Other features, terms, or problems",0.8275862068965517
+10806213,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10840219,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11011185,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17403406,17871570,2025,2025,Getting a credit card,Getting a credit card,0.8227272727272728
+10846935,10846323,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17185591,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+10846935,10876353,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10682936,10684266,2024,2024,Fees or interest,Fees or interest,0.8601398601398601
+10846935,11035147,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10748462,10748034,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+10846935,10891950,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10848936,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10702964,10881638,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8803986710963455
+17185591,18233736,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+11008832,11005423,2024,2024,Incorrect information on your report,Improper use of your report,1.0
+11191857,11273157,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+10722837,10722708,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8666666666666667
+16993372,17002570,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+17173365,17407245,2025,2025,Getting a credit card,Getting a credit card,0.8412698412698413
+18233736,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+17331032,17407245,2025,2025,Getting a credit card,Getting a credit card,0.803030303030303
+10846935,11108610,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17210463,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+18155014,18354669,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10722837,10722710,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8267716535433071
+10748267,10748034,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+11178189,11177847,2024,2024,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.837295690936107
+10647453,10846935,2024,2024,Incorrect information on your report,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11003726,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993372,16988167,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+10870978,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11080979,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+10846935,11094542,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11170020,11176807,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+10846935,10967706,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11110130,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10791435,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17814922,17814979,2025,2025,"Other features, terms, or problems","Other features, terms, or problems",0.8502702702702702
+11326981,11330193,2024,2024,Getting a credit card,Problem with a purchase shown on your statement,0.9315789473684211
+11170020,11169879,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+10846935,10977382,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10779627,10784036,2024,2024,"Advertising and marketing, including promotional offers",Struggling to pay your bill,0.8232931726907631
+10778680,11098316,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8350515463917526
+10846935,10933224,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11008856,11008832,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8035714285714286
+10872809,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10666278,10666269,2024,2024,Getting a credit card,Getting a credit card,0.8260869565217391
+17210463,17223631,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+17883805,18031912,2025,2025,Problem when making payments,Problem when making payments,0.9157894736842105
+17815015,17814922,2025,2025,"Other features, terms, or problems","Other features, terms, or problems",0.8883360972913211
+18233736,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+10846935,10852185,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17210463,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+11146296,11143180,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.8532423208191127
+18261518,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10738225,10737056,2024,2024,Getting a credit card,Getting a credit card,0.9066666666666666
+18232507,18354669,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10724360,10724060,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8513513513513513
+10846935,10950263,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10968033,2024,2024,Problem with a company's investigation into an existing problem,Incorrect information on your report,0.8392857142857143
+17815015,17814979,2025,2025,"Other features, terms, or problems","Other features, terms, or problems",0.9208675263774913
+10846935,11050023,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10667878,10915099,2024,2024,Fees or interest,Closing your account,0.8931297709923665
+10847580,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11037896,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10879439,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8041237113402062
+10846935,10925964,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11167731,11169879,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+11169466,11170548,2024,2024,Getting a credit card,Getting a credit card,0.994175888177053
+17044918,17148635,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8666666666666667
+17223631,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10947179,10966717,2024,2024,Closing your account,Struggling to pay your bill,0.855072463768116
+10846935,10926493,2024,2024,Problem with a company's investigation into an existing problem,Incorrect information on your report,0.8392857142857143
+10811900,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11201518,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10722708,10722710,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8740157480314961
+17210463,18233630,2025,2025,Incorrect information on your report,Incorrect information on your report,0.801980198019802
+18233736,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+10748034,10747998,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+10849106,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11040815,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17210463,17226726,2025,2025,Incorrect information on your report,Incorrect information on your report,0.956989247311828
+10849239,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10966717,10956639,2024,2024,Struggling to pay your bill,Struggling to pay your bill,0.855072463768116
+10846935,10890339,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11306136,11306013,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.8598726114649682
+11276031,11275487,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.8093385214007782
+10846935,10951523,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11078646,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11023208,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17226726,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+17565306,17585172,2025,2025,Getting a credit card,Getting a credit card,0.9470588235294117
+11282214,11281163,2024,2024,Problem when making payments,Fees or interest,0.8670634920634921
+10702964,10879998,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.89
+10846935,10928554,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993479,17194895,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+10718260,10716902,2024,2024,Getting a credit card,Getting a credit card,0.902834008097166
+10728965,11117868,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.889344262295082
+17223631,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9270833333333334
+10846935,10876558,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10859862,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11173578,11331156,2024,2024,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.9563318777292577
+10846935,10876719,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11038213,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10813853,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10846764,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16997248,16991129,2025,2025,Getting a credit card,Getting a credit card,0.8414634146341463
+17223631,18233736,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10846935,11062003,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16996460,17341986,2025,2025,Incorrect information on your report,Problem with a company's investigation into an existing problem,0.8786407766990292
+11184488,11180576,2024,2024,Getting a credit card,Getting a credit card,0.8805970149253731
+10846935,11081045,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993479,16987361,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+11130600,11146296,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.914179104477612
+18325947,18325996,2025,2025,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.8620689655172413
+11099182,11077687,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8163265306122449
+10846935,10892337,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10774703,10935331,2024,2024,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",0.8438818565400844
+10846935,10879550,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17226726,17223631,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9368421052631579
+10846935,10941349,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+11162082,11172105,2024,2024,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.9386503067484663
+17403406,17425564,2025,2025,Getting a credit card,Getting a credit card,0.9509803921568627
+10778680,11191857,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8125
+16993479,16988167,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+11162082,11167764,2024,2024,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.9386503067484663
+19778002,17407267,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8775510204081632
+11170670,11171192,2024,2024,Getting a credit card,Getting a credit card,0.9416666666666667
+10744895,11016368,2024,2024,"Other features, terms, or problems","Other features, terms, or problems",0.8717948717948718
+11077687,11273157,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8163265306122449
+10846935,10893023,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+16993479,17188344,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8823529411764706
+10977082,10977053,2024,2024,Getting a credit card,Getting a credit card,0.9626436781609196
+17204338,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+10694619,10694630,2024,2024,Closing your account,Closing your account,0.8732394366197183
+10846935,10949142,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18233630,18233736,2025,2025,Incorrect information on your report,Incorrect information on your report,0.801980198019802
+11048792,11039032,2024,2024,Closing your account,Closing your account,0.8609022556390977
+10846935,10943520,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10879998,11173404,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.9688581314878892
+18233630,18354669,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+10666278,10666273,2024,2024,Getting a credit card,Getting a credit card,0.8260869565217391
+10846935,10978506,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10867441,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10992292,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,11043378,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17198394,17196493,2025,2025,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.8260381593714927
+17764336,17764453,2025,2025,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,0.8909090909090909
+17585172,17584962,2025,2025,Getting a credit card,Getting a credit card,0.8522427440633246
+10846935,10861882,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10950165,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10967069,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17262262,17261653,2025,2025,Getting a credit card,Getting a credit card,0.8279569892473119
+11099182,11273157,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8541666666666666
+17515556,17931678,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8571428571428571
+10846935,10977303,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10863571,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10947179,10956639,2024,2024,Closing your account,Struggling to pay your bill,0.900990099009901
+10846935,10949317,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10968967,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17185591,18388986,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+17044918,17148406,2025,2025,Incorrect information on your report,Incorrect information on your report,0.8666666666666667
+11222256,11220423,2024,2024,Getting a credit card,Getting a credit card,0.9285714285714286
+10846935,10996011,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17173365,17331032,2025,2025,Getting a credit card,Getting a credit card,0.8548387096774194
+10846935,11028411,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+18172163,17888527,2025,2025,Closing your account,Closing your account,0.8717948717948718
+17333620,17343537,2025,2025,Problem when making payments,Incorrect information on your report,0.9118773946360154
+17210463,18261518,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9468085106382979
+11123471,11123667,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8676470588235294
+10724360,10747263,2024,2024,Incorrect information on your report,Incorrect information on your report,0.8421052631578947
+17204338,17223631,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9081632653061225
+10846935,10950605,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10968828,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10916571,2024,2024,Problem with a company's investigation into an existing problem,Incorrect information on your report,0.8392857142857143
+11330193,11327603,2024,2024,Problem with a purchase shown on your statement,Getting a credit card,0.9315789473684211
+10691374,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17168560,17164977,2025,2025,Closing your account,Closing your account,0.8571428571428571
+10846935,11008331,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10951393,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+17204338,18263746,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9175257731958762
+10647454,10846935,2024,2024,Incorrect information on your report,Problem with a company's investigation into an existing problem,0.8392857142857143
+17185591,17204338,2025,2025,Incorrect information on your report,Incorrect information on your report,0.9381443298969072
+10748266,10748034,2024,2024,Fees or interest,Fees or interest,0.9158878504672897
+11123471,11180576,2024,2024,Incorrect information on your report,Getting a credit card,0.8805970149253731
+17232307,17254142,2025,2025,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",0.8680981595092024
+10872091,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10846935,10950793,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10779503,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143
+10811006,10846935,2024,2024,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,0.8392857142857143

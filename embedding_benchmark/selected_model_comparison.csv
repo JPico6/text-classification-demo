@@ -1,0 +1,3 @@
+representation,configuration,macro_f1,weighted_f1,accuracy,balanced_accuracy,dimension,classifier_fit_seconds
+selected TF-IDF,tfidf_df2_C1.0_balanced,0.511130850870396,0.6278530454784994,0.6411873840445269,0.5117114041116355,50174,4.739921200089157
+frozen MiniLM chunk aggregate,embedding_C4.0_balanced,0.49826730660970636,0.6101165539540906,0.6037105751391466,0.5336974357991496,384,0.1695367000065744

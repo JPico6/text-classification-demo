@@ -1,0 +1,39 @@
+{
+  "mode": "tfidf",
+  "timings": {
+    "model_load_seconds": 1.4084832000080496,
+    "representation_transform_seconds": 1.3313121001701802,
+    "classifier_predict_seconds": 0.016357199987396598,
+    "worker_total_seconds": 2.867820000043139
+  },
+  "details": {
+    "configuration": "tfidf_df2_C1.0_balanced",
+    "feature_dimension": 50174,
+    "device": "cpu"
+  },
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "packages": {
+    "cloudpickle": "3.1.2",
+    "contourpy": "1.4.0",
+    "cycler": "0.12.1",
+    "fonttools": "4.66.1",
+    "joblib": "1.6.0",
+    "kiwisolver": "1.5.1",
+    "matplotlib": "3.10.8",
+    "numpy": "2.5.3",
+    "packaging": "26.3",
+    "pandas": "3.0.1",
+    "pillow": "12.3.0",
+    "pyparsing": "3.3.3",
+    "python-dateutil": "2.9.0.post0",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.18.1",
+    "six": "1.17.0",
+    "threadpoolctl": "3.7.0",
+    "tzdata": "2026.5"
+  },
+  "seed": 20261008,
+  "source_sha256": "21608d2ce73b2c34f468ea82c07a19e1b6a359f50a2bc9dfc1eb174aa0329ece",
+  "training_performed": false
+}

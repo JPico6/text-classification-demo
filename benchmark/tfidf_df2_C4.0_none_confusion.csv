@@ -1,0 +1,12 @@
+true_Issue,"Advertising and marketing, including promotional offers",Closing your account,Fees or interest,Getting a credit card,Incorrect information on your report,"Other features, terms, or problems",Problem when making payments,Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,Struggling to pay your bill,Trouble using your card
+"Advertising and marketing, including promotional offers",40,1,32,10,0,42,0,0,25,0,1
+Closing your account,0,126,22,17,6,26,8,0,26,0,1
+Fees or interest,1,9,271,4,0,16,16,0,42,0,0
+Getting a credit card,1,7,1,246,3,19,1,0,32,0,0
+Incorrect information on your report,0,10,7,31,16,1,6,0,13,0,0
+"Other features, terms, or problems",10,27,32,29,2,120,10,0,117,0,3
+Problem when making payments,0,5,42,10,2,39,75,0,38,0,1
+Problem with a company's investigation into an existing problem,0,4,5,12,2,3,1,3,16,0,0
+Problem with a purchase shown on your statement,1,1,22,10,0,16,7,0,724,0,1
+Struggling to pay your bill,0,8,6,5,0,6,5,0,5,0,0
+Trouble using your card,1,16,9,6,0,20,9,0,50,0,23

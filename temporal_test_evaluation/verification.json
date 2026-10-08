@@ -1,0 +1,12 @@
+{
+  "all_test_predictions_align_with_frozen_metadata": true,
+  "aggregate_per_label_metrics_and_confusions_verified": true,
+  "metric_and_per_label_differences_verified": true,
+  "paired_bootstrap_differences_intervals_and_first_replicate_verified": true,
+  "all_protected_artifacts_unchanged": true,
+  "evaluation_output_hashes_verified": true,
+  "protected_files": 165,
+  "model_loading_or_inference_performed": false,
+  "training_or_adaptation_performed": false,
+  "verification_source_sha256": "09d32d4a9b85f1324542a28cd8a0daa78be9e034f28584bb60ec574dc6454d0d"
+}

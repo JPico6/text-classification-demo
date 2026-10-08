@@ -1,0 +1,12 @@
+{
+  "source_and_input_sha256": {
+    "inspect_validation_diagnostics.py": "c9b342d8ff7f9d21055db7ae90e1627c19bba8ca7db63d2465c3cdf5867278a7",
+    "benchmark_text.py": "17af0f6d45b332b97fe4da606092dba794ff2cd352e3fe244cd8f7fee8d91256",
+    "cohort\\train.csv": "f8a5c15771ac30f4a682ac768fe9e35f1088574f37643c9ad2a0251b7be9429e",
+    "benchmark\\selected_positive_features.csv": "00be9b0a70d9ae2f93699f55b0c49109f94e1862ea47dc9a6ef9e268eb5bb745",
+    "benchmark\\run_manifest.json": "a2c275ec647f49cadf0ae81fa75aec7495421d98f8785a813b1f94adc1bcbe6b"
+  },
+  "model_changed": false,
+  "test_accessed": false,
+  "elapsed_seconds": 0.26325489999726415
+}

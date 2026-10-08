@@ -1,0 +1,26 @@
+{
+  "test_sha256": "3c4cf3872bc83b4cb9af82361002b9d4a2e0ba35c01d21ffe4d0aa51e8b07e06",
+  "prior_test_file_sha256_available": false,
+  "hash_status": "First recorded test-file hash at final evaluation; not claimed as a pre-existing commitment",
+  "labels": [
+    "Advertising and marketing, including promotional offers",
+    "Closing your account",
+    "Fees or interest",
+    "Getting a credit card",
+    "Incorrect information on your report",
+    "Other features, terms, or problems",
+    "Problem when making payments",
+    "Problem with a company's investigation into an existing problem",
+    "Problem with a purchase shown on your statement",
+    "Struggling to pay your bill",
+    "Trouble using your card"
+  ],
+  "rows": 6521,
+  "metadata_id_label_order_matches": true,
+  "kept_ledger_membership_and_exact_narrative_hashes_match": true,
+  "receipt_year_2025": true,
+  "unique_ids": true,
+  "no_pre_inference_exploration": true,
+  "fine_tuned_checkpoint_matches_development_hash": true,
+  "pre_inference_integrity_utc": "2026-10-08T18:35:53Z"
+}

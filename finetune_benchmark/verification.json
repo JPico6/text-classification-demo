@@ -1,0 +1,12 @@
+{
+  "all_epoch_macro_f1_recomputed": true,
+  "highest_macro_f1_epoch_selected": true,
+  "selected_metrics_per_label_and_confusion_recomputed": true,
+  "loss_weights_use_training_counts": true,
+  "right_tail_510_content_token_truncation_verified": true,
+  "comparison_differences_verified": true,
+  "checkpoint_hash_and_shapes_verified": true,
+  "strict_checkpoint_reload_passed": true,
+  "protected_hashes_unchanged": true,
+  "test_accessed": false
+}

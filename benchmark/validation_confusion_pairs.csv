@@ -1,0 +1,90 @@
+true_Issue,predicted_Issue,count,fraction_of_true_label
+"Other features, terms, or problems",Problem with a purchase shown on your statement,68,0.19428571428571428
+Fees or interest,Problem when making payments,39,0.10863509749303621
+"Other features, terms, or problems",Closing your account,39,0.11142857142857143
+"Other features, terms, or problems",Getting a credit card,33,0.09428571428571429
+Problem when making payments,Fees or interest,33,0.15566037735849056
+"Other features, terms, or problems","Advertising and marketing, including promotional offers",30,0.08571428571428572
+"Advertising and marketing, including promotional offers",Fees or interest,27,0.17880794701986755
+Incorrect information on your report,Getting a credit card,27,0.32142857142857145
+"Other features, terms, or problems",Problem when making payments,26,0.07428571428571429
+"Other features, terms, or problems",Fees or interest,25,0.07142857142857142
+Problem with a purchase shown on your statement,Fees or interest,24,0.030690537084398978
+Problem with a purchase shown on your statement,Getting a credit card,22,0.028132992327365727
+Problem with a purchase shown on your statement,"Other features, terms, or problems",21,0.026854219948849106
+Closing your account,Fees or interest,19,0.08189655172413793
+"Other features, terms, or problems",Trouble using your card,19,0.054285714285714284
+"Advertising and marketing, including promotional offers","Other features, terms, or problems",16,0.10596026490066225
+Closing your account,Getting a credit card,16,0.06896551724137931
+Fees or interest,Problem with a purchase shown on your statement,16,0.04456824512534819
+Trouble using your card,Problem with a purchase shown on your statement,16,0.11940298507462686
+Getting a credit card,Incorrect information on your report,15,0.04838709677419355
+Getting a credit card,"Other features, terms, or problems",15,0.04838709677419355
+Problem with a purchase shown on your statement,Problem when making payments,15,0.01918158567774936
+Closing your account,Incorrect information on your report,14,0.0603448275862069
+Fees or interest,"Other features, terms, or problems",14,0.03899721448467967
+Trouble using your card,Closing your account,14,0.1044776119402985
+Trouble using your card,Problem when making payments,14,0.1044776119402985
+"Advertising and marketing, including promotional offers",Problem with a purchase shown on your statement,13,0.08609271523178808
+Problem when making payments,Problem with a purchase shown on your statement,13,0.06132075471698113
+"Other features, terms, or problems",Incorrect information on your report,12,0.03428571428571429
+Problem with a purchase shown on your statement,Closing your account,12,0.015345268542199489
+Closing your account,"Other features, terms, or problems",11,0.04741379310344827
+Closing your account,Trouble using your card,11,0.04741379310344827
+Problem with a company's investigation into an existing problem,Getting a credit card,11,0.2391304347826087
+Trouble using your card,"Other features, terms, or problems",11,0.08208955223880597
+Closing your account,Problem when making payments,10,0.04310344827586207
+Fees or interest,Closing your account,10,0.027855153203342618
+Getting a credit card,Problem with a purchase shown on your statement,10,0.03225806451612903
+Problem when making payments,"Other features, terms, or problems",10,0.04716981132075472
+Problem when making payments,Trouble using your card,10,0.04716981132075472
+Problem with a company's investigation into an existing problem,Incorrect information on your report,10,0.21739130434782608
+Incorrect information on your report,Problem when making payments,9,0.10714285714285714
+Problem when making payments,Getting a credit card,9,0.04245283018867924
+Trouble using your card,Getting a credit card,9,0.06716417910447761
+"Advertising and marketing, including promotional offers",Getting a credit card,8,0.052980132450331126
+Struggling to pay your bill,Problem when making payments,8,0.22857142857142856
+Fees or interest,Struggling to pay your bill,7,0.019498607242339833
+Getting a credit card,"Advertising and marketing, including promotional offers",7,0.02258064516129032
+Getting a credit card,Closing your account,7,0.02258064516129032
+Problem when making payments,Incorrect information on your report,7,0.0330188679245283
+Problem with a purchase shown on your statement,Incorrect information on your report,7,0.008951406649616368
+Closing your account,Problem with a purchase shown on your statement,6,0.02586206896551724
+Fees or interest,"Advertising and marketing, including promotional offers",6,0.016713091922005572
+Fees or interest,Getting a credit card,6,0.016713091922005572
+Problem with a company's investigation into an existing problem,Problem with a purchase shown on your statement,6,0.13043478260869565
+"Advertising and marketing, including promotional offers",Trouble using your card,5,0.033112582781456956
+Incorrect information on your report,Closing your account,5,0.05952380952380952
+Struggling to pay your bill,"Other features, terms, or problems",5,0.14285714285714285
+Fees or interest,Trouble using your card,4,0.011142061281337047
+Incorrect information on your report,Problem with a purchase shown on your statement,4,0.047619047619047616
+Problem with a company's investigation into an existing problem,Fees or interest,4,0.08695652173913043
+Problem with a company's investigation into an existing problem,Problem when making payments,4,0.08695652173913043
+Problem with a purchase shown on your statement,"Advertising and marketing, including promotional offers",4,0.005115089514066497
+Problem with a purchase shown on your statement,Trouble using your card,4,0.005115089514066497
+Struggling to pay your bill,Closing your account,4,0.11428571428571428
+Struggling to pay your bill,Fees or interest,4,0.11428571428571428
+Struggling to pay your bill,Getting a credit card,4,0.11428571428571428
+Getting a credit card,Fees or interest,3,0.00967741935483871
+Getting a credit card,Problem with a company's investigation into an existing problem,3,0.00967741935483871
+Getting a credit card,Trouble using your card,3,0.00967741935483871
+"Other features, terms, or problems",Struggling to pay your bill,3,0.008571428571428572
+Problem when making payments,Closing your account,3,0.014150943396226415
+Problem when making payments,Problem with a company's investigation into an existing problem,3,0.014150943396226415
+Problem when making payments,Struggling to pay your bill,3,0.014150943396226415
+Trouble using your card,Fees or interest,3,0.022388059701492536
+Closing your account,"Advertising and marketing, including promotional offers",2,0.008620689655172414
+Problem with a company's investigation into an existing problem,Closing your account,2,0.043478260869565216
+Problem with a company's investigation into an existing problem,Struggling to pay your bill,2,0.043478260869565216
+Struggling to pay your bill,Trouble using your card,2,0.05714285714285714
+"Advertising and marketing, including promotional offers",Problem when making payments,1,0.006622516556291391
+Getting a credit card,Problem when making payments,1,0.0032258064516129032
+Incorrect information on your report,"Advertising and marketing, including promotional offers",1,0.011904761904761904
+Incorrect information on your report,Fees or interest,1,0.011904761904761904
+Incorrect information on your report,Problem with a company's investigation into an existing problem,1,0.011904761904761904
+"Other features, terms, or problems",Problem with a company's investigation into an existing problem,1,0.002857142857142857
+Problem when making payments,"Advertising and marketing, including promotional offers",1,0.0047169811320754715
+Problem with a company's investigation into an existing problem,"Other features, terms, or problems",1,0.021739130434782608
+Problem with a purchase shown on your statement,Struggling to pay your bill,1,0.0012787723785166241
+Trouble using your card,"Advertising and marketing, including promotional offers",1,0.007462686567164179
+Trouble using your card,Problem with a company's investigation into an existing problem,1,0.007462686567164179

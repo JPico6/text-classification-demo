@@ -1,0 +1,12 @@
+Issue,precision,recall,f1,support
+"Advertising and marketing, including promotional offers",0.0,0.0,0.0,151
+Closing your account,0.0,0.0,0.0,232
+Fees or interest,0.0,0.0,0.0,359
+Getting a credit card,0.0,0.0,0.0,310
+Incorrect information on your report,0.0,0.0,0.0,84
+"Other features, terms, or problems",0.0,0.0,0.0,350
+Problem when making payments,0.0,0.0,0.0,212
+Problem with a company's investigation into an existing problem,0.0,0.0,0.0,46
+Problem with a purchase shown on your statement,0.2901669758812616,1.0,0.44981305723324705,782
+Struggling to pay your bill,0.0,0.0,0.0,35
+Trouble using your card,0.0,0.0,0.0,134

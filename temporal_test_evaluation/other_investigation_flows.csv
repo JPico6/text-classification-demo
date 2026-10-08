@@ -1,0 +1,265 @@
+model,split,focal_Issue,direction,other_Issue,count,denominator,conditional_percent
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",30,350,8.571428571428571
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Closing your account,39,350,11.142857142857142
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Fees or interest,25,350,7.142857142857143
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Getting a credit card,33,350,9.428571428571429
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,12,350,3.4285714285714284
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",94,350,26.857142857142858
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Problem when making payments,26,350,7.428571428571429
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,1,350,0.2857142857142857
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,68,350,19.428571428571427
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,3,350,0.8571428571428571
+TF-IDF,validation,"Other features, terms, or problems",true_to_predicted,Trouble using your card,19,350,5.428571428571429
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",16,198,8.080808080808081
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Closing your account,11,198,5.555555555555555
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Fees or interest,14,198,7.070707070707071
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Getting a credit card,15,198,7.575757575757576
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,198,0.0
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",94,198,47.474747474747474
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Problem when making payments,10,198,5.05050505050505
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,1,198,0.5050505050505051
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,21,198,10.606060606060606
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,5,198,2.525252525252525
+TF-IDF,validation,"Other features, terms, or problems",predicted_from_true,Trouble using your card,11,198,5.555555555555555
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,2,46,4.3478260869565215
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,4,46,8.695652173913043
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,11,46,23.91304347826087
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,10,46,21.73913043478261
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",1,46,2.1739130434782608
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,4,46,8.695652173913043
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,6,46,13.043478260869565
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,46,13.043478260869565
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,2,46,4.3478260869565215
+TF-IDF,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,0,46,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,15,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,15,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,15,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,3,15,20.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,1,15,6.666666666666667
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",1,15,6.666666666666667
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,3,15,20.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,6,15,40.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,0,15,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,15,0.0
+TF-IDF,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,1,15,6.666666666666667
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",64,810,7.901234567901234
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Closing your account,85,810,10.493827160493828
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Fees or interest,57,810,7.037037037037037
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Getting a credit card,76,810,9.382716049382717
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,9,810,1.1111111111111112
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",223,810,27.530864197530864
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Problem when making payments,51,810,6.296296296296297
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,2,810,0.24691358024691357
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,171,810,21.11111111111111
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,9,810,1.1111111111111112
+TF-IDF,test,"Other features, terms, or problems",true_to_predicted,Trouble using your card,63,810,7.777777777777778
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",32,429,7.459207459207459
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Closing your account,28,429,6.526806526806527
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Fees or interest,20,429,4.662004662004662
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Getting a credit card,25,429,5.827505827505828
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,8,429,1.8648018648018647
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",223,429,51.981351981351985
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Problem when making payments,24,429,5.594405594405594
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,4,429,0.9324009324009324
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,34,429,7.925407925407925
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,4,429,0.9324009324009324
+TF-IDF,test,"Other features, terms, or problems",predicted_from_true,Trouble using your card,27,429,6.293706293706293
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,185,0.0
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,16,185,8.64864864864865
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,12,185,6.486486486486487
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,23,185,12.432432432432432
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,76,185,41.08108108108108
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",4,185,2.1621621621621623
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,16,185,8.64864864864865
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,17,185,9.18918918918919
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,13,185,7.027027027027027
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,3,185,1.6216216216216217
+TF-IDF,test,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,5,185,2.7027027027027026
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,60,0.0
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,1,60,1.6666666666666667
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,60,0.0
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,60,0.0
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,34,60,56.666666666666664
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",2,60,3.3333333333333335
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,2,60,3.3333333333333335
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,17,60,28.333333333333332
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,2,60,3.3333333333333335
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,2,60,3.3333333333333335
+TF-IDF,test,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,60,0.0
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",36,350,10.285714285714286
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Closing your account,36,350,10.285714285714286
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Fees or interest,24,350,6.857142857142857
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Getting a credit card,26,350,7.428571428571429
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,11,350,3.142857142857143
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",97,350,27.714285714285715
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem when making payments,24,350,6.857142857142857
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,17,350,4.857142857142857
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,45,350,12.857142857142858
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,9,350,2.5714285714285716
+Frozen MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Trouble using your card,25,350,7.142857142857143
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",22,230,9.565217391304348
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Closing your account,8,230,3.4782608695652173
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Fees or interest,12,230,5.217391304347826
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Getting a credit card,17,230,7.391304347826087
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,230,0.0
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",97,230,42.17391304347826
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem when making payments,21,230,9.130434782608695
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,230,0.0
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,39,230,16.956521739130434
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,2,230,0.8695652173913043
+Frozen MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Trouble using your card,12,230,5.217391304347826
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,2,46,4.3478260869565215
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,6,46,13.043478260869565
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,14,46,30.434782608695652
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,1,46,2.1739130434782608
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,15,46,32.608695652173914
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,4,46,8.695652173913043
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,3,46,6.521739130434782
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,0,46,0.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",4,100,4.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,4,100,4.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,6,100,6.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,11,100,11.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,12,100,12.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",17,100,17.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,14,100,14.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,15,100,15.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,11,100,11.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,100,0.0
+Frozen MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,6,100,6.0
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",68,810,8.395061728395062
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Closing your account,74,810,9.135802469135802
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Fees or interest,42,810,5.185185185185185
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Getting a credit card,62,810,7.654320987654321
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,18,810,2.2222222222222223
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",221,810,27.28395061728395
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem when making payments,53,810,6.54320987654321
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,35,810,4.320987654320987
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,116,810,14.320987654320987
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,26,810,3.2098765432098766
+Frozen MiniLM,test,"Other features, terms, or problems",true_to_predicted,Trouble using your card,95,810,11.728395061728396
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",33,436,7.568807339449541
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Closing your account,26,436,5.963302752293578
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Fees or interest,19,436,4.3577981651376145
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Getting a credit card,19,436,4.3577981651376145
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,4,436,0.9174311926605505
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",221,436,50.68807339449541
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem when making payments,23,436,5.275229357798165
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,4,436,0.9174311926605505
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,66,436,15.137614678899082
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,2,436,0.45871559633027525
+Frozen MiniLM,test,"Other features, terms, or problems",predicted_from_true,Trouble using your card,19,436,4.3577981651376145
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,185,0.0
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,12,185,6.486486486486487
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,6,185,3.2432432432432434
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,17,185,9.18918918918919
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,33,185,17.83783783783784
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",4,185,2.1621621621621623
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,7,185,3.7837837837837838
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,85,185,45.945945945945944
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,6,185,3.2432432432432434
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,9,185,4.864864864864865
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,6,185,3.2432432432432434
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,387,0.0
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,22,387,5.684754521963824
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,18,387,4.651162790697675
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,30,387,7.751937984496124
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,125,387,32.299741602067186
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",35,387,9.043927648578812
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,21,387,5.426356589147287
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,85,387,21.963824289405686
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,43,387,11.11111111111111
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,3,387,0.7751937984496124
+Frozen MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,5,387,1.2919896640826873
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",72,350,20.571428571428573
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Closing your account,29,350,8.285714285714286
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Fees or interest,31,350,8.857142857142858
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Getting a credit card,32,350,9.142857142857142
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,27,350,7.714285714285714
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",4,350,1.1428571428571428
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem when making payments,43,350,12.285714285714286
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,350,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,76,350,21.714285714285715
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,5,350,1.4285714285714286
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",true_to_predicted,Trouble using your card,31,350,8.857142857142858
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Closing your account,2,12,16.666666666666668
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Fees or interest,3,12,25.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",4,12,33.333333333333336
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem when making payments,0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,12,25.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,12,0.0
+Fine-tuned MiniLM,validation,"Other features, terms, or problems",predicted_from_true,Trouble using your card,0,12,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",0,46,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,1,46,2.1739130434782608
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,1,46,2.1739130434782608
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,7,46,15.217391304347826
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,24,46,52.17391304347826
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,46,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,3,46,6.521739130434782
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,46,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,8,46,17.391304347826086
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,1,46,2.1739130434782608
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,1,46,2.1739130434782608
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,1,2,50.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,1,2,50.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,2,0.0
+Fine-tuned MiniLM,validation,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,0,2,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,"Advertising and marketing, including promotional offers",160,810,19.753086419753085
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Closing your account,81,810,10.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Fees or interest,54,810,6.666666666666667
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Getting a credit card,72,810,8.88888888888889
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Incorrect information on your report,40,810,4.938271604938271
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,"Other features, terms, or problems",24,810,2.962962962962963
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem when making payments,61,810,7.530864197530864
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem with a company's investigation into an existing problem,0,810,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Problem with a purchase shown on your statement,197,810,24.320987654320987
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Struggling to pay your bill,15,810,1.8518518518518519
+Fine-tuned MiniLM,test,"Other features, terms, or problems",true_to_predicted,Trouble using your card,106,810,13.08641975308642
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,"Advertising and marketing, including promotional offers",1,33,3.0303030303030303
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Closing your account,1,33,3.0303030303030303
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Fees or interest,0,33,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Getting a credit card,0,33,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Incorrect information on your report,0,33,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,"Other features, terms, or problems",24,33,72.72727272727273
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem when making payments,3,33,9.090909090909092
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem with a company's investigation into an existing problem,0,33,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Problem with a purchase shown on your statement,3,33,9.090909090909092
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Struggling to pay your bill,0,33,0.0
+Fine-tuned MiniLM,test,"Other features, terms, or problems",predicted_from_true,Trouble using your card,1,33,3.0303030303030303
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Advertising and marketing, including promotional offers",1,185,0.5405405405405406
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Closing your account,10,185,5.405405405405405
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Fees or interest,9,185,4.864864864864865
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Getting a credit card,8,185,4.324324324324325
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Incorrect information on your report,116,185,62.7027027027027
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,"Other features, terms, or problems",0,185,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem when making payments,17,185,9.18918918918919
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a company's investigation into an existing problem,0,185,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Problem with a purchase shown on your statement,14,185,7.5675675675675675
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Struggling to pay your bill,4,185,2.1621621621621623
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,true_to_predicted,Trouble using your card,6,185,3.2432432432432434
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Advertising and marketing, including promotional offers",0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Closing your account,0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Fees or interest,0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Getting a credit card,0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Incorrect information on your report,2,6,33.333333333333336
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,"Other features, terms, or problems",0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem when making payments,1,6,16.666666666666668
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a company's investigation into an existing problem,0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Problem with a purchase shown on your statement,2,6,33.333333333333336
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Struggling to pay your bill,0,6,0.0
+Fine-tuned MiniLM,test,Problem with a company's investigation into an existing problem,predicted_from_true,Trouble using your card,1,6,16.666666666666668

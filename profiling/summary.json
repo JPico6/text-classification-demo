@@ -1,0 +1,336 @@
+{
+  "CCDB_Export_14_November_2025_through_December_2025.csv": {
+    "rows": 1009132,
+    "bytes": 462623262,
+    "sha256": "d40ce5a19d4337ad4850e8753ac43f3549fdc793d5784899c61ad8ba6af29f28",
+    "columns": [
+      "Date received",
+      "Product",
+      "Sub-product",
+      "Issue",
+      "Sub-issue",
+      "Consumer complaint narrative",
+      "Company public response",
+      "Company",
+      "State",
+      "ZIP code",
+      "Tags",
+      "Submitted via",
+      "Date sent to company",
+      "Company response to consumer",
+      "Timely response?",
+      "Complaint ID"
+    ],
+    "date_ranges": {
+      "Date received": [
+        "2025-11-01",
+        "2025-12-31"
+      ],
+      "Date sent to company": [
+        "2025-11-01",
+        "2026-08-18"
+      ]
+    },
+    "missing": {
+      "Date received": 0,
+      "Product": 0,
+      "Sub-product": 0,
+      "Issue": 0,
+      "Sub-issue": 11727,
+      "Consumer complaint narrative": 874491,
+      "Company public response": 422077,
+      "Company": 0,
+      "State": 1243,
+      "ZIP code": 0,
+      "Tags": 987337,
+      "Submitted via": 0,
+      "Date sent to company": 0,
+      "Company response to consumer": 0,
+      "Timely response?": 0,
+      "Complaint ID": 0
+    },
+    "distinct": {
+      "Date received": 61,
+      "Product": 11,
+      "Sub-product": 54,
+      "Issue": 90,
+      "Sub-issue": 209,
+      "Consumer complaint narrative": 76525,
+      "Company public response": 11,
+      "Company": 2345,
+      "State": 62,
+      "ZIP code": 15922,
+      "Tags": 4,
+      "Submitted via": 4,
+      "Date sent to company": 186,
+      "Company response to consumer": 5,
+      "Timely response?": 2,
+      "Complaint ID": 1009132
+    },
+    "duplicate_ids": 0,
+    "duplicate_rows": 0
+  },
+  "CCDB_Export_8_November_2024_through_December_2024.csv": {
+    "rows": 591058,
+    "bytes": 347911485,
+    "sha256": "2ef7d563bf6283a1282bcfba2d99d72f9bfa4a4617524682de72a9b3fa47bed0",
+    "columns": [
+      "Date received",
+      "Product",
+      "Sub-product",
+      "Issue",
+      "Sub-issue",
+      "Consumer complaint narrative",
+      "Company public response",
+      "Company",
+      "State",
+      "ZIP code",
+      "Tags",
+      "Submitted via",
+      "Date sent to company",
+      "Company response to consumer",
+      "Timely response?",
+      "Complaint ID"
+    ],
+    "date_ranges": {
+      "Date received": [
+        "2024-11-01",
+        "2024-12-31"
+      ],
+      "Date sent to company": [
+        "2024-11-01",
+        "2026-03-09"
+      ]
+    },
+    "missing": {
+      "Date received": 0,
+      "Product": 0,
+      "Sub-product": 0,
+      "Issue": 0,
+      "Sub-issue": 6519,
+      "Consumer complaint narrative": 436142,
+      "Company public response": 225289,
+      "Company": 0,
+      "State": 1274,
+      "ZIP code": 0,
+      "Tags": 571447,
+      "Submitted via": 0,
+      "Date sent to company": 0,
+      "Company response to consumer": 0,
+      "Timely response?": 0,
+      "Complaint ID": 0
+    },
+    "distinct": {
+      "Date received": 61,
+      "Product": 11,
+      "Sub-product": 54,
+      "Issue": 88,
+      "Sub-issue": 208,
+      "Consumer complaint narrative": 91571,
+      "Company public response": 11,
+      "Company": 2000,
+      "State": 60,
+      "ZIP code": 13937,
+      "Tags": 4,
+      "Submitted via": 4,
+      "Date sent to company": 116,
+      "Company response to consumer": 4,
+      "Timely response?": 2,
+      "Complaint ID": 591058
+    },
+    "duplicate_ids": 0,
+    "duplicate_rows": 0
+  },
+  "combined": {
+    "rows": 1600190,
+    "duplicate_ids": 0,
+    "cross_file_ids": 0,
+    "products": [
+      "Checking or savings account",
+      "Credit card",
+      "Credit reporting or other personal consumer reports",
+      "Debt collection",
+      "Debt or credit management",
+      "Money transfer, virtual currency, or money service",
+      "Mortgage",
+      "Payday loan, title loan, personal loan, or advance loan",
+      "Prepaid card",
+      "Student loan",
+      "Vehicle loan or lease"
+    ]
+  },
+  "credit_card": {
+    "rows": 27512,
+    "narratives": 12363,
+    "products": {
+      "Credit card": 27512
+    },
+    "years": {
+      "2024": {
+        "rows": 12792,
+        "narratives": 5527,
+        "date_range": [
+          "2024-11-01",
+          "2024-12-31"
+        ],
+        "company_top10": {
+          "TRANSUNION INTERMEDIATE HOLDINGS, INC.": 1253,
+          "Experian Information Solutions Inc.": 1212,
+          "EQUIFAX, INC.": 1205,
+          "CAPITAL ONE FINANCIAL CORPORATION": 1183,
+          "CITIBANK, N.A.": 1154,
+          "JPMORGAN CHASE & CO.": 845,
+          "SYNCHRONY FINANCIAL": 844,
+          "AMERICAN EXPRESS COMPANY": 614,
+          "BANK OF AMERICA, NATIONAL ASSOCIATION": 589,
+          "GOLDMAN SACHS BANK USA": 430
+        },
+        "narrative_company_top10": {
+          "CAPITAL ONE FINANCIAL CORPORATION": 672,
+          "CITIBANK, N.A.": 640,
+          "SYNCHRONY FINANCIAL": 527,
+          "JPMORGAN CHASE & CO.": 480,
+          "BANK OF AMERICA, NATIONAL ASSOCIATION": 334,
+          "AMERICAN EXPRESS COMPANY": 331,
+          "GOLDMAN SACHS BANK USA": 246,
+          "Bread Financial Holdings, Inc.": 230,
+          "DISCOVER BANK": 188,
+          "WELLS FARGO & COMPANY": 184
+        }
+      },
+      "2025": {
+        "rows": 14720,
+        "narratives": 6836,
+        "date_range": [
+          "2025-11-01",
+          "2025-12-31"
+        ],
+        "company_top10": {
+          "CAPITAL ONE FINANCIAL CORPORATION": 1823,
+          "CITIBANK, N.A.": 1809,
+          "SYNCHRONY FINANCIAL": 1407,
+          "JPMORGAN CHASE & CO.": 1155,
+          "BANK OF AMERICA, NATIONAL ASSOCIATION": 845,
+          "AMERICAN EXPRESS COMPANY": 808,
+          "EQUIFAX, INC.": 578,
+          "Bread Financial Holdings, Inc.": 552,
+          "DISCOVER BANK": 535,
+          "WELLS FARGO & COMPANY": 529
+        },
+        "narrative_company_top10": {
+          "CAPITAL ONE FINANCIAL CORPORATION": 889,
+          "CITIBANK, N.A.": 864,
+          "SYNCHRONY FINANCIAL": 754,
+          "JPMORGAN CHASE & CO.": 522,
+          "AMERICAN EXPRESS COMPANY": 386,
+          "BANK OF AMERICA, NATIONAL ASSOCIATION": 372,
+          "Bread Financial Holdings, Inc.": 264,
+          "DISCOVER BANK": 237,
+          "BARCLAYS BANK DELAWARE": 222,
+          "WELLS FARGO & COMPANY": 222
+        }
+      }
+    },
+    "lengths": {
+      "2024": {
+        "words": {
+          "0.0": 8.0,
+          "0.01": 14.259999999999998,
+          "0.1": 42.0,
+          "0.25": 82.0,
+          "0.5": 160.0,
+          "0.75": 275.0,
+          "0.9": 439.0,
+          "0.99": 1117.4599999999937,
+          "1.0": 5343.0
+        },
+        "chars": {
+          "0.0": 46.0,
+          "0.01": 75.25999999999999,
+          "0.1": 228.0,
+          "0.25": 440.0,
+          "0.5": 880.0,
+          "0.75": 1530.0,
+          "0.9": 2481.4000000000005,
+          "0.99": 6090.699999999999,
+          "1.0": 32400.0
+        }
+      },
+      "2025": {
+        "words": {
+          "0.0": 6.0,
+          "0.01": 15.0,
+          "0.1": 46.0,
+          "0.25": 102.0,
+          "0.5": 185.5,
+          "0.75": 295.25,
+          "0.9": 447.0,
+          "0.99": 964.8499999999967,
+          "1.0": 2463.0
+        },
+        "chars": {
+          "0.0": 49.0,
+          "0.01": 82.0,
+          "0.1": 248.5,
+          "0.25": 564.75,
+          "0.5": 1072.5,
+          "0.75": 1743.25,
+          "0.9": 2689.0,
+          "0.99": 5738.799999999981,
+          "1.0": 13999.0
+        }
+      }
+    },
+    "duplicates": {
+      "exact_hash": {
+        "groups_repeated": 115,
+        "rows_in_repeated_groups": 565,
+        "excess_rows": 450,
+        "cross_year_groups": 2,
+        "conflicting_issue_groups": 2
+      },
+      "norm_hash": {
+        "groups_repeated": 123,
+        "rows_in_repeated_groups": 593,
+        "excess_rows": 470,
+        "cross_year_groups": 2,
+        "conflicting_issue_groups": 3
+      }
+    },
+    "near_duplicates": {
+      "candidate_pairs": 359056,
+      "distinct_text_pairs_jaccard_ge_0.8": 309,
+      "cross_year_pairs": 0,
+      "conflicting_issue_pairs": 24,
+      "affected_ids": 314
+    },
+    "short_under20": 244
+  },
+  "all_narrative_duplicates": {
+    "narratives": 289557,
+    "repeated_groups": 19098,
+    "rows_in_repeated_groups": 140814,
+    "excess_rows": 121716,
+    "cross_year_groups": 253,
+    "cross_product_groups": 127,
+    "conflicting_issue_groups": 696
+  },
+  "dates": {
+    "Date received": {
+      "invalid": 0
+    },
+    "Date sent to company": {
+      "invalid": 0
+    }
+  },
+  "sent_lag": {
+    "negative": 0,
+    "quantiles": {
+      "0.0": 0.0,
+      "0.5": 0.0,
+      "0.9": 0.0,
+      "0.99": 8.0,
+      "1.0": 446.0
+    }
+  }
+}

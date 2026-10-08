@@ -1,0 +1,195 @@
+{
+  "seed": 20261008,
+  "inputs": [
+    "Consumer complaint narrative"
+  ],
+  "data_access": [
+    "cohort/train.csv",
+    "cohort/validation.csv",
+    "cohort/manifest.json"
+  ],
+  "training_period": "November 2024",
+  "validation_period": "December 2024",
+  "test_accessed": false,
+  "labels": [
+    "Advertising and marketing, including promotional offers",
+    "Closing your account",
+    "Fees or interest",
+    "Getting a credit card",
+    "Incorrect information on your report",
+    "Other features, terms, or problems",
+    "Problem when making payments",
+    "Problem with a company's investigation into an existing problem",
+    "Problem with a purchase shown on your statement",
+    "Struggling to pay your bill",
+    "Trouble using your card"
+  ],
+  "lexical_cues": {
+    "Advertising and marketing, including promotional offers": [
+      "promotional offer",
+      "promotion",
+      "advertised",
+      "advertising",
+      "sign up bonus",
+      "signup bonus",
+      "welcome bonus"
+    ],
+    "Closing your account": [
+      "closed my account",
+      "account closure",
+      "close my account",
+      "closed account",
+      "account was closed",
+      "cancel my card"
+    ],
+    "Fees or interest": [
+      "interest rate",
+      "interest charge",
+      "annual fee",
+      "late fee",
+      "fees",
+      "apr"
+    ],
+    "Getting a credit card": [
+      "credit card application",
+      "application denied",
+      "denied my application",
+      "applied for",
+      "never applied",
+      "unsolicited card"
+    ],
+    "Incorrect information on your report": [
+      "inaccurate reporting",
+      "incorrect information",
+      "credit report",
+      "late payment remarks",
+      "reporting inaccurately"
+    ],
+    "Other features, terms, or problems": [
+      "rewards",
+      "reward points",
+      "balance transfer",
+      "credit limit",
+      "cash advance",
+      "customer service"
+    ],
+    "Problem when making payments": [
+      "autopay",
+      "automatic payment",
+      "payment hold",
+      "payment was not credited",
+      "make a payment",
+      "payment processing"
+    ],
+    "Problem with a company's investigation into an existing problem": [
+      "investigation",
+      "failed to investigate",
+      "dispute results",
+      "verified as accurate",
+      "reinvestigation"
+    ],
+    "Problem with a purchase shown on your statement": [
+      "unauthorized charge",
+      "unauthorized charges",
+      "fraudulent charge",
+      "fraudulent charges",
+      "chargeback",
+      "refund",
+      "merchant"
+    ],
+    "Struggling to pay your bill": [
+      "financial hardship",
+      "hardship",
+      "unable to pay",
+      "cannot afford",
+      "lost my job",
+      "payment assistance"
+    ],
+    "Trouble using your card": [
+      "card declined",
+      "card was declined",
+      "declined transaction",
+      "activate my card",
+      "card activation",
+      "replacement card",
+      "blocked my card"
+    ]
+  },
+  "lexical_rule": "distinct cue count per label; ties/no cue resolved by training label frequency, then fixed label order",
+  "tokenizer": "Unicode word tokens incl contractions; numeric tokens incl comma/decimal groups; individual non-word punctuation tokens",
+  "tfidf_fixed": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "lowercase": true,
+    "stop_words": null,
+    "strip_accents": null,
+    "sublinear_tf": true,
+    "norm": "l2",
+    "smooth_idf": true,
+    "use_idf": true,
+    "max_df": 1.0,
+    "max_features": null
+  },
+  "lr_fixed": {
+    "solver": "lbfgs",
+    "penalty": "l2",
+    "max_iter": 1000,
+    "tol": 0.0001,
+    "fit_intercept": true,
+    "objective": "multinomial softmax (lbfgs, 11 classes)",
+    "threads": 1
+  },
+  "experiments": [
+    {
+      "id": "tfidf_df1_C1.0_none",
+      "min_df": 1,
+      "C": 1.0,
+      "class_weight": null
+    },
+    {
+      "id": "tfidf_df1_C1.0_balanced",
+      "min_df": 1,
+      "C": 1.0,
+      "class_weight": "balanced"
+    },
+    {
+      "id": "tfidf_df1_C4.0_none",
+      "min_df": 1,
+      "C": 4.0,
+      "class_weight": null
+    },
+    {
+      "id": "tfidf_df1_C4.0_balanced",
+      "min_df": 1,
+      "C": 4.0,
+      "class_weight": "balanced"
+    },
+    {
+      "id": "tfidf_df2_C1.0_none",
+      "min_df": 2,
+      "C": 1.0,
+      "class_weight": null
+    },
+    {
+      "id": "tfidf_df2_C1.0_balanced",
+      "min_df": 2,
+      "C": 1.0,
+      "class_weight": "balanced"
+    },
+    {
+      "id": "tfidf_df2_C4.0_none",
+      "min_df": 2,
+      "C": 4.0,
+      "class_weight": null
+    },
+    {
+      "id": "tfidf_df2_C4.0_balanced",
+      "min_df": 2,
+      "C": 4.0,
+      "class_weight": "balanced"
+    }
+  ],
+  "selection": "maximum validation macro-F1; exact ties use listed experiment order"
+}

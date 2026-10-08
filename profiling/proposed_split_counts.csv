@@ -1,0 +1,60 @@
+split,Issue,rows
+gap_2025_nov,"Advertising and marketing, including promotional offers",159
+gap_2025_nov,Closing your account,324
+gap_2025_nov,Credit monitoring or identity theft protection services,3
+gap_2025_nov,Fees or interest,450
+gap_2025_nov,Getting a credit card,383
+gap_2025_nov,Improper use of your report,32
+gap_2025_nov,Incorrect information on your report,319
+gap_2025_nov,"Other features, terms, or problems",452
+gap_2025_nov,Problem when making payments,181
+gap_2025_nov,Problem with a company's investigation into an existing problem,100
+gap_2025_nov,Problem with a purchase shown on your statement,1024
+gap_2025_nov,Problem with fraud alerts or security freezes,2
+gap_2025_nov,Struggling to pay your bill,60
+gap_2025_nov,Trouble using your card,162
+gap_2025_nov,Unable to get your credit report or credit score,3
+test,"Advertising and marketing, including promotional offers",163
+test,Closing your account,246
+test,Credit monitoring or identity theft protection services,5
+test,Fees or interest,387
+test,Getting a credit card,358
+test,Improper use of your report,19
+test,Incorrect information on your report,156
+test,"Other features, terms, or problems",362
+test,Problem when making payments,154
+test,Problem with a company's investigation into an existing problem,94
+test,Problem with a purchase shown on your statement,1036
+test,Problem with fraud alerts or security freezes,5
+test,Struggling to pay your bill,41
+test,Trouble using your card,155
+test,Unable to get your credit report or credit score,1
+train,"Advertising and marketing, including promotional offers",131
+train,Closing your account,218
+train,Credit monitoring or identity theft protection services,6
+train,Fees or interest,337
+train,Getting a credit card,330
+train,Improper use of your report,19
+train,Incorrect information on your report,108
+train,"Other features, terms, or problems",323
+train,Problem when making payments,168
+train,Problem with a company's investigation into an existing problem,142
+train,Problem with a purchase shown on your statement,683
+train,Problem with fraud alerts or security freezes,6
+train,Struggling to pay your bill,43
+train,Trouble using your card,116
+validation,"Advertising and marketing, including promotional offers",151
+validation,Closing your account,238
+validation,Credit monitoring or identity theft protection services,7
+validation,Fees or interest,360
+validation,Getting a credit card,370
+validation,Improper use of your report,24
+validation,Incorrect information on your report,96
+validation,"Other features, terms, or problems",357
+validation,Problem when making payments,216
+validation,Problem with a company's investigation into an existing problem,112
+validation,Problem with a purchase shown on your statement,790
+validation,Problem with fraud alerts or security freezes,1
+validation,Struggling to pay your bill,37
+validation,Trouble using your card,134
+validation,Unable to get your credit report or credit score,4

@@ -1,0 +1,12 @@
+{
+  "epoch": 8,
+  "global_optimizer_step": 608,
+  "training_weighted_loss": 1.3872143889811173,
+  "training_seconds": 33.850623700069264,
+  "validation_inference_seconds": 16.496367200044915,
+  "encoder_lr_end": 0.0,
+  "macro_f1": 0.4588255384918203,
+  "weighted_f1": 0.5775972534783601,
+  "accuracy": 0.6144712430426716,
+  "balanced_accuracy": 0.5066446435147592
+}

@@ -1,0 +1,799 @@
+source,Product,Issue,Sub-issue,rows
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Closing an account,Can't close your account,248
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Closing an account,Company closed your account,904
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Closing an account,Fees charged for closing account,28
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Closing an account,Funds not received from closed account,636
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Improper use of your report,Credit inquiries on your report that you don't recognize,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Improper use of your report,Reporting company used your report improperly,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Incorrect information on your report,Account information incorrect,6
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Incorrect information on your report,Account status incorrect,18
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Incorrect information on your report,Information belongs to someone else,23
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Incorrect information on your report,Old information reappears or never goes away,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Incorrect information on your report,Personal information incorrect,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Banking errors,634
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Cashing a check,184
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Deposits and withdrawals,2779
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Deposits or withdrawals,51
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Fee problem,105
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Funds not handled or disbursed as instructed,909
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Problem accessing account,616
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Problem making or receiving payments,503
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Problem using a debit or ATM card,2053
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Problem with fees or penalties,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Managing an account,Problem with renewal,12
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Opening an account,Account opened without my consent or knowledge,369
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Opening an account,Confusing or missing disclosures,63
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Opening an account,Didn't receive terms that were advertised,239
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Opening an account,Unable to open an account,501
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem caused by your funds being low,Bounced checks or returned payments,70
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem caused by your funds being low,Late or other fees,65
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem caused by your funds being low,Non-sufficient funds and associated fees,173
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem caused by your funds being low,Overdrafts and overdraft fees,489
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,23
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a lender or other company charging your account,Can't stop withdrawals from your account,103
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,240
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with a lender or other company charging your account,Transaction was not authorized,1671
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Problem with fraud alerts or security freezes,,16
+CCDB_Export_14_November_2025_through_December_2025.csv,Checking or savings account,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card,269
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms,313
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Closing your account,Can't close your account,208
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Closing your account,Company closed your account,920
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Credit monitoring or identity theft protection services,Billing dispute for services,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Credit monitoring or identity theft protection services,Problem with product or service terms changing,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Fees or interest,Charged too much interest,433
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Fees or interest,Problem with fees,936
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Fees or interest,Unexpected increase in interest rate,147
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Getting a credit card,Application denied,276
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Getting a credit card,Card opened without my consent or knowledge,1303
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Getting a credit card,Delay in processing application,79
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Getting a credit card,Problem getting a working replacement card,67
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Getting a credit card,Sent card you never applied for,96
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Improper use of your report,Credit inquiries on your report that you don't recognize,42
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Improper use of your report,Report provided to employer without your written authorization,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Improper use of your report,Reporting company used your report improperly,70
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Account information incorrect,279
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Account status incorrect,977
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Information belongs to someone else,214
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Information is missing that should be on the report,9
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Old information reappears or never goes away,18
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Personal information incorrect,9
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Incorrect information on your report,Public record information inaccurate,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Add-on products and services,45
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Credit card company forcing arbitration,16
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Other problem,738
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Privacy issues,77
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Problem with balance transfer,104
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Problem with cash advances,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Problem with convenience check,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Problem with customer service,144
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,"Other features, terms, or problems",Problem with rewards from credit card,370
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem when making payments,Problem during payment process,660
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem when making payments,You never received your bill or did not know a payment was due,83
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,36
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,12
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,50
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,294
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,235
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card,884
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement,3278
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card,113
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Problem with fraud alerts or security freezes,,17
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship,218
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Struggling to pay your bill,Filed for bankruptcy,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Struggling to pay your bill,Problem lowering your monthly payments,19
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Trouble using your card,Account sold or transferred to another company,10
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Trouble using your card,Can't use card to make purchases,388
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Trouble using your card,Credit card company won't increase or decrease your credit limit,192
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit card,Unable to get your credit report or credit score,Other problem getting your report or credit score,11
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Billing dispute for services,248
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,352
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,417
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Problem with product or service terms changing,90
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,25
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Billing dispute for services,14
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Didn't receive services that were advertised,19
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Problem canceling credit monitoring or identify theft protection service,35
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Problem with product or service terms changing,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Received unwanted marketing or advertising,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Improper use of your report,Credit inquiries on your report that you don't recognize,33033
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,127
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Improper use of your report,Report provided to employer without your written authorization,213
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Improper use of your report,Reporting company used your report improperly,144494
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Account information incorrect,83278
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Account status incorrect,49397
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information belongs to someone else,387758
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information is incorrect,614
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information is missing that should be on the report,6010
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information that should be on the report is missing,57
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Old information reappears or never goes away,2250
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Personal information incorrect,16443
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Public record information inaccurate,3762
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Difficulty submitting a dispute or getting information about a dispute over the phone,51
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Investigation took more than 30 days,32
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Problem with personal statement of dispute,55
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Their investigation did not fix an error on your report,249
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Was not notified of investigation status or results,53
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,1377
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,69276
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,2618
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,89681
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,6118
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,,2717
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,Other problem getting your report or credit score,2179
+CCDB_Export_14_November_2025_through_December_2025.csv,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,Problem getting your free annual credit report,443
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Attempts to collect debt not owed,Debt is not yours,11292
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,356
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Attempts to collect debt not owed,Debt was paid,1338
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Attempts to collect debt not owed,Debt was result of identity theft,6676
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Communication tactics,Called before 8am or after 9pm,74
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Communication tactics,Frequent or repeated calls,805
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Communication tactics,"Used obscene, profane, or other abusive language",175
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Communication tactics,"You told them to stop contacting you, but they keep trying",537
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Electronic communications,Contacted before 8am or after 9pm,62
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Electronic communications,Frequent or repeated messages,524
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Electronic communications,"Used obscene, profane, or other abusive language",21
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Electronic communications,"You told them to stop contacting you, but they keep trying",218
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,False statements or representation,Attempted to collect wrong amount,5766
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,False statements or representation,"Impersonated attorney, law enforcement, or government official",178
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,False statements or representation,Indicated you were committing crime by not paying debt,80
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,False statements or representation,Told you not to respond to a lawsuit they filed against you,37
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted you after you asked them to stop,105
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted you instead of your attorney,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted your employer,63
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,245
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,111
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Seized or attempted to seize your property,152
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,42
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,318
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,16520
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,138
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,376
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to turn you in to immigration or deport you,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Written notification about debt,Didn't receive enough information to verify debt,4853
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Written notification about debt,Didn't receive notice of right to dispute,1558
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt collection,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,2351
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Charged upfront or unexpected fees,,99
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Confusing or misleading advertising or marketing,,76
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Confusing or missing disclosures,,153
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Didn't provide services promised,,167
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Problem with customer service,,104
+CCDB_Export_14_November_2025_through_December_2025.csv,Debt or credit management,Unauthorized withdrawals or charges,,82
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,,54
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,,161
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Fraud or scam,,1699
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Incorrect exchange rate,,4
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Lost or stolen money order,,32
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",,388
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Money was not available when promised,,428
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Other service problem,,148
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Other transaction problem,,957
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service","Overdraft, savings, or rewards features",,18
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Problem adding money,,21
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Problem with customer service,,104
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,,599
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,,986
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Unexpected or other fees,,109
+CCDB_Export_14_November_2025_through_December_2025.csv,"Money transfer, virtual currency, or money service",Wrong amount charged or received,,44
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Application denials,87
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Changes in loan terms during the application process,59
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Confusing or misleading advertising or marketing,85
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Delays in the application process,81
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Fees or costs during the application process,41
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Loan estimate or other related disclosures,40
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Negative impact of inaccurate appraisal,19
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Trying to communicate with the company to fix an issue with the application process,106
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Changes in loan terms during or after closing,68
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Closing disclosure or other related disclosures,103
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Delays with the closing process,91
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Fees or costs after closing,55
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Setting up an escrow account for taxes and insurance,11
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Closing on a mortgage,Trying to communicate with the company to fix an issue with the loan closing,103
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Credit monitoring or identity theft protection services,Billing dispute for services,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Credit monitoring or identity theft protection services,Problem with product or service terms changing,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Improper use of your report,Credit inquiries on your report that you don't recognize,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Improper use of your report,Reporting company used your report improperly,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Account information incorrect,50
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Account status incorrect,87
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Information belongs to someone else,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Information is missing that should be on the report,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Old information reappears or never goes away,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Personal information incorrect,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Incorrect information on your report,Public record information inaccurate,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,10
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,28
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,67
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Problem with fraud alerts or security freezes,,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Struggling to pay mortgage,"An existing modification, forbearance plan, short sale, or other loss mitigation relief",179
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Struggling to pay mortgage,"Applying for or obtaining a modification, forbearance plan, short sale, or deed-in-lieu",270
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Struggling to pay mortgage,Foreclosure,262
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Struggling to pay mortgage,"Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure",496
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,"Escrow, taxes, or insurance",759
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Fees charged,114
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Interest rate,25
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Lien release,45
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Loan sold or transferred to another company,144
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Paying off the loan,105
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Payment process,497
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Private mortgage insurance (PMI),86
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Trouble during payment process,Trying to communicate with the company to fix an issue while managing or servicing your loan,623
+CCDB_Export_14_November_2025_through_December_2025.csv,Mortgage,Unable to get your credit report or credit score,Other problem getting your report or credit score,6
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer,,41
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account,,32
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,,662
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Confusing or misleading advertising or marketing,,12
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Confusing or missing disclosures,,19
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Credit limit changed,,7
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Billing dispute for services,5
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,1
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Problem with product or service terms changing,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,1
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,,80
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,,246
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Credit inquiries on your report that you don't recognize,12
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Report provided to employer without your written authorization,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Reporting company used your report improperly,21
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Account information incorrect,68
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Account status incorrect,66
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Information belongs to someone else,32
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Information is missing that should be on the report,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Old information reappears or never goes away,5
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Public record information inaccurate,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Issues with repayment,,26
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Loan payment wasn't credited to your account,,27
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Lost or stolen refund,,1
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Money was taken from your bank account on the wrong day or for the wrong amount,,31
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,,367
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,5
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Investigation took more than 30 days,4
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,18
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,33
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,7
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,,181
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with cash advance,,8
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with fraud alerts or security freezes,,7
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,,201
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Problems receiving the advance,,10
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Property was damaged or destroyed property,,3
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Property was sold,,4
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,,37
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,,318
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Unable to get your credit report or credit score,Other problem getting your report or credit score,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Unexpected fees,,13
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Vehicle was damaged or destroyed the vehicle,,7
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle,,27
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive money",,2
+CCDB_Export_14_November_2025_through_December_2025.csv,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive the money",,24
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Advertising,Changes in terms from what was offered or advertised,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Advertising,Confusing or misleading advertising about the card,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem getting a card or closing an account,Don't want a card provided by your employer or the government,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem getting a card or closing an account,Trouble closing card,59
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem getting a card or closing an account,Trouble getting a working replacement card,46
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",92
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,215
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,102
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,6
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem with overdraft,Overdraft charges,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Problem with overdraft,"Was signed up for overdraft on card, but don't want to be",2
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Problem adding money,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Problem using the card to withdraw money from an ATM,17
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Problem with a check written from your prepaid card account,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Problem with direct deposit,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Trouble getting information about the card,68
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Trouble using the card to pay a bill,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Trouble using the card to send money to another person,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Trouble using the card,Trouble using the card to spend money in a store or online,325
+CCDB_Export_14_November_2025_through_December_2025.csv,Prepaid card,Unexpected or other fees,,137
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Credit monitoring or identity theft protection services,Billing dispute for services,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Credit monitoring or identity theft protection services,Problem with product or service terms changing,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Co-signer,22
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Don't agree with the fees charged,126
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Keep getting calls about your loan,27
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Need information about your loan balance or loan terms,110
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Problem with customer service,166
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Received bad information about your loan,646
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Dealing with your lender or servicer,Trouble with how payments are being handled,445
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Getting a loan,Changes in terms mid-deal or after closing,6
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Getting a loan,Confusing or misleading advertising,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Getting a loan,Denied loan,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Getting a loan,High pressure sales tactics or recruiting,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Getting a loan,Loan opened without my consent or knowledge,21
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Improper use of your report,Credit inquiries on your report that you don't recognize,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Improper use of your report,Report provided to employer without your written authorization,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Improper use of your report,Reporting company used your report improperly,49
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Account information incorrect,122
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Account status incorrect,258
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Information belongs to someone else,42
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Information is missing that should be on the report,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Old information reappears or never goes away,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Personal information incorrect,6
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Incorrect information on your report,Public record information inaccurate,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue where my lender is my school,"Cannot graduate, receive diploma, or get transcript due to money owed",8
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue where my lender is my school,Issues with fees connected to the loan,11
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue with income share agreement,Billing or statement issues,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue with income share agreement,Dealing with provider of income share agreement,14
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue with income share agreement,Marketing or disclosure issues,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Issue with income share agreement,Payment issues,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,12
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,6
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,32
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,92
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Problem with fraud alerts or security freezes,,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,Bankruptcy,23
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,Can't get other flexible options for repaying your loan,65
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,Can't temporarily delay making payments,70
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,Problem lowering your monthly payments,36
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,"Problem with forgiveness, cancellation, or discharge",268
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Struggling to repay your loan,Problem with your payment plan,65
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Student loan,Unable to get your credit report or credit score,Problem getting your free annual credit report,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Billing dispute for services,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Problem with product or service terms changing,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Changes in terms mid-deal or after closing,47
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Confusing or misleading advertising or marketing,95
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Credit denial,50
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Did not receive car title,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,High-pressure sales tactics,32
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Loan opened without my consent or knowledge,144
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Problem with a trade-in,8
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan,29
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Getting a loan or lease,Problem with signing the paperwork,34
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Improper use of your report,Credit inquiries on your report that you don't recognize,4
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Improper use of your report,Reporting company used your report improperly,24
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Account information incorrect,136
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Account status incorrect,161
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Information belongs to someone else,55
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Information is missing that should be on the report,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Old information reappears or never goes away,10
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Personal information incorrect,7
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Incorrect information on your report,Public record information inaccurate,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Managing the loan or lease,Billing problem,590
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Managing the loan or lease,Loan sold or transferred to another company,76
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Managing the loan or lease,Problem with additional products or services purchased with the loan,259
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Managing the loan or lease,Problem with fees charged,200
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Managing the loan or lease,Problem with the interest rate,132
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,12
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,3
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,16
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,83
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,13
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with credit report or credit score,Incorrect information on your report,1
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problem with fraud alerts or security freezes,,2
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,"Excess mileage, damage, or wear fees, or other problem after the lease is finished",26
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem extending the lease,5
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem related to refinancing,53
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem when attempting to purchase vehicle at the end of the lease,10
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle,40
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem with paying off the loan,139
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Termination fees or other problem when ending the lease early,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off,251
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Account reinstatement or redemption after repossession,196
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Company communicating payment assistance or payment extension options,59
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Company explaining amount owed,47
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Damage caused or loss of personal items in vehicle during the actual repossession,104
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Deficiency balance after repossession,145
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Lender trying to repossess or disable the vehicle,138
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Loan balance remaining after the vehicle is repossessed and sold,246
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Notice to repossess,153
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Repossession,Voluntary repossession,107
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Struggling to pay your loan,Denied request to lower payments,183
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Struggling to pay your loan,Problem after you declared or threatened to declare bankruptcy,15
+CCDB_Export_14_November_2025_through_December_2025.csv,Vehicle loan or lease,Unable to get your credit report or credit score,Other problem getting your report or credit score,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Closing an account,Can't close your account,234
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Closing an account,Company closed your account,580
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Closing an account,Fees charged for closing account,47
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Closing an account,Funds not received from closed account,465
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Credit monitoring or identity theft protection services,Billing dispute for services,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Improper use of your report,Reporting company used your report improperly,12
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Account information incorrect,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Account status incorrect,9
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Information belongs to someone else,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Information is missing that should be on the report,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Old information reappears or never goes away,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Personal information incorrect,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Incorrect information on your report,Public record information inaccurate,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Banking errors,443
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Cashing a check,143
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Deposits and withdrawals,1975
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Deposits or withdrawals,31
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Fee problem,126
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Funds not handled or disbursed as instructed,611
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Problem accessing account,467
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Problem making or receiving payments,298
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Problem using a debit or ATM card,1134
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Problem with fees or penalties,12
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Managing an account,Problem with renewal,18
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Opening an account,Account opened without my consent or knowledge,330
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Opening an account,Confusing or missing disclosures,38
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Opening an account,Didn't receive terms that were advertised,181
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Opening an account,Unable to open an account,345
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem caused by your funds being low,Bounced checks or returned payments,66
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem caused by your funds being low,Late or other fees,64
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem caused by your funds being low,Non-sufficient funds and associated fees,193
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem caused by your funds being low,Overdrafts and overdraft fees,978
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a lender or other company charging your account,Can't stop withdrawals from your account,72
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,132
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with a lender or other company charging your account,Transaction was not authorized,924
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Problem with fraud alerts or security freezes,,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Checking or savings account,Unable to get your credit report or credit score,Problem getting your free annual credit report,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card,173
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms,247
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Closing your account,Can't close your account,181
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Closing your account,Company closed your account,604
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Credit monitoring or identity theft protection services,Billing dispute for services,13
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Credit monitoring or identity theft protection services,Problem with product or service terms changing,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Fees or interest,Charged too much interest,305
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Fees or interest,Problem with fees,689
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Fees or interest,Unexpected increase in interest rate,102
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Getting a credit card,Application denied,369
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Getting a credit card,Card opened without my consent or knowledge,1029
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Getting a credit card,Delay in processing application,66
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Getting a credit card,Problem getting a working replacement card,41
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Getting a credit card,Sent card you never applied for,70
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Improper use of your report,Credit inquiries on your report that you don't recognize,42
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Improper use of your report,Report provided to employer without your written authorization,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Improper use of your report,Reporting company used your report improperly,60
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Account information incorrect,173
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Account status incorrect,1708
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Information belongs to someone else,152
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Information is missing that should be on the report,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Old information reappears or never goes away,20
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Personal information incorrect,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Incorrect information on your report,Public record information inaccurate,6
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Add-on products and services,25
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Credit card company forcing arbitration,17
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Other problem,580
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Privacy issues,105
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Problem with balance transfer,75
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Problem with cash advances,14
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Problem with convenience check,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Problem with customer service,96
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,"Other features, terms, or problems",Problem with rewards from credit card,253
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem when making payments,Problem during payment process,564
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem when making payments,You never received your bill or did not know a payment was due,117
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,19
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,20
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,24
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,237
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,1484
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card,585
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement,1801
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card,93
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Problem with fraud alerts or security freezes,,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship,155
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Struggling to pay your bill,Filed for bankruptcy,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Struggling to pay your bill,Problem lowering your monthly payments,9
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Trouble using your card,Account sold or transferred to another company,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Trouble using your card,Can't use card to make purchases,281
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Trouble using your card,Credit card company won't increase or decrease your credit limit,108
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit card,Unable to get your credit report or credit score,Other problem getting your report or credit score,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Billing dispute for services,220
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,428
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,401
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Problem with product or service terms changing,107
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,40
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Getting a loan,,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Billing dispute for services,13
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Didn't receive services that were advertised,23
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Problem canceling credit monitoring or identify theft protection service,32
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Problem with product or service terms changing,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Received unwanted marketing or advertising,9
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Improper use of your report,Credit inquiries on your report that you don't recognize,43940
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,123
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Improper use of your report,Report provided to employer without your written authorization,866
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Improper use of your report,Reporting company used your report improperly,94669
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Account information incorrect,57648
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Account status incorrect,30180
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information belongs to someone else,173626
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information is incorrect,199
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information is missing that should be on the report,4084
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Information that should be on the report is missing,76
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Old information reappears or never goes away,3219
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Personal information incorrect,14551
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Incorrect information on your report,Public record information inaccurate,2895
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,"Other features, terms, or problems",Other problem,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Difficulty submitting a dispute or getting information about a dispute over the phone,38
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Investigation took more than 30 days,23
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Problem with personal statement of dispute,31
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Their investigation did not fix an error on your report,100
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Was not notified of investigation status or results,20
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,4379
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,31196
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,2130
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,48335
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,5116
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,,1196
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,Other problem getting your report or credit score,1306
+CCDB_Export_8_November_2024_through_December_2024.csv,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,Problem getting your free annual credit report,440
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Attempts to collect debt not owed,Debt is not yours,7748
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,343
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Attempts to collect debt not owed,Debt was paid,1175
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Attempts to collect debt not owed,Debt was result of identity theft,3774
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Communication tactics,Called before 8am or after 9pm,59
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Communication tactics,Frequent or repeated calls,597
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Communication tactics,"Used obscene, profane, or other abusive language",113
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Communication tactics,"You told them to stop contacting you, but they keep trying",432
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Electronic communications,Contacted before 8am or after 9pm,21
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Electronic communications,Frequent or repeated messages,264
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Electronic communications,"Used obscene, profane, or other abusive language",13
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Electronic communications,"You told them to stop contacting you, but they keep trying",153
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,False statements or representation,Attempted to collect wrong amount,6580
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,False statements or representation,"Impersonated attorney, law enforcement, or government official",133
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,False statements or representation,Indicated you were committing crime by not paying debt,140
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,False statements or representation,Told you not to respond to a lawsuit they filed against you,29
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted you after you asked them to stop,67
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted you instead of your attorney,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Threatened to contact someone or share information improperly,Contacted your employer,41
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,166
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,65
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Seized or attempted to seize your property,107
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,62
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,218
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,2079
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,71
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,259
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Took or threatened to take negative or legal action,Threatened to turn you in to immigration or deport you,6
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Written notification about debt,Didn't receive enough information to verify debt,2206
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Written notification about debt,Didn't receive notice of right to dispute,1458
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt collection,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,3498
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Charged upfront or unexpected fees,,181
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Confusing or misleading advertising or marketing,,88
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Confusing or missing disclosures,,66
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Didn't provide services promised,,235
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Problem with customer service,,61
+CCDB_Export_8_November_2024_through_December_2024.csv,Debt or credit management,Unauthorized withdrawals or charges,,51
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,,29
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,,63
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Fraud or scam,,1095
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Incorrect exchange rate,,5
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Lost or stolen money order,,26
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",,131
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Money was not available when promised,,309
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Other service problem,,136
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Other transaction problem,,587
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service","Overdraft, savings, or rewards features",,4
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Problem adding money,,15
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Problem with customer service,,80
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,,269
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,,307
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Unexpected or other fees,,54
+CCDB_Export_8_November_2024_through_December_2024.csv,"Money transfer, virtual currency, or money service",Wrong amount charged or received,,37
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Application denials,73
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Changes in loan terms during the application process,26
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Confusing or misleading advertising or marketing,43
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Delays in the application process,63
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Fees or costs during the application process,29
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Loan estimate or other related disclosures,28
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Negative impact of inaccurate appraisal,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Applying for a mortgage or refinancing an existing mortgage,Trying to communicate with the company to fix an issue with the application process,77
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Changes in loan terms during or after closing,53
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Closing disclosure or other related disclosures,56
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Delays with the closing process,45
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Fees or costs after closing,23
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Setting up an escrow account for taxes and insurance,6
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Closing on a mortgage,Trying to communicate with the company to fix an issue with the loan closing,60
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Credit monitoring or identity theft protection services,Billing dispute for services,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Improper use of your report,Credit inquiries on your report that you don't recognize,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Improper use of your report,Reporting company used your report improperly,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Account information incorrect,23
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Account status incorrect,44
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Information belongs to someone else,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Information is missing that should be on the report,6
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Old information reappears or never goes away,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Personal information incorrect,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Incorrect information on your report,Public record information inaccurate,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,12
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,22
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Struggling to pay mortgage,"An existing modification, forbearance plan, short sale, or other loss mitigation relief",113
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Struggling to pay mortgage,"Applying for or obtaining a modification, forbearance plan, short sale, or deed-in-lieu",176
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Struggling to pay mortgage,Foreclosure,178
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Struggling to pay mortgage,"Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure",299
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,"Escrow, taxes, or insurance",675
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Fees charged,109
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Interest rate,33
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Lien release,34
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Loan sold or transferred to another company,113
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Paying off the loan,89
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Payment process,374
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Private mortgage insurance (PMI),75
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Trouble during payment process,Trying to communicate with the company to fix an issue while managing or servicing your loan,484
+CCDB_Export_8_November_2024_through_December_2024.csv,Mortgage,Unable to get your credit report or credit score,Other problem getting your report or credit score,3
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer,,32
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account,,26
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,,390
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Confusing or misleading advertising or marketing,,7
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Confusing or missing disclosures,,7
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Credit limit changed,,4
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Billing dispute for services,5
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Didn't receive services that were advertised,2
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,3
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,,64
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,,127
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Credit inquiries on your report that you don't recognize,3
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Reporting company used your report improperly,19
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Account information incorrect,40
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Account status incorrect,41
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Information belongs to someone else,87
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Information is missing that should be on the report,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Old information reappears or never goes away,7
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Personal information incorrect,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Public record information inaccurate,2
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Issues with repayment,,12
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Loan payment wasn't credited to your account,,16
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Lost or stolen refund,,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Money was taken from your bank account on the wrong day or for the wrong amount,,15
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,,177
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,14
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Investigation took more than 30 days,4
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,15
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,5
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,,103
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with cash advance,,7
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with customer service,,2
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with fraud alerts or security freezes,,2
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,,126
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Problems receiving the advance,,6
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Property was sold,,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,,38
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,,158
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Unable to get your credit report or credit score,Problem getting your free annual credit report,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Unexpected fees,,5
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Vehicle was damaged or destroyed the vehicle,,5
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle,,13
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive money",,1
+CCDB_Export_8_November_2024_through_December_2024.csv,"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive the money",,13
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Advertising,Changes in terms from what was offered or advertised,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Advertising,Confusing or misleading advertising about the card,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem getting a card or closing an account,Don't want a card provided by your employer or the government,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem getting a card or closing an account,Trouble closing card,43
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem getting a card or closing an account,Trouble getting a working replacement card,27
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",61
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,149
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,59
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Problem with overdraft,Overdraft charges,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Problem adding money,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Problem using the card to withdraw money from an ATM,17
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Problem with a check written from your prepaid card account,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Problem with direct deposit,22
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Trouble getting information about the card,40
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Trouble using the card to pay a bill,26
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Trouble using the card to send money to another person,6
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Trouble using the card,Trouble using the card to spend money in a store or online,584
+CCDB_Export_8_November_2024_through_December_2024.csv,Prepaid card,Unexpected or other fees,,118
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Credit monitoring or identity theft protection services,Billing dispute for services,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Credit monitoring or identity theft protection services,Problem with product or service terms changing,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Co-signer,17
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Don't agree with the fees charged,220
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Keep getting calls about your loan,35
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Need information about your loan balance or loan terms,98
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Problem with customer service,199
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Received bad information about your loan,561
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Dealing with your lender or servicer,Trouble with how payments are being handled,475
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,Changes in terms mid-deal or after closing,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,Confusing or misleading advertising,14
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,Denied loan,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,High pressure sales tactics or recruiting,13
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,Issues with financial aid services,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Getting a loan,Loan opened without my consent or knowledge,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Improper use of your report,Credit inquiries on your report that you don't recognize,7
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Improper use of your report,Report provided to employer without your written authorization,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Improper use of your report,Reporting company used your report improperly,24
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Account information incorrect,49
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Account status incorrect,26
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Information belongs to someone else,10
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Information is missing that should be on the report,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Old information reappears or never goes away,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Personal information incorrect,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Incorrect information on your report,Public record information inaccurate,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue where my lender is my school,"Cannot graduate, receive diploma, or get transcript due to money owed",2
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue where my lender is my school,Issues with fees connected to the loan,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue with income share agreement,Billing or statement issues,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue with income share agreement,Dealing with provider of income share agreement,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue with income share agreement,Marketing or disclosure issues,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Issue with income share agreement,Payment issues,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,4
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Problem with fraud alerts or security freezes,,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,Bankruptcy,13
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,Can't get other flexible options for repaying your loan,68
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,Can't temporarily delay making payments,35
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,Problem lowering your monthly payments,36
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,"Problem with forgiveness, cancellation, or discharge",190
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Struggling to repay your loan,Problem with your payment plan,72
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Student loan,Unable to get your credit report or credit score,Problem getting your free annual credit report,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Billing dispute for services,9
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Credit monitoring or identity theft protection services,Problem with product or service terms changing,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Changes in terms mid-deal or after closing,30
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Confusing or misleading advertising or marketing,55
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Credit denial,103
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Did not receive car title,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,High-pressure sales tactics,17
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Loan opened without my consent or knowledge,88
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Problem with a trade-in,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Getting a loan or lease,Problem with signing the paperwork,22
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Improper use of your report,Credit inquiries on your report that you don't recognize,19
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Improper use of your report,Report provided to employer without your written authorization,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Improper use of your report,Reporting company used your report improperly,36
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Account information incorrect,60
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Account status incorrect,74
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Information belongs to someone else,28
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Information is missing that should be on the report,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Old information reappears or never goes away,9
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Personal information incorrect,2
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Incorrect information on your report,Public record information inaccurate,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Managing the loan or lease,Billing problem,322
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Managing the loan or lease,Loan sold or transferred to another company,61
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Managing the loan or lease,Problem with additional products or services purchased with the loan,111
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Managing the loan or lease,Problem with fees charged,110
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Managing the loan or lease,Problem with the interest rate,77
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,11
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Investigation took more than 30 days,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,33
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,5
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problem with fraud alerts or security freezes,,1
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,"Excess mileage, damage, or wear fees, or other problem after the lease is finished",20
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem extending the lease,3
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem related to refinancing,49
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem when attempting to purchase vehicle at the end of the lease,8
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle,25
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Problem with paying off the loan,86
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Termination fees or other problem when ending the lease early,15
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off,152
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Account reinstatement or redemption after repossession,77
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Company communicating payment assistance or payment extension options,22
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Company explaining amount owed,26
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Damage caused or loss of personal items in vehicle during the actual repossession,41
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Deficiency balance after repossession,52
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Lender trying to repossess or disable the vehicle,65
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Loan balance remaining after the vehicle is repossessed and sold,192
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Notice to repossess,57
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Repossession,Voluntary repossession,55
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Struggling to pay your loan,Denied request to lower payments,97
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Struggling to pay your loan,Problem after you declared or threatened to declare bankruptcy,16
+CCDB_Export_8_November_2024_through_December_2024.csv,Vehicle loan or lease,Unable to get your credit report or credit score,Other problem getting your report or credit score,6

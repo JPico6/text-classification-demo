@@ -1,0 +1,61 @@
+year,Issue,has_narrative,rows
+2024,"Advertising and marketing, including promotional offers",False,138
+2024,"Advertising and marketing, including promotional offers",True,282
+2024,Closing your account,False,329
+2024,Closing your account,True,456
+2024,Credit monitoring or identity theft protection services,False,18
+2024,Credit monitoring or identity theft protection services,True,13
+2024,Fees or interest,False,399
+2024,Fees or interest,True,697
+2024,Getting a credit card,False,875
+2024,Getting a credit card,True,700
+2024,Improper use of your report,False,63
+2024,Improper use of your report,True,43
+2024,Incorrect information on your report,False,1870
+2024,Incorrect information on your report,True,204
+2024,"Other features, terms, or problems",False,490
+2024,"Other features, terms, or problems",True,680
+2024,Problem when making payments,False,297
+2024,Problem when making payments,True,384
+2024,Problem with a company's investigation into an existing problem,False,1530
+2024,Problem with a company's investigation into an existing problem,True,254
+2024,Problem with a purchase shown on your statement,False,1006
+2024,Problem with a purchase shown on your statement,True,1473
+2024,Problem with fraud alerts or security freezes,False,3
+2024,Problem with fraud alerts or security freezes,True,7
+2024,Struggling to pay your bill,False,92
+2024,Struggling to pay your bill,True,80
+2024,Trouble using your card,False,149
+2024,Trouble using your card,True,250
+2024,Unable to get your credit report or credit score,False,6
+2024,Unable to get your credit report or credit score,True,4
+2025,"Advertising and marketing, including promotional offers",False,260
+2025,"Advertising and marketing, including promotional offers",True,322
+2025,Closing your account,False,558
+2025,Closing your account,True,570
+2025,Credit monitoring or identity theft protection services,False,15
+2025,Credit monitoring or identity theft protection services,True,8
+2025,Fees or interest,False,679
+2025,Fees or interest,True,837
+2025,Getting a credit card,False,1080
+2025,Getting a credit card,True,741
+2025,Improper use of your report,False,63
+2025,Improper use of your report,True,51
+2025,Incorrect information on your report,False,1038
+2025,Incorrect information on your report,True,475
+2025,"Other features, terms, or problems",False,702
+2025,"Other features, terms, or problems",True,814
+2025,Problem when making payments,False,408
+2025,Problem when making payments,True,335
+2025,Problem with a company's investigation into an existing problem,False,433
+2025,Problem with a company's investigation into an existing problem,True,194
+2025,Problem with a purchase shown on your statement,False,2215
+2025,Problem with a purchase shown on your statement,True,2060
+2025,Problem with fraud alerts or security freezes,False,10
+2025,Problem with fraud alerts or security freezes,True,7
+2025,Struggling to pay your bill,False,143
+2025,Struggling to pay your bill,True,101
+2025,Trouble using your card,False,273
+2025,Trouble using your card,True,317
+2025,Unable to get your credit report or credit score,False,7
+2025,Unable to get your credit report or credit score,True,4

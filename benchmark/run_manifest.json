@@ -1,0 +1,129 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.7.2",
+    "pandas": "3.0.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.10.8",
+    "threadpoolctl": "3.7.0"
+  },
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "C:\\Users\\15402\\PycharmProjects\\ccdb_demo\\.venv-benchmark\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll",
+      "version": "0.3.34.106.0",
+      "threading_layer": "pthreads",
+      "architecture": "Haswell"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "vcomp",
+      "filepath": "C:\\Users\\15402\\PycharmProjects\\ccdb_demo\\.venv-benchmark\\Lib\\site-packages\\sklearn\\.libs\\vcomp140.dll",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "C:\\Users\\15402\\PycharmProjects\\ccdb_demo\\.venv-benchmark\\Lib\\site-packages\\scipy.libs\\libscipy_openblas-197ee2fc9b4d071f7e048078cac74115.dll",
+      "version": "0.3.31.dev",
+      "threading_layer": "pthreads",
+      "architecture": "Haswell"
+    }
+  ],
+  "input_sha256": {
+    "cohort\\train.csv": "f8a5c15771ac30f4a682ac768fe9e35f1088574f37643c9ad2a0251b7be9429e",
+    "cohort\\validation.csv": "54be7a4dc8e9f26d13efd2da700a0f52fccaa269ae6e2f63f4c6dfe9108e255c",
+    "cohort\\manifest.json": "ddf8c6b35fa9d14133122a7e60d9db1713d43fbf184003c6812d680b48d12b1f"
+  },
+  "source_sha256": {
+    "run_validation_benchmark.py": "c3e0aad3efc65f5c4a41abddc27f8745be8692b28737d9ba9598ad05a26d9240",
+    "benchmark_text.py": "17af0f6d45b332b97fe4da606092dba794ff2cd352e3fe244cd8f7fee8d91256"
+  },
+  "elapsed_seconds": 124.67685759998858,
+  "test_accessed": false,
+  "selection": {
+    "macro_f1": 0.511130850870396,
+    "weighted_f1": 0.6278530454784994,
+    "accuracy": 0.6411873840445269,
+    "balanced_accuracy": 0.5117114041116355,
+    "experiment": "tfidf_df2_C1.0_balanced",
+    "id": "tfidf_df2_C1.0_balanced",
+    "min_df": 2,
+    "C": 1.0,
+    "class_weight": "balanced",
+    "feature_dim": 50174,
+    "tfidf_fit_seconds": 1.612999799894169,
+    "tfidf_validation_transform_seconds": 1.4962939999531955,
+    "fit_seconds": 4.739921200089157,
+    "validation_predict_seconds": 0.015419600065797567,
+    "iterations": 34,
+    "converged": true,
+    "warnings": [],
+    "train_matrix_nnz": 670481,
+    "validation_matrix_nnz": 710551
+  },
+  "train_label_counts": {
+    "Problem with a purchase shown on your statement": 682,
+    "Fees or interest": 328,
+    "Other features, terms, or problems": 322,
+    "Getting a credit card": 291,
+    "Closing your account": 211,
+    "Problem when making payments": 168,
+    "Advertising and marketing, including promotional offers": 129,
+    "Trouble using your card": 116,
+    "Incorrect information on your report": 94,
+    "Problem with a company's investigation into an existing problem": 46,
+    "Struggling to pay your bill": 37
+  },
+  "validation_label_counts": {
+    "Problem with a purchase shown on your statement": 782,
+    "Fees or interest": 359,
+    "Other features, terms, or problems": 350,
+    "Getting a credit card": 310,
+    "Closing your account": 232,
+    "Problem when making payments": 212,
+    "Advertising and marketing, including promotional offers": 151,
+    "Trouble using your card": 134,
+    "Incorrect information on your report": 84,
+    "Problem with a company's investigation into an existing problem": 46,
+    "Struggling to pay your bill": 35
+  },
+  "checks": {
+    "validation_does_not_change_vocabulary_or_idf": true,
+    "no_overlapping_dev_ids": true,
+    "pipeline_reload_predictions_identical": true,
+    "all_classes_present": true,
+    "cohort_files_and_manifest_unchanged": true
+  },
+  "all_environment_packages": {
+    "cloudpickle": "3.1.2",
+    "contourpy": "1.4.0",
+    "cycler": "0.12.1",
+    "fonttools": "4.66.1",
+    "joblib": "1.6.0",
+    "kiwisolver": "1.5.1",
+    "matplotlib": "3.10.8",
+    "numpy": "2.5.3",
+    "packaging": "26.3",
+    "pandas": "3.0.1",
+    "pillow": "12.3.0",
+    "pyparsing": "3.3.3",
+    "python-dateutil": "2.9.0.post0",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.18.1",
+    "six": "1.17.0",
+    "threadpoolctl": "3.7.0",
+    "tzdata": "2026.5"
+  }
+}

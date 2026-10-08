@@ -1,0 +1,19 @@
+{
+  "models": [
+    "tfidf_df2_C1.0_balanced",
+    "embedding_C4.0_balanced",
+    "fine-tuned best_epoch_8"
+  ],
+  "expected_test_rows": 6521,
+  "input": "Consumer complaint narrative only",
+  "no_fit_or_adaptation": true,
+  "bootstrap": {
+    "seed": 20261009,
+    "replicates": 10000,
+    "unit": "Complaint",
+    "sampling": "IID with replacement, N=6521 each replicate, paired indices across all models",
+    "interval": "Percentile 2.5th and 97.5th; fixed 11-label macro-F1; zero_division=0",
+    "stratified": false
+  },
+  "original_model_environments": true
+}

@@ -1,0 +1,276 @@
+experiment,Issue,rank,feature,coefficient,train_document_frequency,train_class_document_frequency
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",1,offer,2.8493474876255664,158,57
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",2,promotion,2.0293423033241673,69,36
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",3,bonus,1.7243203100240951,56,27
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",4,promotional,1.6007338311049502,75,30
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",5,misleading,1.2354180995533415,68,25
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",6,advertised,1.1704471315937035,48,17
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",7,approved,1.1669384988895883,132,25
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",8,the offer,1.105383493411086,42,22
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",9,offer .,1.0821909297227987,40,25
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",10,terms,1.0545627787019085,142,28
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",11,up,1.0164261164853168,544,53
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",12,spend,1.0098521803854725,53,22
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",13,%,0.969172985181409,173,25
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",14,advertising,0.9582643581379404,28,15
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",15,0,0.9417879347544678,50,14
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",16,0 %,0.927004160041731,48,13
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",17,the promotion,0.8775954091668904,35,18
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",18,up for,0.8751767901818266,64,19
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",19,signed up,0.8604886869115734,43,16
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",20,promotional offer,0.8372265676207465,25,17
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",21,spending,0.8337015498547998,66,21
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",22,first,0.8192040688308665,336,42
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",23,the first,0.8050415642480362,173,30
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",24,spend {,0.7987172681657932,17,13
+tfidf_df2_C1.0_balanced,"Advertising and marketing, including promotional offers",25,receive,0.7913241555960083,311,37
+tfidf_df2_C1.0_balanced,Closing your account,1,closed,3.804601834850818,499,154
+tfidf_df2_C1.0_balanced,Closing your account,2,closed my,1.9646368470529103,122,59
+tfidf_df2_C1.0_balanced,Closing your account,3,close,1.8202872263912937,226,68
+tfidf_df2_C1.0_balanced,Closing your account,4,account,1.7929468772505195,1367,183
+tfidf_df2_C1.0_balanced,Closing your account,5,to close,1.52012117069849,111,46
+tfidf_df2_C1.0_balanced,Closing your account,6,my account,1.4716185907987684,699,114
+tfidf_df2_C1.0_balanced,Closing your account,7,closure,1.4639166423287973,64,36
+tfidf_df2_C1.0_balanced,Closing your account,8,was closed,1.2082174098865395,136,46
+tfidf_df2_C1.0_balanced,Closing your account,9,account was,1.1961702791138389,233,63
+tfidf_df2_C1.0_balanced,Closing your account,10,close my,1.0886341948356624,58,29
+tfidf_df2_C1.0_balanced,Closing your account,11,reason,1.0481569203982615,238,54
+tfidf_df2_C1.0_balanced,Closing your account,12,closed .,0.9940234862249828,106,39
+tfidf_df2_C1.0_balanced,Closing your account,13,the account,0.9642796435048209,466,83
+tfidf_df2_C1.0_balanced,Closing your account,14,reopen,0.8866407863822122,61,21
+tfidf_df2_C1.0_balanced,Closing your account,15,account .,0.8004992538965667,498,71
+tfidf_df2_C1.0_balanced,Closing your account,16,accounts,0.7788174081880481,283,50
+tfidf_df2_C1.0_balanced,Closing your account,17,closing,0.752272508195026,82,30
+tfidf_df2_C1.0_balanced,Closing your account,18,cards,0.7436839931266104,256,42
+tfidf_df2_C1.0_balanced,Closing your account,19,card account,0.7436151941756153,158,32
+tfidf_df2_C1.0_balanced,Closing your account,20,without,0.7095332666611737,416,63
+tfidf_df2_C1.0_balanced,Closing your account,21,this account,0.6901012225818052,167,34
+tfidf_df2_C1.0_balanced,Closing your account,22,account closure,0.6748156817810834,28,17
+tfidf_df2_C1.0_balanced,Closing your account,23,my,0.6560276324106202,2134,198
+tfidf_df2_C1.0_balanced,Closing your account,24,of my,0.6360960398625117,489,71
+tfidf_df2_C1.0_balanced,Closing your account,25,reopen my,0.6267514441877923,22,13
+tfidf_df2_C1.0_balanced,Fees or interest,1,interest,3.672381985560948,413,189
+tfidf_df2_C1.0_balanced,Fees or interest,2,fee,2.9814132596325424,278,140
+tfidf_df2_C1.0_balanced,Fees or interest,3,fees,2.480888654537496,290,132
+tfidf_df2_C1.0_balanced,Fees or interest,4,charged,1.9573286955105833,483,155
+tfidf_df2_C1.0_balanced,Fees or interest,5,late,1.7596615265076379,374,132
+tfidf_df2_C1.0_balanced,Fees or interest,6,late fee,1.4348040712238517,107,65
+tfidf_df2_C1.0_balanced,Fees or interest,7,the interest,1.36212444861671,96,60
+tfidf_df2_C1.0_balanced,Fees or interest,8,late fees,1.2278035313466122,126,66
+tfidf_df2_C1.0_balanced,Fees or interest,9,charge,1.1845524254625188,552,123
+tfidf_df2_C1.0_balanced,Fees or interest,10,rate,1.1310658454816813,105,48
+tfidf_df2_C1.0_balanced,Fees or interest,11,%,1.0489257733319106,173,61
+tfidf_df2_C1.0_balanced,Fees or interest,12,balance,1.0181531681420841,542,139
+tfidf_df2_C1.0_balanced,Fees or interest,13,fee .,1.0030856135046182,102,56
+tfidf_df2_C1.0_balanced,Fees or interest,14,charging,0.95627432458532,113,49
+tfidf_df2_C1.0_balanced,Fees or interest,15,interest charge,0.9521940521685761,51,38
+tfidf_df2_C1.0_balanced,Fees or interest,16,paid,0.9353402864153973,530,138
+tfidf_df2_C1.0_balanced,Fees or interest,17,interest .,0.9033060018291833,85,45
+tfidf_df2_C1.0_balanced,Fees or interest,18,$,0.8971575020798861,1173,201
+tfidf_df2_C1.0_balanced,Fees or interest,19,charges,0.8633518314822748,447,98
+tfidf_df2_C1.0_balanced,Fees or interest,20,interest rate,0.8606269252413769,66,33
+tfidf_df2_C1.0_balanced,Fees or interest,21,{ $,0.8577246979363323,1143,196
+tfidf_df2_C1.0_balanced,Fees or interest,22,interest charges,0.8568248483525568,57,36
+tfidf_df2_C1.0_balanced,Fees or interest,23,{,0.8489048748405413,1145,196
+tfidf_df2_C1.0_balanced,Fees or interest,24,},0.8429895620466278,1147,196
+tfidf_df2_C1.0_balanced,Fees or interest,25,month,0.8388088887964077,311,90
+tfidf_df2_C1.0_balanced,Getting a credit card,1,application,2.198258737052713,149,73
+tfidf_df2_C1.0_balanced,Getting a credit card,2,applied for,1.7550096147426026,148,71
+tfidf_df2_C1.0_balanced,Getting a credit card,3,opened,1.650813663839524,280,77
+tfidf_df2_C1.0_balanced,Getting a credit card,4,my name,1.56894678227865,150,65
+tfidf_df2_C1.0_balanced,Getting a credit card,5,applied,1.4551918138451783,255,77
+tfidf_df2_C1.0_balanced,Getting a credit card,6,name,1.400861198428431,277,80
+tfidf_df2_C1.0_balanced,Getting a credit card,7,report,1.2626750016389077,434,107
+tfidf_df2_C1.0_balanced,Getting a credit card,8,open,1.2340239789728713,199,55
+tfidf_df2_C1.0_balanced,Getting a credit card,9,credit,1.1367148179424509,1721,241
+tfidf_df2_C1.0_balanced,Getting a credit card,10,knowledge,1.1136192173558723,82,27
+tfidf_df2_C1.0_balanced,Getting a credit card,11,name .,1.0874872504950843,49,29
+tfidf_df2_C1.0_balanced,Getting a credit card,12,credit report,1.08550376001257,232,75
+tfidf_df2_C1.0_balanced,Getting a credit card,13,a credit,1.0682772258507063,293,67
+tfidf_df2_C1.0_balanced,Getting a credit card,14,without my,1.0545509945449525,109,35
+tfidf_df2_C1.0_balanced,Getting a credit card,15,denial,1.0291839379123007,72,34
+tfidf_df2_C1.0_balanced,Getting a credit card,16,inquiries,0.9647565718438108,33,18
+tfidf_df2_C1.0_balanced,Getting a credit card,17,for a,0.9423881628419908,494,76
+tfidf_df2_C1.0_balanced,Getting a credit card,18,denied,0.9076674774156417,243,56
+tfidf_df2_C1.0_balanced,Getting a credit card,19,fraudulent,0.8422166385354103,297,52
+tfidf_df2_C1.0_balanced,Getting a credit card,20,to open,0.8176452896456529,55,24
+tfidf_df2_C1.0_balanced,Getting a credit card,21,apply,0.7924208648349838,128,36
+tfidf_df2_C1.0_balanced,Getting a credit card,22,inquiry,0.7920510792809357,60,25
+tfidf_df2_C1.0_balanced,Getting a credit card,23,i did,0.7838260643478862,489,64
+tfidf_df2_C1.0_balanced,Getting a credit card,24,my application,0.7754407849939009,54,32
+tfidf_df2_C1.0_balanced,Getting a credit card,25,identity,0.7708564451469266,123,44
+tfidf_df2_C1.0_balanced,Incorrect information on your report,1,report,2.2358172190906966,434,49
+tfidf_df2_C1.0_balanced,Incorrect information on your report,2,credit report,1.7897903327546194,232,37
+tfidf_df2_C1.0_balanced,Incorrect information on your report,3,reported,1.597866245918993,218,28
+tfidf_df2_C1.0_balanced,Incorrect information on your report,4,on my,1.5206976241966033,728,47
+tfidf_df2_C1.0_balanced,Incorrect information on your report,5,off,1.3169569386477016,387,31
+tfidf_df2_C1.0_balanced,Incorrect information on your report,6,my credit,1.1813914622456643,825,59
+tfidf_df2_C1.0_balanced,Incorrect information on your report,7,1099,1.1602074822381163,34,12
+tfidf_df2_C1.0_balanced,Incorrect information on your report,8,removed,1.038153343744821,185,23
+tfidf_df2_C1.0_balanced,Incorrect information on your report,9,this account,1.0233189945573136,167,18
+tfidf_df2_C1.0_balanced,Incorrect information on your report,10,late,0.9866680569483355,374,20
+tfidf_df2_C1.0_balanced,Incorrect information on your report,11,company wrote,0.9273470825507758,5,5
+tfidf_df2_C1.0_balanced,Incorrect information on your report,12,theft .,0.926649938524487,35,7
+tfidf_df2_C1.0_balanced,Incorrect information on your report,13,was reported,0.9032741247279528,14,6
+tfidf_df2_C1.0_balanced,Incorrect information on your report,14,reporting,0.8976728495962145,165,22
+tfidf_df2_C1.0_balanced,Incorrect information on your report,15,late payment,0.8884288224132674,77,10
+tfidf_df2_C1.0_balanced,Incorrect information on your report,16,c,0.8709802956679756,105,16
+tfidf_df2_C1.0_balanced,Incorrect information on your report,17,listed,0.859551364641795,107,16
+tfidf_df2_C1.0_balanced,Incorrect information on your report,18,account number,0.8477859654044604,96,11
+tfidf_df2_C1.0_balanced,Incorrect information on your report,19,is,0.8449505035578021,1541,62
+tfidf_df2_C1.0_balanced,Incorrect information on your report,20,identity theft,0.830961059143886,69,10
+tfidf_df2_C1.0_balanced,Incorrect information on your report,21,negative,0.8230948835803593,75,9
+tfidf_df2_C1.0_balanced,Incorrect information on your report,22,a tax,0.8226663256962172,7,5
+tfidf_df2_C1.0_balanced,Incorrect information on your report,23,not me,0.8172013122727813,20,3
+tfidf_df2_C1.0_balanced,Incorrect information on your report,24,report .,0.8166193173309965,120,18
+tfidf_df2_C1.0_balanced,Incorrect information on your report,25,score,0.8148558990497647,190,16
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",1,rewards,1.6917422833274736,93,49
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",2,points,1.1469747357122106,112,41
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",3,check,0.7876284632712675,179,46
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",4,issue,0.7152986192572302,498,91
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",5,transfer,0.6544194786437245,107,27
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",6,reward,0.6497612657917319,25,18
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",7,the rewards,0.6236800613250225,19,18
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",8,cash,0.6121586674709443,120,32
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",9,my rewards,0.5608105783381766,21,16
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",10,rewards .,0.5544306886391446,18,15
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",11,refund,0.5442169007198541,292,39
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",12,problem,0.5167781998652237,143,34
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",13,to my,0.5152455639202717,543,90
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",14,pnc,0.5096218741834523,10,5
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",15,xxxx points,0.5034562485000922,56,19
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",16,i have,0.4847035256283374,1123,160
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",17,the issue,0.46728220034949813,200,45
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",18,issue .,0.4662434198247428,141,34
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",19,bonus,0.4604595335918842,56,19
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",20,the,0.4330166067667033,2225,305
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",21,this issue,0.43105670110909117,170,37
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",22,balance transfer,0.4267096175603702,47,15
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",23,the problem,0.42443308052451134,70,20
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",24,statement,0.4200000003264325,348,53
+tfidf_df2_C1.0_balanced,"Other features, terms, or problems",25,to redeem,0.4133613359879779,13,11
+tfidf_df2_C1.0_balanced,Problem when making payments,1,payment,3.4538030283046033,682,134
+tfidf_df2_C1.0_balanced,Problem when making payments,2,payments,2.07609987229134,440,91
+tfidf_df2_C1.0_balanced,Problem when making payments,3,a payment,1.7179287751857066,226,60
+tfidf_df2_C1.0_balanced,Problem when making payments,4,the payment,1.376189161610136,210,57
+tfidf_df2_C1.0_balanced,Problem when making payments,5,to make,1.1941735447822803,258,52
+tfidf_df2_C1.0_balanced,Problem when making payments,6,make,1.1922785989691616,434,67
+tfidf_df2_C1.0_balanced,Problem when making payments,7,my payment,1.1831508132571147,117,42
+tfidf_df2_C1.0_balanced,Problem when making payments,8,pay,1.1332475750152893,551,75
+tfidf_df2_C1.0_balanced,Problem when making payments,9,to pay,1.0417089098202896,355,56
+tfidf_df2_C1.0_balanced,Problem when making payments,10,my bank,0.9978997864986241,140,30
+tfidf_df2_C1.0_balanced,Problem when making payments,11,online,0.9548747347474406,261,38
+tfidf_df2_C1.0_balanced,Problem when making payments,12,bank,0.931102571051773,800,84
+tfidf_df2_C1.0_balanced,Problem when making payments,13,payment on,0.9288515459785108,91,29
+tfidf_df2_C1.0_balanced,Problem when making payments,14,late,0.9234366380777751,374,60
+tfidf_df2_C1.0_balanced,Problem when making payments,15,account,0.9068885944701057,1367,135
+tfidf_df2_C1.0_balanced,Problem when making payments,16,auto,0.8863735081105599,55,19
+tfidf_df2_C1.0_balanced,Problem when making payments,17,make a,0.8859436562459748,99,27
+tfidf_df2_C1.0_balanced,Problem when making payments,18,bank account,0.8398604007903342,82,22
+tfidf_df2_C1.0_balanced,Problem when making payments,19,check,0.8334465708579318,179,27
+tfidf_df2_C1.0_balanced,Problem when making payments,20,my account,0.8206291268967795,699,78
+tfidf_df2_C1.0_balanced,Problem when making payments,21,payment .,0.7940447683018017,162,41
+tfidf_df2_C1.0_balanced,Problem when making payments,22,set,0.7864442250588952,116,28
+tfidf_df2_C1.0_balanced,Problem when making payments,23,autopay,0.7777928090208,39,12
+tfidf_df2_C1.0_balanced,Problem when making payments,24,due,0.7304669680518662,582,77
+tfidf_df2_C1.0_balanced,Problem when making payments,25,late fees,0.7118904811101113,126,26
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,1,reporting,1.0853041774059908,165,15
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,2,1666 b,1.054808968422547,9,5
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,3,understand,1.0038975733112223,126,8
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,4,my report,0.9777183676233677,25,4
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,5,late,0.9640579001450342,374,17
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,6,usc 1666,0.9589923530237116,16,5
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,7,late payment,0.9164338921060429,77,9
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,8,as late,0.9019014401138129,17,5
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,9,information,0.8659226903048756,612,19
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,10,yet to,0.8529101478645414,37,3
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,11,1666,0.8315600061551415,24,5
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,12,target,0.8252233715450645,15,3
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,13,the documents,0.8085972256506238,35,2
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,14,the debt,0.7977860860312548,55,8
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,15,always pay,0.7818572710203854,17,4
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,16,account should,0.7716538516793301,10,4
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,17,a consumer,0.7683877050659691,62,6
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,18,report,0.7610140116910931,434,14
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,19,my letter,0.7549821631351386,14,5
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,20,b,0.748868407579482,62,7
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,21,debt,0.7448718375924244,141,10
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,22,is yet,0.7445077029357906,2,1
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,23,. certified,0.7408426124184447,2,1
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,24,delinquency,0.7322919794784768,14,4
+tfidf_df2_C1.0_balanced,Problem with a company's investigation into an existing problem,25,be fixed,0.7225241503185118,4,3
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,1,dispute,2.6046803226522752,475,348
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,2,charges,1.9414909683729913,447,244
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,3,charge,1.6570015111575833,552,288
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,4,merchant,1.642680294331276,174,152
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,5,the merchant,1.4053694398904188,142,132
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,6,refund,1.3571979680686852,292,188
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,7,the dispute,1.168975778968353,166,149
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,8,fraudulent,1.1598024162466312,297,167
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,9,the charge,1.0740479327168917,182,141
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,10,transaction,1.003647368212791,271,158
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,11,the charges,0.997576886265798,133,106
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,12,disputed,0.9633959429946484,178,136
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,13,were,0.9217151712710537,670,281
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,14,from xxxx,0.9192066495707718,296,175
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,15,xxxx xxxx,0.8944396788772071,1216,439
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,16,claim,0.8893799081280265,270,153
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,17,fraud,0.8793492586324901,405,190
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,18,my dispute,0.8791039028164339,109,99
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,19,evidence,0.858762562206936,145,105
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,20,a dispute,0.8553121496598421,160,125
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,21,a refund,0.831768142423756,138,103
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,22,transactions,0.8273777070482308,200,106
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,23,provided,0.8256553122915662,416,206
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,24,unauthorized,0.8104129943293387,128,88
+tfidf_df2_C1.0_balanced,Problem with a purchase shown on your statement,25,fraudulent charges,0.8099899855824985,74,66
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,1,hardship,2.627587766743453,53,14
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,2,settlement,1.4536475393373822,17,6
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,3,financial,1.3744987348772708,268,15
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,4,financial hardship,1.3629334459102647,25,8
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,5,plan,1.2124845999068532,54,8
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,6,to negotiate,1.1953216561711775,6,5
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,7,payment plan,1.1866527443368677,15,7
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,8,negotiate,1.1656498965662332,7,5
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,9,declared disaster,1.1611544987291091,2,2
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,10,disaster,1.120885427304328,9,3
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,11,very high,1.0979625542219604,3,2
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,12,calls,1.0932550050196546,141,8
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,13,don't,1.0305414403882491,159,8
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,14,debt,1.027473389499287,141,11
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,15,job,1.0099698146423297,37,6
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,16,declared,1.0044323605257772,7,2
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,17,hardship and,0.9827878670802708,13,3
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,18,continental,0.9717926237587833,3,2
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,19,i don't,0.9708077041956509,102,8
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,20,hardship program,0.9664708005703625,9,5
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,21,a victim,0.9429351918703784,32,2
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,22,work,0.929089244798803,128,11
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,23,afford,0.9200566402698407,26,6
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,24,a settlement,0.9071246734270302,9,5
+tfidf_df2_C1.0_balanced,Struggling to pay your bill,25,a job,0.898343330060109,7,3
+tfidf_df2_C1.0_balanced,Trouble using your card,1,limit,2.2752438133004724,163,35
+tfidf_df2_C1.0_balanced,Trouble using your card,2,credit limit,1.8645917797426306,101,28
+tfidf_df2_C1.0_balanced,Trouble using your card,3,blocked,1.3271080209200372,48,13
+tfidf_df2_C1.0_balanced,Trouble using your card,4,card,1.2912029980734836,1627,95
+tfidf_df2_C1.0_balanced,Trouble using your card,5,use,1.273786406911848,329,42
+tfidf_df2_C1.0_balanced,Trouble using your card,6,declined,1.148841945355073,106,20
+tfidf_df2_C1.0_balanced,Trouble using your card,7,my card,1.1193034292645891,265,29
+tfidf_df2_C1.0_balanced,Trouble using your card,8,locked,1.0682523645039452,47,13
+tfidf_df2_C1.0_balanced,Trouble using your card,9,to use,0.9205250183131027,143,24
+tfidf_df2_C1.0_balanced,Trouble using your card,10,the card,0.8731885213409668,416,36
+tfidf_df2_C1.0_balanced,Trouble using your card,11,limit .,0.8561256735375996,46,15
+tfidf_df2_C1.0_balanced,Trouble using your card,12,my credit,0.8268656683544425,825,55
+tfidf_df2_C1.0_balanced,Trouble using your card,13,use my,0.8061674857397486,63,16
+tfidf_df2_C1.0_balanced,Trouble using your card,14,available,0.7812942778174494,162,18
+tfidf_df2_C1.0_balanced,Trouble using your card,15,to clear,0.7720868387554749,15,5
+tfidf_df2_C1.0_balanced,Trouble using your card,16,restricted,0.7719641848569707,25,6
+tfidf_df2_C1.0_balanced,Trouble using your card,17,!,0.7531675521753947,203,18
+tfidf_df2_C1.0_balanced,Trouble using your card,18,credit card,0.7276233019931443,1129,62
+tfidf_df2_C1.0_balanced,Trouble using your card,19,verify my,0.6910573059879676,37,12
+tfidf_df2_C1.0_balanced,Trouble using your card,20,verify,0.6735550234875871,113,16
+tfidf_df2_C1.0_balanced,Trouble using your card,21,card is,0.6690600480515466,70,12
+tfidf_df2_C1.0_balanced,Trouble using your card,22,license,0.6682699701774344,41,10
+tfidf_df2_C1.0_balanced,Trouble using your card,23,bank,0.6641211785546643,800,53
+tfidf_df2_C1.0_balanced,Trouble using your card,24,complaints,0.641313922553496,59,8
+tfidf_df2_C1.0_balanced,Trouble using your card,25,reduced,0.6370703781955795,36,11
