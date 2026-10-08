@@ -8,12 +8,21 @@ benchmark/mpl-cache/
 embedding_benchmark/mpl-cache/
 .venv-finetune/
 finetune_benchmark/mpl-cache/
+**/mpl-cache/
 
 # Raw CFPB data
 CCDB_Export_*.csv
 
 # Derived cohort data containing complaint narratives
 cohort/*.csv
+# Keep narrative-free aggregate cohort summaries public.
+!cohort/counts_overall.csv
+!cohort/counts_by_issue.csv
+!cohort/stage_counts.csv
+
+# Local manual review contains full narratives or excerpts.
+cohort/manual_review.html
+benchmark/shortcut_training_contexts.csv
 
 # Trained model artifacts
 *.joblib

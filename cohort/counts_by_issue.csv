@@ -1,0 +1,34 @@
+split,Issue,before_duplicates,kept,removed_duplicate_exact,removed_duplicate_normalized,removed_duplicate_near,quarantined_conflict_exact,quarantined_conflict_normalized,quarantined_conflict_near,removed_duplicate,quarantined_conflict
+train,"Advertising and marketing, including promotional offers",131,129,0,0,1,0,0,1,1,1
+train,Closing your account,218,211,0,4,1,0,0,2,5,2
+train,Fees or interest,337,328,6,0,2,0,0,1,8,1
+train,Getting a credit card,330,291,34,1,4,0,0,0,39,0
+train,Incorrect information on your report,108,94,1,0,7,5,1,0,8,6
+train,"Other features, terms, or problems",323,322,1,0,0,0,0,0,1,0
+train,Problem when making payments,168,168,0,0,0,0,0,0,0,0
+train,Problem with a company's investigation into an existing problem,142,46,6,3,3,82,1,1,12,84
+train,Problem with a purchase shown on your statement,683,682,1,0,0,0,0,0,1,0
+train,Struggling to pay your bill,43,37,3,0,0,0,0,3,3,3
+train,Trouble using your card,116,116,0,0,0,0,0,0,0,0
+validation,"Advertising and marketing, including promotional offers",151,151,0,0,0,0,0,0,0,0
+validation,Closing your account,238,232,2,0,2,0,0,2,4,2
+validation,Fees or interest,360,359,0,0,0,0,0,1,0,1
+validation,Getting a credit card,370,310,47,2,7,0,0,4,56,4
+validation,Incorrect information on your report,96,84,0,0,7,0,0,5,7,5
+validation,"Other features, terms, or problems",357,350,0,0,6,0,1,0,6,1
+validation,Problem when making payments,216,212,3,0,0,0,0,1,3,1
+validation,Problem with a company's investigation into an existing problem,112,46,26,2,2,36,0,0,30,36
+validation,Problem with a purchase shown on your statement,790,782,2,0,5,0,0,1,7,1
+validation,Struggling to pay your bill,37,35,0,1,0,0,1,0,1,1
+validation,Trouble using your card,134,134,0,0,0,0,0,0,0,0
+test,"Advertising and marketing, including promotional offers",322,321,0,0,1,0,0,0,1,0
+test,Closing your account,570,565,2,0,3,0,0,0,5,0
+test,Fees or interest,837,836,0,0,1,0,0,0,1,0
+test,Getting a credit card,741,667,59,3,11,0,0,1,73,1
+test,Incorrect information on your report,475,336,116,2,19,0,0,2,137,2
+test,"Other features, terms, or problems",814,810,1,0,2,0,0,1,3,1
+test,Problem when making payments,335,333,0,0,1,0,0,1,1,1
+test,Problem with a company's investigation into an existing problem,194,185,8,0,0,0,0,1,8,1
+test,Problem with a purchase shown on your statement,2060,2054,1,0,5,0,0,0,6,0
+test,Struggling to pay your bill,101,99,0,0,2,0,0,0,2,0
+test,Trouble using your card,317,315,0,0,1,0,0,1,1,1

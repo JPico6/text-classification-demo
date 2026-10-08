@@ -1,0 +1,4 @@
+split,before_duplicates,kept,removed_duplicate_exact,removed_duplicate_normalized,removed_duplicate_near,quarantined_conflict_exact,quarantined_conflict_normalized,quarantined_conflict_near,removed_duplicate,quarantined_conflict
+train,2599,2424,52,8,18,87,2,8,78,97
+validation,2861,2695,80,5,29,36,2,14,114,52
+test,6766,6521,187,5,46,0,0,7,238,7

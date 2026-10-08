@@ -1,0 +1,10 @@
+stage,split,eligible,kept,removed_duplicate,quarantined_conflict
+exact,train,2599,2458,54,87
+exact,validation,2861,2743,82,36
+exact,test,6766,6573,193,0
+normalized,train,2599,2450,60,89
+normalized,validation,2861,2734,89,38
+normalized,test,6766,6569,197,0
+near,train,2599,2424,78,97
+near,validation,2861,2695,114,52
+near,test,6766,6521,238,7
