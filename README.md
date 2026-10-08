@@ -177,3 +177,8 @@ The saved results can be read without downloading data or loading models. See [d
 **Data-access caveat:** CFPB announced cessation of narrative publication on August 14, 2026; its September 2026 API release notes confirm removal from the database. The announcement directs previously published narratives to its FOIA Reading Room. See the [official announcement](https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/) and [release notes](https://cfpb.github.io/api/ccdb/release-notes.html). An exact historical export cannot be promised from today's database. This repository makes that reproducibility gap explicit rather than silently substituting a changed dataset.
 
 Publication cleanup and local-only review artifacts are listed in [docs/PUBLICATION_REVIEW.md](docs/PUBLICATION_REVIEW.md).
+
+
+
+## Development note 
+Code implementation and testing were performed with assistance from OpenAI Codex. Experimental design, modeling decisions, evaluation criteria, and interpretation were directed and reviewed by the author.

@@ -1,0 +1,20 @@
+{
+  "change": "User-requested caption replacement",
+  "note": "Whiskers show 95% bootstrap intervals for 2025 test performance",
+  "input_sha256": {
+    "aggregate_metrics.csv": "125569f12a135e19f7fa8b41fb91cf7035a69b61ac0db5f524e8a041f20d860a",
+    "macro_f1_bootstrap_intervals.csv": "cf3e7d0a2cd108c1552a6bd245091fcd95215cd8f9b515f9a6071ef4bba392ab"
+  },
+  "previous_figure_sha256": {
+    "png": "64814f142068acc750d921b40ac9060d956890a2eeb7cfc7ab5cfe7f699e7c7b",
+    "svg": "09a13769b0b687b8ecc6d1b1d9369c4cf0e59b8aaa5e656c4db0766fcdb84d6b",
+    "pdf": "172531fbb3cbbf0adb8d45b8445b2e24d6e136f12483818656fcf0984d3a14e6"
+  },
+  "figure_sha256": {
+    "png": "10bc88a54ab3cfbfc80e8bc49f61feb0f56be1a66864e59a34f37f22c39d17dd",
+    "svg": "71241837abc850f5a343d6914dd3defab2568f40aa8f7a8eb3532a04bbbba5c3",
+    "pdf": "dd1969808c974122fbc1884c28778f636ca07622a43f25ea390b589b4a1e3071"
+  },
+  "metrics_and_intervals_unchanged": true,
+  "inference_or_bootstrap_performed": false
+}

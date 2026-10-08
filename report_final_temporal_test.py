@@ -116,7 +116,7 @@ def main():
     ax.set(xticks=x,xticklabels=list(NAMES.values()),ylabel='Macro-F1',ylim=(0,max(val.max(),test.max())+.11),
            title='Frozen models on a later complaint cohort')
     ax.legend(loc='upper right',fontsize=9);ax.grid(axis='y',alpha=.15);ax.set_axisbelow(True)
-    fig.text(.5,.01,'Test whiskers: 95% paired complaint-bootstrap percentile intervals',ha='center',fontsize=8)
+    fig.text(.5,.01,'Whiskers show 95% bootstrap intervals for 2025 test performance',ha='center',fontsize=8)
     fig.tight_layout(rect=(0,.03,1,1));savefig(fig,'model_macro_f1_validation_test')
     fig,ax=plt.subplots(figsize=(9,6));ypos=np.arange(k)
     for j,(mode,name) in enumerate(NAMES.items()):
